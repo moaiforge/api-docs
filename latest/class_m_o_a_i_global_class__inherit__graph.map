@@ -1,0 +1,6 @@
+<map id="MOAIGlobalClass&lt; TYPE, SUPER &gt;" name="MOAIGlobalClass&lt; TYPE, SUPER &gt;">
+<area shape="rect" id="node2" href="$class_m_o_a_i_game_center_i_o_s.html" title="Wrapper for iOS GameCenter functionality. " alt="" coords="5,95,164,121"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_mobile_app_tracker_i_o_s.html" title="Wrapper for WebAppTracker interface. " alt="" coords="188,95,379,121"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_movie_player_i_o_s.html" title="Wrapper for simple video playback. Exposed to Lua via MOAIMoviePlayer on all mobile platforms..." alt="" coords="403,95,556,121"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_tapjoy_i_o_s.html" title="Wrapper for Tapjoy integration on iOS devices. Tapjoy provides a turnkey advertising platform that de..." alt="" coords="580,95,699,121"/>
+</map>

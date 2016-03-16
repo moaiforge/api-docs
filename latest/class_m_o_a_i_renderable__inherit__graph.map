@@ -1,0 +1,8 @@
+<map id="MOAIRenderable" name="MOAIRenderable">
+<area shape="rect" id="node2" href="$class_m_o_a_i_box2_d_world.html" title="Box2D world. " alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_graphics_prop.html" title="Base class for graphics props. " alt="" coords="161,80,301,107"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_graphics_prop2_d.html" title="2D prop. " alt="" coords="325,80,484,107"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_layer.html" title="Scene controls class. " alt="" coords="41,155,131,181"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_particle_system.html" title="Particle system. " alt="" coords="156,155,307,181"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_text_label.html" title="MOAITextLabel" alt="" coords="331,155,447,181"/>
+</map>

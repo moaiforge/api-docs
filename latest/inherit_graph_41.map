@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAINotifications\lIOS, MOAILuaObject \&gt;" alt="" coords="5,5,261,47"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_notifications_i_o_s.html" title="Wrapper for push notification integration on iOS devices. Exposed to Lua via MOAINotifications on all..." alt="" coords="309,13,465,39"/>
+</map>

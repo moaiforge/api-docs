@@ -1,0 +1,3 @@
+<map id="MOAIImage" name="MOAIImage">
+<area shape="rect" id="node2" href="$class_m_o_a_i_image_texture.html" title="Binds an image (CPU memory) to a texture (GPU memory). Regions of the texture (or the entire texture)..." alt="" coords="5,80,148,107"/>
+</map>

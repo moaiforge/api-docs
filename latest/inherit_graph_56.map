@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="Base class for Moai singletons. " alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_game_center_i_o_s.html" title="Wrapper for iOS GameCenter functionality. " alt="" coords="248,5,407,32"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_mobile_app_tracker_i_o_s.html" title="Wrapper for WebAppTracker interface. " alt="" coords="232,56,423,83"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_movie_player_i_o_s.html" title="Wrapper for simple video playback. Exposed to Lua via MOAIMoviePlayer on all mobile platforms..." alt="" coords="251,107,404,133"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_tapjoy_i_o_s.html" title="Wrapper for Tapjoy integration on iOS devices. Tapjoy provides a turnkey advertising platform that de..." alt="" coords="268,157,387,184"/>
+</map>

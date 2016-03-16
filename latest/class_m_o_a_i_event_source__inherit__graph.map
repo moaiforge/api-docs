@@ -1,0 +1,50 @@
+<map id="MOAIEventSource" name="MOAIEventSource">
+<area shape="rect" id="node2" href="$class_m_o_a_i_global_event_source.html" title="Derivation of MOAIEventSource for global Lua objects. " alt="" coords="197,373,373,399"/>
+<area shape="rect" id="node21" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="189,974,380,1001"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIAdColony\lAndroid, MOAIGlobalEventSource \&gt;" alt="" coords="447,593,695,635"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIApp\lAndroid, MOAIGlobalEventSource \&gt;" alt="" coords="447,659,695,700"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIChart\lBoostAndroid, MOAIGlobalEventSource \&gt;" alt="" coords="428,5,713,47"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIEnvironment,\l MOAIGlobalEventSource \&gt;" alt="" coords="439,71,702,112"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIFacebook\lAndroid, MOAIGlobalEventSource \&gt;" alt="" coords="447,136,695,177"/>
+<area shape="rect" id="node11" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIGfx\lDevice, MOAIGlobalEventSource \&gt;" alt="" coords="449,201,692,243"/>
+<area shape="rect" id="node13" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIKeyboard\lAndroid, MOAIGlobalEventSource \&gt;" alt="" coords="447,267,695,308"/>
+<area shape="rect" id="node15" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIKeyboard\lIOS, MOAIGlobalEventSource \&gt;" alt="" coords="452,332,689,373"/>
+<area shape="rect" id="node17" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAISim,\l MOAIGlobalEventSource \&gt;" alt="" coords="467,397,674,439"/>
+<area shape="rect" id="node19" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAITapjoy\lAndroid, MOAIGlobalEventSource \&gt;" alt="" coords="447,463,695,504"/>
+<area shape="rect" id="node20" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIVungle\lAndroid, MOAIGlobalEventSource \&gt;" alt="" coords="447,528,695,569"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_app_android.html" title="Wrapper for base application class on Android devices. Exposed to Lua via MOAIApp on all mobile platf..." alt="" coords="781,569,911,595"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_environment.html" title="MOAIEnvironment" alt="" coords="778,78,914,105"/>
+<area shape="rect" id="node10" href="$class_m_o_a_i_facebook_android.html" title="Wrapper for Facebook integration on Android devices. Facebook provides social integration for sharing..." alt="" coords="763,143,929,170"/>
+<area shape="rect" id="node12" href="$class_m_o_a_i_gfx_device.html" title="Interface to the graphics singleton. " alt="" coords="787,209,905,235"/>
+<area shape="rect" id="node14" href="$class_m_o_a_i_keyboard_android.html" title="MOAIKeyboardAndroid" alt="" coords="764,274,928,301"/>
+<area shape="rect" id="node16" href="$class_m_o_a_i_keyboard_i_o_s.html" title="MOAIKeyboardIOS" alt="" coords="777,339,915,366"/>
+<area shape="rect" id="node18" href="$class_m_o_a_i_sim.html" title="Sim timing and settings class. " alt="" coords="806,405,886,431"/>
+<area shape="rect" id="node22" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="523,822,618,849"/>
+<area shape="rect" id="node35" href="$class_m_o_a_i_font.html" title="MOAIFont" alt="" coords="529,1151,612,1178"/>
+<area shape="rect" id="node36" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="526,1101,615,1127"/>
+<area shape="rect" id="node23" href="$class_m_o_a_i_action_tree.html" title="Tree of MOAIAction objects. Formerly a singleton; not yet ready for general purpose use..." alt="" coords="785,822,907,849"/>
+<area shape="rect" id="node24" href="$class_m_o_a_i_box2_d_world.html" title="Box2D world. " alt="" coords="780,619,912,646"/>
+<area shape="rect" id="node25" href="$class_m_o_a_i_camera_fitter2_d.html" title="Action to dynamically fit a camera transform to a set of targets given a viewport and world space con..." alt="" coords="767,923,925,950"/>
+<area shape="rect" id="node26" href="$class_m_o_a_i_coroutine.html" title="Binds a Lua coroutine to a MOAIAction. " alt="" coords="787,721,905,747"/>
+<area shape="rect" id="node27" href="$class_m_o_a_i_particle_emitter.html" title="Particle emitter. " alt="" coords="771,771,921,798"/>
+<area shape="rect" id="node30" href="$class_m_o_a_i_particle_system.html" title="Particle system. " alt="" coords="1232,949,1383,975"/>
+<area shape="rect" id="node31" href="$class_m_o_a_i_text_label.html" title="MOAITextLabel" alt="" coords="1249,746,1365,773"/>
+<area shape="rect" id="node32" href="$class_m_o_a_i_timer.html" title="Timer class for driving curves and animations. " alt="" coords="801,974,891,1001"/>
+<area shape="rect" id="node28" href="$class_m_o_a_i_particle_distance_emitter.html" title="Particle emitter. " alt="" coords="979,797,1184,823"/>
+<area shape="rect" id="node29" href="$class_m_o_a_i_particle_timed_emitter.html" title="Particle emitter. " alt="" coords="987,746,1175,773"/>
+<area shape="rect" id="node33" href="$class_m_o_a_i_anim.html" title="Bind animation curves to nodes and provides timer controls for animation playback. " alt="" coords="1037,974,1125,1001"/>
+<area shape="rect" id="node34" href="$class_m_o_a_i_ease_driver.html" title="Action that applies simple ease curves to node attributes. " alt="" coords="1019,923,1143,950"/>
+<area shape="rect" id="node37" href="$class_m_o_a_i_anim_curve_base.html" title="Piecewise animation function with one input (time) and one output (value). This is the base class for..." alt="" coords="767,1329,925,1355"/>
+<area shape="rect" id="node41" href="$class_m_o_a_i_camera_anchor2_d.html" title="Attaches fitting information to a transform. Used by MOAICameraFitter2D. " alt="" coords="761,1379,931,1406"/>
+<area shape="rect" id="node42" href="$class_m_o_a_i_color.html" title="Color vector with animation helper methods. " alt="" coords="802,1025,890,1051"/>
+<area shape="rect" id="node45" href="$class_m_o_a_i_deck_remapper.html" title="Remap deck indices. Most useful for controlling animated tiles in tilemaps. All indices are exposed a..." alt="" coords="769,1075,923,1102"/>
+<area shape="rect" id="node46" href="$class_m_o_a_i_fmod_ex_channel.html" title="FMOD singleton. " alt="" coords="767,1126,925,1153"/>
+<area shape="rect" id="node47" href="$class_m_o_a_i_script_node.html" title="User scriptable dependency node. User may specify Lua callback to handle node updating as well as cus..." alt="" coords="783,1177,909,1203"/>
+<area shape="rect" id="node48" href="$class_m_o_a_i_text_style.html" title="Represents a style that may be applied to a text box or a section of text in a text box using a style..." alt="" coords="789,1227,903,1254"/>
+<area shape="rect" id="node49" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="770,1278,922,1305"/>
+<area shape="rect" id="node38" href="$class_m_o_a_i_anim_curve.html" title="Implementation of animation curve for floating point values. " alt="" coords="1019,1329,1144,1355"/>
+<area shape="rect" id="node39" href="$class_m_o_a_i_anim_curve_quat.html" title="Implementation of animation curve for rotation (via quaternion) values. " alt="" coords="1003,1379,1159,1406"/>
+<area shape="rect" id="node40" href="$class_m_o_a_i_anim_curve_vec.html" title="Implementation of animation curve for 3D vector values. " alt="" coords="1007,1278,1156,1305"/>
+<area shape="rect" id="node43" href="$class_m_o_a_i_graphics_prop.html" title="Base class for graphics props. " alt="" coords="1011,1025,1151,1051"/>
+<area shape="rect" id="node44" href="$class_m_o_a_i_graphics_prop2_d.html" title="2D prop. " alt="" coords="1002,1075,1161,1102"/>
+</map>

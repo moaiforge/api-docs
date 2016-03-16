@@ -1,0 +1,5 @@
+<map id="MOAIIndexBuffer" name="MOAIIndexBuffer">
+<area shape="rect" id="node2" href="$class_m_o_a_i_gfx_buffer.html" title="Base class for MOAIVertexBuffer and MOAIIndexBuffer. " alt="" coords="86,80,201,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_gfx_resource.html" title="Base class for graphics resources owned by OpenGL. Implements resource lifecycle including restoratio..." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="164,5,267,32"/>
+</map>

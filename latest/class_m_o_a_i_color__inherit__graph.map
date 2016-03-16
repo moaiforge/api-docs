@@ -1,0 +1,10 @@
+<map id="MOAIColor" name="MOAIColor">
+<area shape="rect" id="node5" href="$class_m_o_a_i_graphics_prop.html" title="Base class for graphics props. " alt="" coords="126,304,266,331"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_graphics_prop2_d.html" title="2D prop. " alt="" coords="290,304,449,331"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="238,155,327,181"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="187,80,378,107"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="215,5,351,32"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_layer.html" title="Scene controls class. " alt="" coords="5,379,96,405"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_particle_system.html" title="Particle system. " alt="" coords="121,379,271,405"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_text_label.html" title="MOAITextLabel" alt="" coords="295,379,411,405"/>
+</map>
