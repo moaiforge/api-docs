@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_foo.html" title="Example class for extending Moai using MOAILuaObject. Copy this object, rename it and add your own st..." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node1" href="$class_m_o_a_i_glyph_cache.html" title="MOAIGlyphCache" alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_dynamic_glyph_cache.html" title="MOAIDynamicGlyphCache" alt="" coords="172,5,339,32"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_static_glyph_cache.html" title="This is the default implementation of a static glyph cache. All is does is accept an image via setIma..." alt="" coords="180,56,331,83"/>
 </map>

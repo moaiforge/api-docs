@@ -1,6 +1,8 @@
 <map id="MOAIGfxBuffer" name="MOAIGfxBuffer">
-<area shape="rect" id="node4" href="$class_m_o_a_i_index_buffer.html" title="Buffer for vertex indices. " alt="" coords="5,155,132,181"/>
-<area shape="rect" id="node5" href="$class_m_o_a_i_vertex_buffer.html" title="Buffer for vertices. " alt="" coords="156,155,291,181"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_gfx_resource.html" title="Base class for graphics resources owned by OpenGL. Implements resource lifecycle including restoratio..." alt="" coords="8,5,143,32"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="167,5,269,32"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_index_buffer.html" title="Buffer for vertex indices. " alt="" coords="27,304,145,331"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_vertex_buffer.html" title="Buffer for vertices. " alt="" coords="169,304,293,331"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_gfx_resource.html" title="Base class for graphics resources owned by OpenGL. Implements resource lifecycle including restoratio..." alt="" coords="29,155,153,181"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="29,5,153,32"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="177,155,272,181"/>
 </map>

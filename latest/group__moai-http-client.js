@@ -1,11 +1,6 @@
 var group__moai_http_client =
 [
     [ "MOAIHttpTaskBase", "class_m_o_a_i_http_task_base.html", [
-      [ "HTTP_GET", "class_m_o_a_i_http_task_base.html#a9334a5b9057f32da96db9b5c6a045d67a4ad23c3d2f21f7502ba058ef89518166", null ],
-      [ "HTTP_HEAD", "class_m_o_a_i_http_task_base.html#a9334a5b9057f32da96db9b5c6a045d67ab547cb50f6792b41c3e7d52ee0f8e442", null ],
-      [ "HTTP_POST", "class_m_o_a_i_http_task_base.html#a9334a5b9057f32da96db9b5c6a045d67aa763023b51da2b3618f24cbf994b34bf", null ],
-      [ "HTTP_PUT", "class_m_o_a_i_http_task_base.html#a9334a5b9057f32da96db9b5c6a045d67a2415577115dd0cd5d5a5aa62d52e1512", null ],
-      [ "HTTP_DELETE", "class_m_o_a_i_http_task_base.html#a9334a5b9057f32da96db9b5c6a045d67a427575ab776ed70f0aa76667affc3942", null ],
       [ "getProgress", "class_m_o_a_i_http_task_base.html#a60bf4ce90c20189457a4aa044f47a391", null ],
       [ "getResponseCode", "class_m_o_a_i_http_task_base.html#ad5896a3b4ee0686f3bc212d0214a3e50", null ],
       [ "getResponseHeader", "class_m_o_a_i_http_task_base.html#ac4e35640b64980506539bc5e84739902", null ],

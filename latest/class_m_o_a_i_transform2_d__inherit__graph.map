@@ -1,8 +1,0 @@
-<map id="MOAITransform2D" name="MOAITransform2D">
-<area shape="rect" id="node6" href="$class_m_o_a_i_camera2_d.html" title="2D camera. " alt="" coords="5,379,129,405"/>
-<area shape="rect" id="node7" href="$class_m_o_a_i_graphics_prop2_d.html" title="2D prop. " alt="" coords="153,379,312,405"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="74,229,226,256"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="105,155,195,181"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="55,80,245,107"/>
-<area shape="rect" id="node5" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="82,5,218,32"/>
-</map>

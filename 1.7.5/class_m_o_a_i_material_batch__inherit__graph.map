@@ -1,0 +1,13 @@
+<map id="MOAIMaterialBatch" name="MOAIMaterialBatch">
+<area shape="rect" id="node2" href="$class_m_o_a_i_standard_deck.html" title="Base class for decks with standard capabilities (materials, bounds override). " alt="" coords="196,233,343,260"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_bounds_deck.html" title="MOAIBoundsDeck" alt="" coords="415,5,549,32"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_gfx_quad2_d.html" title="Single textured quad. " alt="" coords="418,56,546,83"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_gfx_quad_deck2_d.html" title="Deck of textured quads. " alt="" coords="402,107,562,133"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_gfx_quad_list_deck2_d.html" title="Deck of lists of textured quads. UV and model space quads are specified independently and associated ..." alt="" coords="391,157,573,184"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_grid_deck2_d.html" title="This deck renders &#39;brushes&#39; which are sampled from a tile map. The tile map is specified by the attac..." alt="" coords="417,208,547,235"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_mesh.html" title="Loads a texture and renders the contents of a vertex buffer. Grid drawing not supported. " alt="" coords="437,259,527,285"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_script_deck.html" title="Scriptable deck object. " alt="" coords="420,309,544,336"/>
+<area shape="rect" id="node10" href="$class_m_o_a_i_stretch_patch2_d.html" title="Moai implementation of a 9&#45;patch. Textured quad with any number of stretchable and non&#45;stretchable &#39;b..." alt="" coords="404,360,560,387"/>
+<area shape="rect" id="node11" href="$class_m_o_a_i_surface_deck2_d.html" title="Deck of surface edge lists. Unused in this version of Moai. " alt="" coords="405,411,559,437"/>
+<area shape="rect" id="node12" href="$class_m_o_a_i_tile_deck2_d.html" title="Subdivides a single texture into uniform tiles enumerated from the texture&#39;s left top to right bottom..." alt="" coords="419,461,545,488"/>
+</map>

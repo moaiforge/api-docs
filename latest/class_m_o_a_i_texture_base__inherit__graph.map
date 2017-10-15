@@ -1,0 +1,8 @@
+<map id="MOAITextureBase" name="MOAITextureBase">
+<area shape="rect" id="node5" href="$class_m_o_a_i_frame_buffer_texture.html" title="This is an implementation of a frame buffer that may be attached to a MOAIPartitionViewLayer for offs..." alt="" coords="5,304,173,331"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_image_texture.html" title="Binds an image (CPU memory) to a texture (GPU memory). Regions of the texture (or the entire texture)..." alt="" coords="197,304,331,331"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_texture.html" title="Texture class. " alt="" coords="355,304,453,331"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_gfx_resource.html" title="Base class for graphics resources owned by OpenGL. Implements resource lifecycle including restoratio..." alt="" coords="202,155,326,181"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="178,80,350,107"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="202,5,326,32"/>
+</map>

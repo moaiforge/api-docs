@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAILua\lUtil, MOAILuaObject \&gt;" alt="" coords="5,5,205,47"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_lua_util.html" title="Methods for reading and converting Lua bytecode. " alt="" coords="253,13,352,39"/>
+<area shape="rect" id="node1" href="$class_z_l_context_class.html" title="ZLContextClass\&lt; MOAIDialog\lIOS, MOAILuaObject \&gt;" alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_dialog_i_o_s.html" title="Wrapper for a simple native dialog implementation on iOS devices. Exposed to Lua via MOAIDialog on al..." alt="" coords="240,13,349,39"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="MOAIEnvironment" name="MOAIEnvironment">
-<area shape="rect" id="node2" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIEnvironment,\l MOAIGlobalEventSource \&gt;" alt="" coords="5,155,268,196"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_global_event_source.html" title="Derivation of MOAIEventSource for global Lua objects. " alt="" coords="49,80,225,107"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="69,5,205,32"/>
+<area shape="rect" id="node2" href="$class_z_l_context_class.html" title="ZLContextClass\&lt; MOAIEnvironment,\l MOAIGlobalEventSource \&gt;" alt="" coords="5,155,232,196"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_global_event_source.html" title="Derivation of MOAIEventSource for global Lua objects. " alt="" coords="39,80,198,107"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="57,5,181,32"/>
 </map>

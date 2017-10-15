@@ -1,11 +1,12 @@
 <map id="MOAISensor" name="MOAISensor">
-<area shape="rect" id="node2" href="$class_m_o_a_i_button_sensor.html" title="Button sensor. " alt="" coords="162,5,305,32"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_compass_sensor.html" title="Device heading sensor. " alt="" coords="153,56,313,83"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_joystick_sensor.html" title="Analog and digital joystick sensor. " alt="" coords="160,107,307,133"/>
-<area shape="rect" id="node5" href="$class_m_o_a_i_keyboard_sensor.html" title="Hardware keyboard sensor. " alt="" coords="153,157,313,184"/>
-<area shape="rect" id="node6" href="$class_m_o_a_i_location_sensor.html" title="Location services sensor. " alt="" coords="156,208,311,235"/>
-<area shape="rect" id="node7" href="$class_m_o_a_i_motion_sensor.html" title="Gravity/acceleration sensor. " alt="" coords="162,259,305,285"/>
-<area shape="rect" id="node8" href="$class_m_o_a_i_pointer_sensor.html" title="Pointer sensor. " alt="" coords="161,309,306,336"/>
-<area shape="rect" id="node9" href="$class_m_o_a_i_touch_sensor.html" title="Multitouch sensor. Tracks up to 16 simultaneous touches. " alt="" coords="164,360,303,387"/>
-<area shape="rect" id="node10" href="$class_m_o_a_i_wheel_sensor.html" title="Hardware wheel sensor. " alt="" coords="164,411,303,437"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_button_sensor.html" title="Button sensor. " alt="" coords="155,5,285,32"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_compass_sensor.html" title="Device heading sensor. " alt="" coords="147,56,293,83"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_joystick_sensor.html" title="Analog and digital joystick sensor. " alt="" coords="152,107,288,133"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_keyboard_sensor.html" title="Hardware keyboard sensor. " alt="" coords="147,157,293,184"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_location_sensor.html" title="Location services sensor. " alt="" coords="150,208,290,235"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_motion_sensor.html" title="Gravity/acceleration sensor. " alt="" coords="155,259,285,285"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_pointer_sensor.html" title="Pointer sensor. " alt="" coords="153,309,287,336"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_touch_sensor.html" title="Multitouch sensor. Tracks up to 16 simultaneous touches. " alt="" coords="156,360,284,387"/>
+<area shape="rect" id="node10" href="$class_m_o_a_i_vector_sensor.html" title="General purpose 3&#45;tuple. " alt="" coords="155,411,285,437"/>
+<area shape="rect" id="node11" href="$class_m_o_a_i_wheel_sensor.html" title="Hardware wheel sensor. " alt="" coords="155,461,285,488"/>
 </map>

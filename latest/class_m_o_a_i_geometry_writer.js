@@ -1,9 +1,5 @@
 var class_m_o_a_i_geometry_writer =
 [
-    [ "COLOR_ADD", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829dab182f36d94b13ba2c48ae0ebac53f2cd", null ],
-    [ "COLOR_MULTIPLY", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829daa6c4d8457f43cd736340f7e97949d5cf", null ],
-    [ "COLOR_OVERWRITE", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829da11680dbf4d4c4961c0b3162bd41ce1f1", null ],
-    [ "COLOR_SUBTRACT", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829dad2b2c7ddcb295d803f0226b31a211f2f", null ],
     [ "applyColor", "class_m_o_a_i_geometry_writer.html#afd0a6cf305330a200ce6769b40df6298", null ],
     [ "applyLightFromImage", "class_m_o_a_i_geometry_writer.html#aa67f4aa77bb47cc3d6090cfc73969d1d", null ],
     [ "applyLinearGradient", "class_m_o_a_i_geometry_writer.html#a477bb0e8dbb1c11adb6c18f38dd63c90", null ],

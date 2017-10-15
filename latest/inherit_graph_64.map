@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_particle_plugin.html" title="Allows custom particle processing. " alt="" coords="5,31,145,57"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_particle_callback_plugin.html" title="Allows custom particle processing via C language callbacks. " alt="" coords="193,5,387,32"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_particle_pex_plugin.html" title="Allows custom particle processing derived from .pex file via C language callback. ..." alt="" coords="209,56,371,83"/>
-</map>

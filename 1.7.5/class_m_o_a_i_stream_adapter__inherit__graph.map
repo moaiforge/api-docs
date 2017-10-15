@@ -1,0 +1,7 @@
+<map id="MOAIStreamAdapter" name="MOAIStreamAdapter">
+<area shape="rect" id="node3" href="$class_m_o_a_i_hash_writer.html" title="MOAIHashWriter may be attached to another stream for the purpose of computing a hash while writing da..." alt="" coords="26,155,151,181"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_stream_reader.html" title="This class has been deprecated. Use MOAIStreamAdapter instead. " alt="" coords="176,155,324,181"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_stream_writer.html" title="This class has been deprecated. Use MOAIStreamAdapter instead. " alt="" coords="348,155,488,181"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="199,5,301,32"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_hash_writer_crypto.html" title="MOAIHashWriterCrypto may be attached to another stream for the purpose of computing a hash while writ..." alt="" coords="5,229,172,256"/>
+</map>

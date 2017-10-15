@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAILog\lMgr, MOAILuaObject \&gt;" alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_log_mgr.html" title="Singleton for managing debug log messages and log level. " alt="" coords="253,13,356,39"/>
+</map>

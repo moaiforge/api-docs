@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIRender\lMgr, MOAILuaObject \&gt;" alt="" coords="5,5,228,47"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_render_mgr.html" title="MOAIRenderMgr is responsible for drawing a list of MOAIRenderable objects. MOAIRenderable is the base..." alt="" coords="276,13,400,39"/>
+<area shape="rect" id="node1" href="$class_z_l_context_class.html" title="ZLContextClass\&lt; MOAILogMgr,\l MOAILuaObject \&gt;" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_log_mgr.html" title="Singleton for managing debug log messages and log level. " alt="" coords="252,13,347,39"/>
 </map>

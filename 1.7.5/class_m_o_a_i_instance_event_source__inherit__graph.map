@@ -1,0 +1,43 @@
+<map id="MOAIInstanceEventSource" name="MOAIInstanceEventSource">
+<area shape="rect" id="node3" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="428,210,523,237"/>
+<area shape="rect" id="node16" href="$class_m_o_a_i_font.html" title="MOAIFont" alt="" coords="434,666,517,693"/>
+<area shape="rect" id="node17" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="431,615,520,642"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="5,615,141,642"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_action_tree.html" title="Tree of MOAIAction objects. Formerly a singleton; not yet ready for general purpose use..." alt="" coords="594,109,717,135"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_box2_d_world.html" title="Box2D world. " alt="" coords="589,159,721,186"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_camera_fitter2_d.html" title="Action to dynamically fit a camera transform to a set of targets given a viewport and world space con..." alt="" coords="577,438,734,465"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_coroutine.html" title="Binds a Lua coroutine to a MOAIAction. " alt="" coords="597,58,714,85"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_particle_emitter.html" title="Particle emitter. " alt="" coords="1008,261,1157,287"/>
+<area shape="rect" id="node11" href="$class_m_o_a_i_particle_system.html" title="Particle system. " alt="" coords="1475,109,1625,135"/>
+<area shape="rect" id="node12" href="$class_m_o_a_i_text_label.html" title="MOAITextLabel" alt="" coords="1492,261,1608,287"/>
+<area shape="rect" id="node13" href="$class_m_o_a_i_timer.html" title="Timer class for driving curves and animations. " alt="" coords="610,337,701,363"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_particle_distance_emitter.html" title="Particle emitter. " alt="" coords="1221,261,1427,287"/>
+<area shape="rect" id="node10" href="$class_m_o_a_i_particle_timed_emitter.html" title="Particle emitter. " alt="" coords="1230,311,1418,338"/>
+<area shape="rect" id="node14" href="$class_m_o_a_i_anim.html" title="Bind animation curves to nodes and provides timer controls for animation playback. " alt="" coords="822,374,910,401"/>
+<area shape="rect" id="node15" href="$class_m_o_a_i_ease_driver.html" title="Action that applies simple ease curves to node attributes. " alt="" coords="804,323,928,350"/>
+<area shape="rect" id="node18" href="$class_m_o_a_i_anim_curve_base.html" title="Piecewise animation function with one input (time) and one output (value). This is the base class for..." alt="" coords="577,767,734,794"/>
+<area shape="rect" id="node22" href="$class_m_o_a_i_camera_anchor2_d.html" title="Attaches fitting information to a transform. Used by MOAICameraFitter2D. " alt="" coords="571,869,740,895"/>
+<area shape="rect" id="node23" href="$class_m_o_a_i_color.html" title="Color vector with animation helper methods. " alt="" coords="822,717,910,743"/>
+<area shape="rect" id="node27" href="$class_m_o_a_i_deck_remapper.html" title="Remap deck indices. Most useful for controlling animated tiles in tilemaps. All indices are exposed a..." alt="" coords="579,818,732,845"/>
+<area shape="rect" id="node28" href="$class_m_o_a_i_fmod_ex_channel.html" title="FMOD singleton. " alt="" coords="576,565,735,591"/>
+<area shape="rect" id="node29" href="$class_m_o_a_i_script_node.html" title="User scriptable dependency node. User may specify Lua callback to handle node updating as well as cus..." alt="" coords="592,666,719,693"/>
+<area shape="rect" id="node30" href="$class_m_o_a_i_text_style.html" title="Represents a style that may be applied to a text box or a section of text in a text box using a style..." alt="" coords="598,717,713,743"/>
+<area shape="rect" id="node31" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="579,514,731,541"/>
+<area shape="rect" id="node19" href="$class_m_o_a_i_anim_curve.html" title="Implementation of animation curve for floating point values. " alt="" coords="803,767,929,794"/>
+<area shape="rect" id="node20" href="$class_m_o_a_i_anim_curve_quat.html" title="Implementation of animation curve for rotation (via quaternion) values. " alt="" coords="788,818,944,845"/>
+<area shape="rect" id="node21" href="$class_m_o_a_i_anim_curve_vec.html" title="Implementation of animation curve for 3D vector values. " alt="" coords="791,869,941,895"/>
+<area shape="rect" id="node24" href="$class_m_o_a_i_graphics_prop.html" title="Base class for graphics props. " alt="" coords="1254,362,1394,389"/>
+<area shape="rect" id="node26" href="$class_m_o_a_i_graphics_prop2_d.html" title="2D prop. " alt="" coords="1003,717,1162,743"/>
+<area shape="rect" id="node25" href="$class_m_o_a_i_layer.html" title="Scene controls class. " alt="" coords="1505,362,1595,389"/>
+<area shape="rect" id="node32" href="$class_m_o_a_i_box2_d_body.html" title="Box2D body. " alt="" coords="801,514,931,541"/>
+<area shape="rect" id="node33" href="$class_m_o_a_i_transform.html" title="Transformation hierarchy node. " alt="" coords="806,463,926,490"/>
+<area shape="rect" id="node41" href="$class_m_o_a_i_transform2_d.html" title="2D transformation hierarchy node. " alt="" coords="797,666,935,693"/>
+<area shape="rect" id="node34" href="$class_m_o_a_i_camera.html" title="Perspective or orthographic camera. " alt="" coords="1029,514,1136,541"/>
+<area shape="rect" id="node35" href="$class_m_o_a_i_fmod_event_instance.html" title="An instance of an FMOD Event Not to be confused with an Event, MOAIFmodEvent. " alt="" coords="992,565,1173,591"/>
+<area shape="rect" id="node36" href="$class_m_o_a_i_fmod_microphone.html" title="The in&#45;game Microphone, with respect to which all the sounds are heard in the game. The Event Manager (MOAIFmodEventManager) must be initialized before the Microphone can be accessed. Should only be grabbed from MOAIFmodEventMgr. " alt="" coords="1000,615,1165,642"/>
+<area shape="rect" id="node37" href="$class_m_o_a_i_particle_force.html" title="Particle force. " alt="" coords="1014,362,1151,389"/>
+<area shape="rect" id="node38" href="$class_m_o_a_i_pin_transform.html" title="2D transform for connecting transforms across layers. Useful for HUD overlay items and map pins..." alt="" coords="1013,413,1152,439"/>
+<area shape="rect" id="node39" href="$class_m_o_a_i_prop.html" title="Base class for props. " alt="" coords="1041,311,1125,338"/>
+<area shape="rect" id="node40" href="$class_m_o_a_i_scissor_rect.html" title="Class for clipping props when drawing. " alt="" coords="1018,463,1147,490"/>
+<area shape="rect" id="node42" href="$class_m_o_a_i_camera2_d.html" title="2D camera. " alt="" coords="1021,666,1145,693"/>
+</map>

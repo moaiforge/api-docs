@@ -1,8 +1,5 @@
 var class_m_o_a_i_keyboard_sensor =
 [
-    [ "IS_DOWN", "class_m_o_a_i_keyboard_sensor.html#a34df7cc7f69a8ec535eec8a524dcbaf9adde4a55689a9b6c30007851ddea91040", null ],
-    [ "DOWN", "class_m_o_a_i_keyboard_sensor.html#a34df7cc7f69a8ec535eec8a524dcbaf9a9b0b4a95b99523966e0e34ffdadac9da", null ],
-    [ "UP", "class_m_o_a_i_keyboard_sensor.html#a34df7cc7f69a8ec535eec8a524dcbaf9aba595d8bca8bc5e67c37c0a9d89becfa", null ],
     [ "keyDown", "class_m_o_a_i_keyboard_sensor.html#a2457a9fd4051cc6e04bea56d9ed7a964", null ],
     [ "keyIsDown", "class_m_o_a_i_keyboard_sensor.html#a4a7be64c8c2469cb745a08c1b3510b08", null ],
     [ "keyIsUp", "class_m_o_a_i_keyboard_sensor.html#a99a4add661eed14cdb8210b9e361977c", null ],

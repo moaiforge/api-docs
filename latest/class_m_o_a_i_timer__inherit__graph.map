@@ -1,8 +1,8 @@
 <map id="MOAITimer" name="MOAITimer">
-<area shape="rect" id="node6" href="$class_m_o_a_i_anim.html" title="Bind animation curves to nodes and provides timer controls for animation playback. " alt="" coords="5,304,93,331"/>
-<area shape="rect" id="node7" href="$class_m_o_a_i_ease_driver.html" title="Action that applies simple ease curves to node attributes. " alt="" coords="118,304,242,331"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="13,155,102,181"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="19,80,210,107"/>
-<area shape="rect" id="node5" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="126,155,221,181"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="47,5,183,32"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_anim.html" title="Bind animation curves to nodes and provides timer controls for animation playback. " alt="" coords="5,304,88,331"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_ease_driver.html" title="Action that applies simple ease curves to node attributes. " alt="" coords="112,304,227,331"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="12,155,95,181"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="22,80,194,107"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="119,155,207,181"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="46,5,170,32"/>
 </map>

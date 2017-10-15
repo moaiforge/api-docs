@@ -1,4 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIFoo\lMgr, MOAILuaObject \&gt;" alt="" coords="5,5,205,47"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_foo_mgr.html" title="Example singleton for extending Moai using MOAILuaObject. Copy this object, rename it and add your ow..." alt="" coords="253,13,356,39"/>
+<area shape="rect" id="node1" href="$class_m_o_a_i_untz_sample_buffer.html" title="Uncompressed WAV data held in memory. May be shared between multiple MOAIUntzSound objects..." alt="" coords="5,5,160,32"/>
 </map>

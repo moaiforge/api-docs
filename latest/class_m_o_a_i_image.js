@@ -1,17 +1,12 @@
 var class_m_o_a_i_image =
 [
-    [ "FILTER_LINEAR", "class_m_o_a_i_image.html#afb24d298ddd4bc4ff61aa333f07a574aad8e5de74ec16a7e07145b7c18c885094", null ],
-    [ "FILTER_NEAREST", "class_m_o_a_i_image.html#afb24d298ddd4bc4ff61aa333f07a574aa0efb9d9eef22137dcfeb824d7b3463fd", [
-      [ "TRUECOLOR", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aa56ff623a34f7421bbea46c6ed9f4a870", null ],
-      [ "INDEX_4", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aa66934358b655c28cd350abe3de70cfad", null ],
-      [ "INDEX_8", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aa2da8d36d8da7347a87a17fe4144347e4", null ],
-      [ "PXL_FMT_UNKNOWN", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aab1bf33f83ce988ec5c12a3a98a929d0f", null ]
-    ] ],
     [ "average", "class_m_o_a_i_image.html#a46c18093c562d6f80b847a1eef7f08ed", null ],
     [ "bleedRect", "class_m_o_a_i_image.html#ab0d7e82da81270f4a8e588ca45fb62a9", null ],
-    [ "blur", "class_m_o_a_i_image.html#ad7daad901d272a2ab9e6932802b93df7", null ],
+    [ "calculateGaussianKernel", "class_m_o_a_i_image.html#aca39da0a542108be1cb3519c4f6c1836", null ],
     [ "compare", "class_m_o_a_i_image.html#a71cf8beefa691d33f234f10ffc18118c", null ],
     [ "convert", "class_m_o_a_i_image.html#a178bc785903c99c95d2b2e5df3985cdc", null ],
+    [ "convolve", "class_m_o_a_i_image.html#aa6844cb8daf0b746fa4ab00b9852b612", null ],
+    [ "convolve1D", "class_m_o_a_i_image.html#a2b3860cc4dc0fd88d2a3f8b30d3ac0bf", null ],
     [ "copy", "class_m_o_a_i_image.html#a74441c00f74d71b3e1db7c5a43d9c272", null ],
     [ "copyBits", "class_m_o_a_i_image.html#a8819808d15dabab9ff46c81d1502c799", null ],
     [ "copyRect", "class_m_o_a_i_image.html#ae8ba48c998ba918add8534af74cb35c9", null ],
@@ -25,10 +20,13 @@ var class_m_o_a_i_image =
     [ "generateSDFAA", "class_m_o_a_i_image.html#a2496d3d8210999a31da6c033a88bee16", null ],
     [ "generateSDFDeadReckoning", "class_m_o_a_i_image.html#ab366ce2015b0c3ed28c2f16875c25756", null ],
     [ "getColor32", "class_m_o_a_i_image.html#a7f59009247d5d37e5921e4a087cd0c59", null ],
+    [ "getContentRect", "class_m_o_a_i_image.html#ac8e42d8e72f662a1ad19a447be95c3ad", null ],
+    [ "getData", "class_m_o_a_i_image.html#ab4a9a64d964de8b0188b6acd7d5a68bf", null ],
     [ "getFormat", "class_m_o_a_i_image.html#ad01cd723a2d0b7e48bfc81f0a6ef1987", null ],
     [ "getRGBA", "class_m_o_a_i_image.html#aa270072bbddfc82c499f742cfa2c29ac", null ],
     [ "getSize", "class_m_o_a_i_image.html#a6c1c06c16fc8d9d5d89ba93584996e44", null ],
     [ "init", "class_m_o_a_i_image.html#ae40d2a23261d05518d7fa65b40ec89e2", null ],
+    [ "isOpaque", "class_m_o_a_i_image.html#a29738a578a08ff6b6f0441e0be7df904", null ],
     [ "load", "class_m_o_a_i_image.html#a78f3f9f98a0f2dcdb35f498287d4545d", null ],
     [ "loadAsync", "class_m_o_a_i_image.html#a525eed08e69a75ff236378cd9f0dc6e2", null ],
     [ "loadFromBuffer", "class_m_o_a_i_image.html#acdb7cbf76e62ab25c9f353af63debe0b", null ],
@@ -40,5 +38,6 @@ var class_m_o_a_i_image =
     [ "setColor32", "class_m_o_a_i_image.html#ab33a5a215cae572c860ae56dea23cc53", null ],
     [ "setRGBA", "class_m_o_a_i_image.html#a20b4f34359eaa7d78fd75501b42697a2", null ],
     [ "simpleThreshold", "class_m_o_a_i_image.html#af47c70a6556de907de417b96600bcb6a", null ],
+    [ "subdivideRect", "class_m_o_a_i_image.html#ad056b439fd9bd9dc87782d5226ecbafd", null ],
     [ "write", "class_m_o_a_i_image.html#a893177e8b8fb3d8f9ef89474a12f4e53", null ]
 ];

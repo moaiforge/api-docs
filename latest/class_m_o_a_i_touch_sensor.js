@@ -1,12 +1,5 @@
 var class_m_o_a_i_touch_sensor =
 [
-    [ "IS_DOWN", "class_m_o_a_i_touch_sensor.html#a12acb3634428eafc5724df6d836f4e64adde4a55689a9b6c30007851ddea91040", null ],
-    [ "DOWN", "class_m_o_a_i_touch_sensor.html#a12acb3634428eafc5724df6d836f4e64a9b0b4a95b99523966e0e34ffdadac9da", null ],
-    [ "UP", "class_m_o_a_i_touch_sensor.html#a12acb3634428eafc5724df6d836f4e64aba595d8bca8bc5e67c37c0a9d89becfa", null ],
-    [ "TOUCH_DOWN", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64a9b9626b3c6c2fb5d2731f3751a0f42d5", null ],
-    [ "TOUCH_MOVE", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64a744fb6f69db9d3e132fe29477c6b8e93", null ],
-    [ "TOUCH_UP", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64a90884c2f9baa25f5107bfa334297fce3", null ],
-    [ "TOUCH_CANCEL", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64aa6e29710bad060bcaf71dc5f1afa4e65", null ],
     [ "countTouches", "class_m_o_a_i_touch_sensor.html#ab0bb0f5f3660b2ec9cfe64a64e8f480a", null ],
     [ "down", "class_m_o_a_i_touch_sensor.html#a378f88d5140456c39f0edf4edd7a1cb9", null ],
     [ "getActiveTouches", "class_m_o_a_i_touch_sensor.html#a42104aba4b79a7547b497b7a0f93ec87", null ],

@@ -1,0 +1,6 @@
+<map id="MOAIGfxBuffer" name="MOAIGfxBuffer">
+<area shape="rect" id="node4" href="$class_m_o_a_i_index_buffer.html" title="Buffer for vertex indices. " alt="" coords="5,155,132,181"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_vertex_buffer.html" title="Buffer for vertices. " alt="" coords="156,155,291,181"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_gfx_resource.html" title="Base class for graphics resources owned by OpenGL. Implements resource lifecycle including restoratio..." alt="" coords="8,5,143,32"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="167,5,269,32"/>
+</map>

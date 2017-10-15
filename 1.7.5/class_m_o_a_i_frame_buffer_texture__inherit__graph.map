@@ -1,0 +1,5 @@
+<map id="MOAIFrameBufferTexture" name="MOAIFrameBufferTexture">
+<area shape="rect" id="node2" href="$class_m_o_a_i_frame_buffer.html" title="MOAIFrameBuffer is responsible for drawing a list of MOAIRenderable objects. MOAIRenderable is the ba..." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_single_texture.html" title="Base class for texture resources. " alt="" coords="164,80,307,107"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_gfx_resource.html" title="Base class for graphics resources owned by OpenGL. Implements resource lifecycle including restoratio..." alt="" coords="168,5,303,32"/>
+</map>

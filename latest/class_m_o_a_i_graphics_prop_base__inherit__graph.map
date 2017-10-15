@@ -1,0 +1,10 @@
+<map id="MOAIGraphicsPropBase" name="MOAIGraphicsPropBase">
+<area shape="rect" id="node9" href="$class_m_o_a_i_text_label.html" title="MOAITextLabel" alt="" coords="81,528,189,555"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_partition_hull.html" title="Base class for props. " alt="" coords="23,379,144,405"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_transform.html" title="Transformation hierarchy node. " alt="" coords="15,304,128,331"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="5,229,145,256"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="87,155,170,181"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_color.html" title="Color vector with animation helper methods. " alt="" coords="153,304,235,331"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="43,80,215,107"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="67,5,191,32"/>
+</map>

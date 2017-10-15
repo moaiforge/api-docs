@@ -1,0 +1,10 @@
+<map id="MOAIGfxResource" name="MOAIGfxResource">
+<area shape="rect" id="node2" href="$class_m_o_a_i_gfx_buffer.html" title="Base class for MOAIVertexBuffer and MOAIIndexBuffer. " alt="" coords="166,80,281,107"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_shader_program.html" title="Programmable shader class. " alt="" coords="315,80,471,107"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_single_texture.html" title="Base class for texture resources. " alt="" coords="512,80,655,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_index_buffer.html" title="Buffer for vertex indices. " alt="" coords="5,155,132,181"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_vertex_buffer.html" title="Buffer for vertices. " alt="" coords="156,155,291,181"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_frame_buffer_texture.html" title="This is an implementation of a frame buffer that may be attached to a MOAILayer for offscreen renderi..." alt="" coords="315,155,497,181"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_image_texture.html" title="Binds an image (CPU memory) to a texture (GPU memory). Regions of the texture (or the entire texture)..." alt="" coords="521,155,664,181"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_texture.html" title="Texture class. " alt="" coords="688,155,791,181"/>
+</map>

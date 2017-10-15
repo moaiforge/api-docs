@@ -1,4 +1,4 @@
 <map id="MOAIGlyphCache" name="MOAIGlyphCache">
-<area shape="rect" id="node2" href="$class_m_o_a_i_dynamic_glyph_cache.html" title="MOAIDynamicGlyphCache" alt="" coords="5,80,192,107"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_static_glyph_cache.html" title="This is the default implementation of a static glyph cache. All is does is accept an image via setIma..." alt="" coords="216,80,384,107"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_dynamic_glyph_cache.html" title="MOAIDynamicGlyphCache" alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_static_glyph_cache.html" title="This is the default implementation of a static glyph cache. All is does is accept an image via setIma..." alt="" coords="196,80,347,107"/>
 </map>

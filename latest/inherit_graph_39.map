@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAINode\lMgr, MOAILuaObject \&gt;" alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node1" href="$class_z_l_context_class.html" title="ZLContextClass\&lt; MOAIFooMgr,\l MOAILuaObject \&gt;" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_foo_mgr.html" title="Example singleton for extending Moai using MOAILuaObject. Copy this object, rename it and add your ow..." alt="" coords="252,13,348,39"/>
 </map>

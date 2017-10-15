@@ -1,0 +1,4 @@
+<map id="MOAIParticlePlugin" name="MOAIParticlePlugin">
+<area shape="rect" id="node2" href="$class_m_o_a_i_particle_callback_plugin.html" title="Allows custom particle processing via C language callbacks. " alt="" coords="5,80,199,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_particle_pex_plugin.html" title="Allows custom particle processing derived from .pex file via C language callback. ..." alt="" coords="223,80,386,107"/>
+</map>

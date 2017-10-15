@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_grid_path_graph.html" title="Pathfinder graph adapter for MOAIGrid. " alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node1" href="$class_z_l_context_class.html" title="ZLContextClass\&lt; MOAITrace,\l MOAILuaObject \&gt;" alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_trace.html" title="Internal debugging and hooking class. " alt="" coords="243,13,329,39"/>
 </map>

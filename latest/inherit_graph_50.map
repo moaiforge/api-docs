@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAITwitter\lAndroid, MOAILuaObject \&gt;" alt="" coords="5,5,224,47"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_twitter_android.html" title="Wrapper for Twitter integration on Android devices. Twitter provides social integration for sharing o..." alt="" coords="272,13,419,39"/>
+<area shape="rect" id="node1" href="$class_z_l_context_class.html" title="ZLContextClass\&lt; MOAIMovie\lPlayerAndroid, MOAILuaObject \&gt;" alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_movie_player_android.html" title="Wrapper for simple video playback. Exposed to Lua via MOAIMoviePlayer on all mobile platforms..." alt="" coords="264,13,429,39"/>
 </map>

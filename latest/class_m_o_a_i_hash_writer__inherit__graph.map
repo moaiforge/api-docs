@@ -1,5 +1,5 @@
 <map id="MOAIHashWriter" name="MOAIHashWriter">
-<area shape="rect" id="node4" href="$class_m_o_a_i_hash_writer_crypto.html" title="MOAIHashWriterCrypto may be attached to another stream for the purpose of computing a hash while writ..." alt="" coords="5,229,172,256"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_stream_adapter.html" title="MOAIStreamAdapter may be attached to another stream for the purpose of encoding/decoding and/or compr..." alt="" coords="11,80,166,107"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="37,5,140,32"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_hash_writer_crypto.html" title="MOAIHashWriterCrypto may be attached to another stream for the purpose of computing a hash while writ..." alt="" coords="5,229,160,256"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_stream_adapter.html" title="MOAIStreamAdapter may be attached to another stream for the purpose of encoding/decoding and/or compr..." alt="" coords="13,80,153,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="35,5,130,32"/>
 </map>

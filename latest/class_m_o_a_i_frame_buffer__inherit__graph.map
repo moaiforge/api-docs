@@ -1,3 +1,3 @@
 <map id="MOAIFrameBuffer" name="MOAIFrameBuffer">
-<area shape="rect" id="node2" href="$class_m_o_a_i_frame_buffer_texture.html" title="This is an implementation of a frame buffer that may be attached to a MOAILayer for offscreen renderi..." alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_frame_buffer_texture.html" title="This is an implementation of a frame buffer that may be attached to a MOAIPartitionViewLayer for offs..." alt="" coords="5,80,173,107"/>
 </map>

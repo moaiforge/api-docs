@@ -1,10 +1,10 @@
 <map id="MOAIParticleEmitter" name="MOAIParticleEmitter">
-<area shape="rect" id="node8" href="$class_m_o_a_i_particle_distance_emitter.html" title="Particle emitter. " alt="" coords="5,453,211,480"/>
-<area shape="rect" id="node9" href="$class_m_o_a_i_particle_timed_emitter.html" title="Particle emitter. " alt="" coords="235,453,423,480"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_transform.html" title="Transformation hierarchy node. " alt="" coords="104,304,224,331"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="63,229,215,256"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="110,155,199,181"/>
-<area shape="rect" id="node5" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="101,80,291,107"/>
-<area shape="rect" id="node7" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="239,229,334,256"/>
-<area shape="rect" id="node6" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="128,5,264,32"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_particle_distance_emitter.html" title="Particle emitter. " alt="" coords="5,453,189,480"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_particle_timed_emitter.html" title="Particle emitter. " alt="" coords="214,453,386,480"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_transform.html" title="Transformation hierarchy node. " alt="" coords="90,304,203,331"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="55,229,195,256"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="99,155,181,181"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="93,80,265,107"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="220,229,308,256"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="117,5,241,32"/>
 </map>

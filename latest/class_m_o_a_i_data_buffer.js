@@ -1,8 +1,5 @@
 var class_m_o_a_i_data_buffer =
 [
-    [ "NO_INFLATE", "class_m_o_a_i_data_buffer.html#a16db4876b192da08f3ad0cb41afe516fa23d9587e5797a94e63af79ad75f8a3b2", null ],
-    [ "FORCE_INFLATE", "class_m_o_a_i_data_buffer.html#a16db4876b192da08f3ad0cb41afe516fa73d9f41dabab0ee2db3451e6bad9d9ba", null ],
-    [ "INFLATE_ON_EXT", "class_m_o_a_i_data_buffer.html#a16db4876b192da08f3ad0cb41afe516fa48fd900abfca020d461632f66c840151", null ],
     [ "base64Decode", "class_m_o_a_i_data_buffer.html#a8148b5038d6c2794b9eaf08c0b47baae", null ],
     [ "base64Encode", "class_m_o_a_i_data_buffer.html#a1f9a2b44cf63f64f0d24f96ef45dda08", null ],
     [ "clear", "class_m_o_a_i_data_buffer.html#ac24081473240efb468d9b16bcd7821ef", null ],

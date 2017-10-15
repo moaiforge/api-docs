@@ -1,20 +1,13 @@
 var group__moai_sim =
 [
     [ "MOAIAction", "class_m_o_a_i_action.html", [
-      [ "FLAGS_AUTO_STOP", "class_m_o_a_i_action.html#ae33c78feb670de33d2abf21ec0624531a2afdf74ff26e1efb5e2d3dd04b58bc5a", null ],
-      [ "FLAGS_IS_PAUSED", "class_m_o_a_i_action.html#ae33c78feb670de33d2abf21ec0624531ab3730ae3255df8a444316c1c3c2c59f6", null ],
-      [ "FLAGS_IS_UPDATING", "class_m_o_a_i_action.html#ae33c78feb670de33d2abf21ec0624531a1f2eed09eea86837e6c9ba97e2ffc901", null ],
-      [ "EVENT_ACTION_PRE_UPDATE", "class_m_o_a_i_action.html#a950bf8e3371138ceb9649d45e9a96340a184dd5d415bcb17f3b8ec2bdd598a57d", null ],
-      [ "EVENT_ACTION_POST_UPDATE", "class_m_o_a_i_action.html#a950bf8e3371138ceb9649d45e9a96340acc0dbef565742a396ddf5b9b973acf46", null ],
-      [ "EVENT_START", "class_m_o_a_i_action.html#a950bf8e3371138ceb9649d45e9a96340a36ceb63724b877aae2b76f4bdaf22f5e", null ],
-      [ "EVENT_STOP", "class_m_o_a_i_action.html#a950bf8e3371138ceb9649d45e9a96340ac9bede468864b3ea2574a7b355cf6590", null ],
-      [ "TOTAL_EVENTS", "class_m_o_a_i_action.html#a950bf8e3371138ceb9649d45e9a96340a42fbb134ff91389a000faa8cda2bf844", null ],
       [ "addChild", "class_m_o_a_i_action.html#a8fea0db204dbd95935213b126ac7c3f0", null ],
       [ "attach", "class_m_o_a_i_action.html#ad610e81d67e0f46a35efc3f00b7f5942", null ],
       [ "clear", "class_m_o_a_i_action.html#ac24081473240efb468d9b16bcd7821ef", null ],
       [ "defer", "class_m_o_a_i_action.html#a53bb5ac7dca28ac9b6ac1495578e0270", null ],
       [ "detach", "class_m_o_a_i_action.html#a24d37eca614e5418097c430f4a65cf91", null ],
       [ "getChildren", "class_m_o_a_i_action.html#a96ddf70e1134ecda52cee9fd4f6eb0e9", null ],
+      [ "hasChildren", "class_m_o_a_i_action.html#aa40b6e27b9771f9261fac7e170b858f5", null ],
       [ "isActive", "class_m_o_a_i_action.html#afa8fd5b41e86e4b8269cd6f0cb01fb2f", null ],
       [ "isBusy", "class_m_o_a_i_action.html#a170ad69c9649d56510b11cd778d04547", null ],
       [ "isDone", "class_m_o_a_i_action.html#aa569781a8d420180cd52184768d68400", null ],
@@ -23,7 +16,8 @@ var group__moai_sim =
       [ "setAutoStop", "class_m_o_a_i_action.html#af2f086319621b1bdca8c865bbd25b9b5", null ],
       [ "start", "class_m_o_a_i_action.html#a7fc3024adc0215ffe25f4acd8fc1351b", null ],
       [ "stop", "class_m_o_a_i_action.html#a78d61632dfeda0b23cbf3f12e9099d0e", null ],
-      [ "throttle", "class_m_o_a_i_action.html#a6ef374bfe3f0384894919498af600200", null ]
+      [ "throttle", "class_m_o_a_i_action.html#a6ef374bfe3f0384894919498af600200", null ],
+      [ "update", "class_m_o_a_i_action.html#afea3a88caa3c906025a589d68c0abc36", null ]
     ] ],
     [ "MOAIActionTree", "class_m_o_a_i_action_tree.html", [
       [ "getRoot", "class_m_o_a_i_action_tree.html#a71b74e2b91d640b776974bd504e85538", null ],
@@ -43,13 +37,6 @@ var group__moai_sim =
       [ "setKey", "class_m_o_a_i_anim_curve.html#a17a0f6d8d07da1fc9a5e6932904c26e4", null ]
     ] ],
     [ "MOAIAnimCurveBase", "class_m_o_a_i_anim_curve_base.html", [
-      [ "ATTR_TIME", "class_m_o_a_i_anim_curve_base.html#a5a77d65f4abba81d4456fa6ba8136e24ad4dc69dfe667197925f278cda8ec39d6", null ],
-      [ "ATTR_VALUE", "class_m_o_a_i_anim_curve_base.html#a5a77d65f4abba81d4456fa6ba8136e24a534f100b0574f33e4a57e2e4daf3395c", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_anim_curve_base.html#a5a77d65f4abba81d4456fa6ba8136e24a8ee61da7f9c53c2464c6de96de1f040e", null ],
-      [ "CLAMP", "class_m_o_a_i_anim_curve_base.html#aad393aa3e173d7f081ab4bbc6ba5027da44cabaec5bbbef7d3e4b7e9a259283f1", null ],
-      [ "WRAP", "class_m_o_a_i_anim_curve_base.html#aad393aa3e173d7f081ab4bbc6ba5027da8e7838b96be55048186754b37db105dd", null ],
-      [ "MIRROR", "class_m_o_a_i_anim_curve_base.html#aad393aa3e173d7f081ab4bbc6ba5027dab9aa0079c7544a4246b445bb04ef0352", null ],
-      [ "APPEND", "class_m_o_a_i_anim_curve_base.html#aad393aa3e173d7f081ab4bbc6ba5027daf38784ef4b08f294d4a78f62181729a0", null ],
       [ "getLength", "class_m_o_a_i_anim_curve_base.html#a30dcbd4839cffb7809130d6129db5965", null ],
       [ "reserveKeys", "class_m_o_a_i_anim_curve_base.html#a0aadd8da32e02807101d10576fe12756", null ],
       [ "setWrapMode", "class_m_o_a_i_anim_curve_base.html#ac964f6549dd08366bbeb6e174a41a530", null ]
@@ -65,16 +52,7 @@ var group__moai_sim =
     [ "MOAIBitmapFontReader", "class_m_o_a_i_bitmap_font_reader.html", [
       [ "loadPage", "class_m_o_a_i_bitmap_font_reader.html#a34d0b61b18d05a2a48256515bb17794d", null ]
     ] ],
-    [ "MOAIBoundsDeck", "class_m_o_a_i_bounds_deck.html", [
-      [ "reserveBounds", "class_m_o_a_i_bounds_deck.html#adf4577b913bc65f1328a2bad70dc6ce1", null ],
-      [ "reserveIndices", "class_m_o_a_i_bounds_deck.html#a8cf3aec43757ca4cc95fdb9303eab40b", null ],
-      [ "setBounds", "class_m_o_a_i_bounds_deck.html#a3ddf67154301cc44f70815ba86e51cb0", null ],
-      [ "setIndex", "class_m_o_a_i_bounds_deck.html#ac4d4d6ead68a683c86fdcab5c9b904f1", null ]
-    ] ],
     [ "MOAIButtonSensor", "class_m_o_a_i_button_sensor.html", [
-      [ "IS_DOWN", "class_m_o_a_i_button_sensor.html#a9a3be2d66956bd67c0b66c32d8b30f17adde4a55689a9b6c30007851ddea91040", null ],
-      [ "DOWN", "class_m_o_a_i_button_sensor.html#a9a3be2d66956bd67c0b66c32d8b30f17a9b0b4a95b99523966e0e34ffdadac9da", null ],
-      [ "UP", "class_m_o_a_i_button_sensor.html#a9a3be2d66956bd67c0b66c32d8b30f17aba595d8bca8bc5e67c37c0a9d89becfa", null ],
       [ "down", "class_m_o_a_i_button_sensor.html#a378f88d5140456c39f0edf4edd7a1cb9", null ],
       [ "isDown", "class_m_o_a_i_button_sensor.html#ae84919226de2d0dee74e35616e0b743c", null ],
       [ "isUp", "class_m_o_a_i_button_sensor.html#acccab94314ee3bab90664b24c5151b92", null ],
@@ -82,11 +60,6 @@ var group__moai_sim =
       [ "up", "class_m_o_a_i_button_sensor.html#a538e44afa52c3d6599adfd9b46d5b805", null ]
     ] ],
     [ "MOAICamera", "class_m_o_a_i_camera.html", [
-      [ "CAMERA_TYPE_3D", "class_m_o_a_i_camera.html#a2dbb833ef0dcc466dd02ee76badaf709a88a5b907d517a2170883f648069a5c6d", null ],
-      [ "CAMERA_TYPE_ORTHO", "class_m_o_a_i_camera.html#a2dbb833ef0dcc466dd02ee76badaf709a7038ded8b17fb42980caf55bfe41c578", null ],
-      [ "CAMERA_TYPE_WINDOW", "class_m_o_a_i_camera.html#a2dbb833ef0dcc466dd02ee76badaf709ae2a36f3900970872fa5d3608f07aeb2b", null ],
-      [ "ATTR_FOV", "class_m_o_a_i_camera.html#aea33efd5e2c69d615faad5c5965510aaac4811add4f8f8cad6c56cb7191816c3f", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_camera.html#aea33efd5e2c69d615faad5c5965510aaa8ee61da7f9c53c2464c6de96de1f040e", null ],
       [ "getFarPlane", "class_m_o_a_i_camera.html#a961c86e9fcc4d65817204716b94e0b68", null ],
       [ "getFieldOfView", "class_m_o_a_i_camera.html#ae66278c2a3a1f90a1d33aab32eabd1e4", null ],
       [ "getFloorMove", "class_m_o_a_i_camera.html#a0eb0d2878f565aff0cfbc34ad38d9397", null ],
@@ -102,24 +75,11 @@ var group__moai_sim =
       [ "setOrtho", "class_m_o_a_i_camera.html#a82f4ac72cc69adb730140361896529a8", null ],
       [ "setType", "class_m_o_a_i_camera.html#a67cc62bf978846152891fc86d00f2648", null ]
     ] ],
-    [ "MOAICamera2D", "class_m_o_a_i_camera2_d.html", [
-      [ "getFarPlane", "class_m_o_a_i_camera2_d.html#a057e196ccd6862541a660158826ca852", null ],
-      [ "getNearPlane", "class_m_o_a_i_camera2_d.html#a917963ba77faebe8f0162216b7d73063", null ],
-      [ "setFarPlane", "class_m_o_a_i_camera2_d.html#ad702eb8464227f78113fa15fcd01a5d2", null ],
-      [ "setNearPlane", "class_m_o_a_i_camera2_d.html#aec15d6812672dc9aeacc45b1060bd8df", null ]
-    ] ],
     [ "MOAICameraAnchor2D", "class_m_o_a_i_camera_anchor2_d.html", [
-      [ "INHERIT_LOC", "class_m_o_a_i_camera_anchor2_d.html#a0b887f38fa71033f0904f8e2330b6815a4c7bdd5e0f8874baef2f803717760a77", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_camera_anchor2_d.html#a0b887f38fa71033f0904f8e2330b6815a8ee61da7f9c53c2464c6de96de1f040e", null ],
       [ "setParent", "class_m_o_a_i_camera_anchor2_d.html#a5ce1a849c101b5d562ec4c60c258ec1b", null ],
       [ "setRect", "class_m_o_a_i_camera_anchor2_d.html#af878ca354021390a4d3ab58cc51ea621", null ]
     ] ],
     [ "MOAICameraFitter2D", "class_m_o_a_i_camera_fitter2_d.html", [
-      [ "FITTING_MODE_SEEK_LOC", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a2d89657661db8446d046916279c747c9", null ],
-      [ "FITTING_MODE_SEEK_SCALE", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a35d5c7ee47a40283b23ba4468dc85419", null ],
-      [ "FITTING_MODE_APPLY_ANCHORS", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8ad47d122b0d9f9166cc1e8bdaf81a7d79", null ],
-      [ "FITTING_MODE_APPLY_BOUNDS", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a5ad5918b7422aafe91b1c1e694e986eb", null ],
-      [ "FITTING_MODE_MASK", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a61ec7a7a91819a5dfdd48104f64170ae", null ],
       [ "clearAnchors", "class_m_o_a_i_camera_fitter2_d.html#afd995b7a1740f2219d7d948d44a01939", null ],
       [ "clearFitMode", "class_m_o_a_i_camera_fitter2_d.html#a1591c31f8877a9dde56c3de07bd81dbc", null ],
       [ "getFitDistance", "class_m_o_a_i_camera_fitter2_d.html#a9b4158fc87b8545841f8f7290d633bc1", null ],
@@ -138,17 +98,11 @@ var group__moai_sim =
       [ "setFitScale", "class_m_o_a_i_camera_fitter2_d.html#a15d2aae9fa28832560d0744a4f53f458", null ],
       [ "setMin", "class_m_o_a_i_camera_fitter2_d.html#ad8a73620c50de441fd4734bb020550f6", null ],
       [ "setViewport", "class_m_o_a_i_camera_fitter2_d.html#ae9e038146b1f1149aa58a94ae76cfad0", null ],
-      [ "snapToTarget", "class_m_o_a_i_camera_fitter2_d.html#a2166bd307fd4ee914342108f86435cde", null ]
+      [ "snapToTarget", "class_m_o_a_i_camera_fitter2_d.html#a2166bd307fd4ee914342108f86435cde", null ],
+      [ "startTrackingNode", "class_m_o_a_i_camera_fitter2_d.html#abce7b0c85702f8ad3d66eda327ab6e39", null ],
+      [ "stopTrackingNode", "class_m_o_a_i_camera_fitter2_d.html#a30bb834fad56e47652ca791fde3a7d91", null ]
     ] ],
     [ "MOAIColor", "class_m_o_a_i_color.html", [
-      [ "ATTR_R_COL", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fcaeb5be7c2676ab6ddd6174ab761162395", null ],
-      [ "ATTR_G_COL", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fca1d29aa65bc7dfb923f8a99ddd73861b4", null ],
-      [ "ATTR_B_COL", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fca3302cbccc2ea178359567fafe70beb02", null ],
-      [ "ATTR_A_COL", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fcad76a791f338dc5cbd5d069906d1e4e21", null ],
-      [ "ADD_COLOR", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fcaabe5d72a00b2abc5d4f56c2af9ee1882", null ],
-      [ "INHERIT_COLOR", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fcaee079b74c2ed78fe8f1995c55e7f9cc6", null ],
-      [ "COLOR_TRAIT", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fca1999031597a8845cf46a9e759cb8dec7", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_color.html#ac34c4c978f4130a92a5068f9e21ea9fca8ee61da7f9c53c2464c6de96de1f040e", null ],
       [ "getColor", "class_m_o_a_i_color.html#a8f7724fd1b4c2ad26267827b066667c6", null ],
       [ "moveColor", "class_m_o_a_i_color.html#a442051fc7f57906e4edec76e2062202e", null ],
       [ "seekColor", "class_m_o_a_i_color.html#a8c9078caf68a8188393c95bf990e4785", null ],
@@ -166,30 +120,12 @@ var group__moai_sim =
       [ "setDefaultParent", "class_m_o_a_i_coroutine.html#af2fa0ff619510961c046de37cc6baa3f", null ],
       [ "step", "class_m_o_a_i_coroutine.html#a76b1bef52f2fe6584519588b116f99ea", null ]
     ] ],
-    [ "MOAIDebugLines", "class_m_o_a_i_debug_lines.html", [
-      [ "COLLISION_ACTIVE_PROP_BOUNDS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a49b2a9ce86f59a5fadf2d81d6cfeadc1", null ],
-      [ "COLLISION_ACTIVE_OVERLAP_PROP_BOUNDS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a13aa952cc47ce890d9fb389721a60303", null ],
-      [ "COLLISION_ACTIVE_TOUCHED_PROP_BOUNDS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a7396ff0702036013c0adaf607a105597", null ],
-      [ "COLLISION_OVERLAP_PROP_BOUNDS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a224bff5a13e7d0c4d8ea24d0066ec86e", null ],
-      [ "PARTITION_CELLS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a37319d57590f93062d32640b4cda9278", null ],
-      [ "PARTITION_PADDED_CELLS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469ac62e207c0c82610fef5367235c23afb9", null ],
-      [ "PROP_MODEL_AXIS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a6920598b9cf4aa50f7eb24985a27eb63", null ],
-      [ "PROP_MODEL_DIAGONALS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a15e97e2b39d55ecb1da4704bdcba454f", null ],
-      [ "PROP_MODEL_BOUNDS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469aee9e86b1f172b36fc28e9a593fc2d272", null ],
-      [ "PROP_WORLD_BOUNDS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a76b3d3331a1db527e631284287a2925a", null ],
-      [ "TEXT_BOX", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469aad8727e0d85f7e5b1a949d278ee79101", null ],
-      [ "TEXT_BOX_BASELINES", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a1de69a97ae19940c04c60dcf60833dc5", null ],
-      [ "TEXT_BOX_GLYPH_BOUNDS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a8e0c155981d4f99f0fe9ad451a70b661", null ],
-      [ "TEXT_BOX_GLYPHS", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469afee25f9c5426c1d492969107a3dfae80", null ],
-      [ "TEXT_BOX_LAYOUT", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469a8b7654a7871a9dc60c10ffc4e208dc33", null ],
-      [ "TOTAL_STYLES", "class_m_o_a_i_debug_lines.html#a10e74d65d7876276a8f6061c71dcf469ab274b327f5ad3debcbffd6cb9e869823", null ],
-      [ "setStyle", "class_m_o_a_i_debug_lines.html#af6bd05af14d2ab053ca0cea58c725404", null ],
-      [ "showStyle", "class_m_o_a_i_debug_lines.html#a78e0d7833112d263b9dab5cd7f093468", null ]
-    ] ],
     [ "MOAIDeck", "class_m_o_a_i_deck.html", [
-      [ "NO_CONTENT", "class_m_o_a_i_deck.html#a1f3b6c692395e5007ff47ce5d9304c1ca5ecba375070ad29ed96dff844d90a707", null ],
-      [ "getBounds", "class_m_o_a_i_deck.html#a2a8c7dba0f2fbe37e181b0e62a2870a3", null ],
-      [ "subdivideRect", "class_m_o_a_i_deck.html#ad056b439fd9bd9dc87782d5226ecbafd", null ]
+      [ "getBounds", "class_m_o_a_i_deck.html#a2a8c7dba0f2fbe37e181b0e62a2870a3", null ]
+    ] ],
+    [ "MOAIDeckPropBase", "class_m_o_a_i_deck_prop_base.html", [
+      [ "getDeck", "class_m_o_a_i_deck_prop_base.html#a6a0141f3bc7defc19fc8db55173f39c5", null ],
+      [ "setDeck", "class_m_o_a_i_deck_prop_base.html#a129d45d1dd35a22429514b2e2a3198ae", null ]
     ] ],
     [ "MOAIDeckRemapper", "class_m_o_a_i_deck_remapper.html", [
       [ "reserve", "class_m_o_a_i_deck_remapper.html#a0127236197c1cd3463ea259eacb5045e", null ],
@@ -200,8 +136,10 @@ var group__moai_sim =
       [ "drawBezierCurve", "class_m_o_a_i_draw.html#a99b3112ced7fffe813a67b4754ebd3ec", null ],
       [ "drawBoxOutline", "class_m_o_a_i_draw.html#adee2f0ab3b0eeb48b60064b3957c7bbe", null ],
       [ "drawCircle", "class_m_o_a_i_draw.html#a27b2c0d4c5cf89928ab58c0a1c8159ca", null ],
+      [ "drawCircleSpokes", "class_m_o_a_i_draw.html#a4a97e9b120bc29236fec04c54c750697", null ],
       [ "drawElements", "class_m_o_a_i_draw.html#af0a15ec7cd24feeddacc81df046f3227", null ],
       [ "drawEllipse", "class_m_o_a_i_draw.html#aef303338c708544631577cac3e913bd6", null ],
+      [ "drawEllipseSpokes", "class_m_o_a_i_draw.html#ae32d9c47a82b923948c095f68519cc9b", null ],
       [ "drawLine", "class_m_o_a_i_draw.html#aaa8c2f6139babd7b3787be6ec56179a8", null ],
       [ "drawPoints", "class_m_o_a_i_draw.html#a2ece499da7943160fd3618bf1bb3e5a3", null ],
       [ "drawRay", "class_m_o_a_i_draw.html#a8735021a1fc3c9a2c2793b85022b60a5", null ],
@@ -212,7 +150,14 @@ var group__moai_sim =
       [ "fillEllipse", "class_m_o_a_i_draw.html#a5c3e7c6bdea9dbfb8fcb6f14a0f1755b", null ],
       [ "fillFan", "class_m_o_a_i_draw.html#a10616685b7ea98501874733166056138", null ],
       [ "fillRect", "class_m_o_a_i_draw.html#ad5c863cc428637391c820d349fb80fce", null ],
-      [ "setBlendMode", "class_m_o_a_i_draw.html#a5e925de720d755f1f2e8d2155d2de6dd", null ]
+      [ "setBlendMode", "class_m_o_a_i_draw.html#a5e925de720d755f1f2e8d2155d2de6dd", null ],
+      [ "setDefaultTexture", "class_m_o_a_i_draw.html#af67dcc91cae2a3698b95c8a4f147f2dd", null ],
+      [ "setPenColor", "class_m_o_a_i_draw.html#aa77771e411c2d2d59d23d8909547972e", null ],
+      [ "setPenWidth", "class_m_o_a_i_draw.html#a51b24f59e60ccb4d64dc2a8df8c332b5", null ]
+    ] ],
+    [ "MOAIDrawDeck", "class_m_o_a_i_draw_deck.html", [
+      [ "setBoundsCallback", "class_m_o_a_i_draw_deck.html#a1a5fcf9b20f261923db57568cbd86bb7", null ],
+      [ "setDrawCallback", "class_m_o_a_i_draw_deck.html#a59b8e5f5b70c3a7cc096f6005a836c56", null ]
     ] ],
     [ "MOAIDynamicGlyphCache", "class_m_o_a_i_dynamic_glyph_cache.html", [
       [ "setColorFormat", "class_m_o_a_i_dynamic_glyph_cache.html#ace220ed188bebd790d0c8272e6aab657", null ],
@@ -223,9 +168,12 @@ var group__moai_sim =
       [ "setLink", "class_m_o_a_i_ease_driver.html#a1f0c0e632ced65c8a11dc213de95b23c", null ]
     ] ],
     [ "MOAIEaseType", "class_m_o_a_i_ease_type.html", null ],
+    [ "MOAIFancyGrid", "class_m_o_a_i_fancy_grid.html", [
+      [ "fillColor", "class_m_o_a_i_fancy_grid.html#abef660d8d11bea9e3d11d82df85d04f8", null ],
+      [ "getColor", "class_m_o_a_i_fancy_grid.html#a8f7724fd1b4c2ad26267827b066667c6", null ],
+      [ "setColor", "class_m_o_a_i_fancy_grid.html#a15d1d6ee33884dde21b906fa02128003", null ]
+    ] ],
     [ "MOAIFont", "class_m_o_a_i_font.html", [
-      [ "FONT_AUTOLOAD_KERNING", "class_m_o_a_i_font.html#a0ae1e3bf78c960c83e2d437efd802058ae2df3ded73618c9ce963d7e3ffe1ab2c", null ],
-      [ "EVENT_RENDER_GLYPH", "class_m_o_a_i_font.html#a01aea4eb01aa6415eee118b5a5ee3dadaba9e6a5e12f2573bcaf3086262fcca7a", null ],
       [ "getCache", "class_m_o_a_i_font.html#aa24ce1c8f8a89178c09f9ea1a1bb26ed", null ],
       [ "getDefaultSize", "class_m_o_a_i_font.html#af5dd1b3a72a015a63e4334b2ecf3fc36", null ],
       [ "getFilename", "class_m_o_a_i_font.html#acd0c04eb1ef89440809965dc993e3bf3", null ],
@@ -247,20 +195,13 @@ var group__moai_sim =
     ] ],
     [ "MOAIFrameBuffer", "class_m_o_a_i_frame_buffer.html", [
       [ "getGrabbedImage", "class_m_o_a_i_frame_buffer.html#ac1ee7eee8e40a520dd6f753fa783a64b", null ],
-      [ "getPerformanceDrawCount", "class_m_o_a_i_frame_buffer.html#aef7de71222a8c3ee01a0cf2e5981db03", null ],
-      [ "getRenderTable", "class_m_o_a_i_frame_buffer.html#a9c996712f2a18688869a7cc2bf48ef28", null ],
       [ "grabNextFrame", "class_m_o_a_i_frame_buffer.html#a60d06ba601eee781333c0ad633063808", null ],
-      [ "isPendingGrab", "class_m_o_a_i_frame_buffer.html#a0735b90927ffac03e31fbc6ad96acbc7", null ],
-      [ "setRenderTable", "class_m_o_a_i_frame_buffer.html#a3780bf796f9bf3e50a923cb131bbd464", null ]
+      [ "isPendingGrab", "class_m_o_a_i_frame_buffer.html#a0735b90927ffac03e31fbc6ad96acbc7", null ]
     ] ],
     [ "MOAIFrameBufferTexture", "class_m_o_a_i_frame_buffer_texture.html", [
       [ "init", "class_m_o_a_i_frame_buffer_texture.html#ae40d2a23261d05518d7fa65b40ec89e2", null ]
     ] ],
     [ "MOAIGeometryWriter", "class_m_o_a_i_geometry_writer.html", [
-      [ "COLOR_ADD", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829dab182f36d94b13ba2c48ae0ebac53f2cd", null ],
-      [ "COLOR_MULTIPLY", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829daa6c4d8457f43cd736340f7e97949d5cf", null ],
-      [ "COLOR_OVERWRITE", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829da11680dbf4d4c4961c0b3162bd41ce1f1", null ],
-      [ "COLOR_SUBTRACT", "class_m_o_a_i_geometry_writer.html#a1b7b7893d940926615b39239ac05829dad2b2c7ddcb295d803f0226b31a211f2f", null ],
       [ "applyColor", "class_m_o_a_i_geometry_writer.html#afd0a6cf305330a200ce6769b40df6298", null ],
       [ "applyLightFromImage", "class_m_o_a_i_geometry_writer.html#aa67f4aa77bb47cc3d6090cfc73969d1d", null ],
       [ "applyLinearGradient", "class_m_o_a_i_geometry_writer.html#a477bb0e8dbb1c11adb6c18f38dd63c90", null ],
@@ -271,141 +212,33 @@ var group__moai_sim =
       [ "writeCube", "class_m_o_a_i_geometry_writer.html#ad26bbd0fc8918413404818b7200ac6cc", null ]
     ] ],
     [ "MOAIGfxBuffer", "class_m_o_a_i_gfx_buffer.html", [
-      [ "UPDATE_MODE_MAPBUFFER", "class_m_o_a_i_gfx_buffer.html#a098384b0034af0daa7c9c5c82b563567afa2111e3e3c18a86d8f6109593025336", null ],
-      [ "UPDATE_MODE_ORPHAN", "class_m_o_a_i_gfx_buffer.html#a098384b0034af0daa7c9c5c82b563567a516ec2041e7bd5144f7ca09cd8650799", null ],
-      [ "UPDATE_MODE_SUBDATA", "class_m_o_a_i_gfx_buffer.html#a098384b0034af0daa7c9c5c82b563567a7b8e59b7bad246c5f6502f9d06445d32", null ],
       [ "copyFromStream", "class_m_o_a_i_gfx_buffer.html#aba04e8d01be09b3a97125d5fca67df45", null ],
       [ "release", "class_m_o_a_i_gfx_buffer.html#a0b81ec9a1a8b4f32a4503d930734d1bf", null ],
       [ "reserve", "class_m_o_a_i_gfx_buffer.html#a0127236197c1cd3463ea259eacb5045e", null ],
       [ "reserveVBOs", "class_m_o_a_i_gfx_buffer.html#af6dd3a2c32d7cc1aa9e3a1a9d38e416a", null ],
-      [ "reset", "class_m_o_a_i_gfx_buffer.html#a8e2821b0f66df7e903a580848eae146f", null ],
       [ "scheduleFlush", "class_m_o_a_i_gfx_buffer.html#a48f42479a3abcc8ed1f4288926827258", null ]
     ] ],
-    [ "MOAIGfxDevice", "class_m_o_a_i_gfx_device.html", [
-      [ "EVENT_RESIZE", "class_m_o_a_i_gfx_device.html#a92c4bd66c8074c3d126a069275a0a80caea8121bee57a1be5699ea464decd2d2f", null ],
-      [ "TOTAL_EVENTS", "class_m_o_a_i_gfx_device.html#a92c4bd66c8074c3d126a069275a0a80ca42fbb134ff91389a000faa8cda2bf844", null ],
-      [ "getFrameBuffer", "class_m_o_a_i_gfx_device.html#a0b5046a6928e95a51ec9c6ca3170e783", null ],
-      [ "getMaxTextureSize", "class_m_o_a_i_gfx_device.html#aceafa6d05423f333502f817024717666", null ],
-      [ "getMaxTextureUnits", "class_m_o_a_i_gfx_device.html#aecc65af548a14f2534e9383eafd1d8ce", null ],
-      [ "getViewSize", "class_m_o_a_i_gfx_device.html#af1c29338f55b59c65a76d9cd43ba1c78", null ],
-      [ "setDefaultTexture", "class_m_o_a_i_gfx_device.html#af67dcc91cae2a3698b95c8a4f147f2dd", null ],
-      [ "setPenColor", "class_m_o_a_i_gfx_device.html#aa77771e411c2d2d59d23d8909547972e", null ],
-      [ "setPenWidth", "class_m_o_a_i_gfx_device.html#a51b24f59e60ccb4d64dc2a8df8c332b5", null ]
-    ] ],
-    [ "MOAIGfxQuad2D", "class_m_o_a_i_gfx_quad2_d.html", [
-      [ "setQuad", "class_m_o_a_i_gfx_quad2_d.html#a53012137822dd626f153353fcbbb9edc", null ],
-      [ "setRect", "class_m_o_a_i_gfx_quad2_d.html#af878ca354021390a4d3ab58cc51ea621", null ],
-      [ "setUVQuad", "class_m_o_a_i_gfx_quad2_d.html#ad6e7e69cc3acf391abe4c8959f364a34", null ],
-      [ "setUVRect", "class_m_o_a_i_gfx_quad2_d.html#a2b11a6282e37257e44c8d1788712a64e", null ],
-      [ "transform", "class_m_o_a_i_gfx_quad2_d.html#ad09bd9eed9378f9b861353c25dab11a3", null ],
-      [ "transformUV", "class_m_o_a_i_gfx_quad2_d.html#a48f2c30d49b9c3da1700e3d5fb9997af", null ]
-    ] ],
-    [ "MOAIGfxQuadDeck2D", "class_m_o_a_i_gfx_quad_deck2_d.html", [
-      [ "getQuad", "class_m_o_a_i_gfx_quad_deck2_d.html#ae91c8511386bc50846c39cde6249261c", null ],
-      [ "getRect", "class_m_o_a_i_gfx_quad_deck2_d.html#a3a73c3213f7911bb16064373a881d8c5", null ],
-      [ "getUVQuad", "class_m_o_a_i_gfx_quad_deck2_d.html#a8b8ef9cf5550b6cc056810567c6d9fef", null ],
-      [ "getUVRect", "class_m_o_a_i_gfx_quad_deck2_d.html#a3d23b424f607710dea7d0e316d95a4ed", null ],
-      [ "reserve", "class_m_o_a_i_gfx_quad_deck2_d.html#a0127236197c1cd3463ea259eacb5045e", null ],
-      [ "setMaterialID", "class_m_o_a_i_gfx_quad_deck2_d.html#a9e8d1158ce930c7578f3ec8c78ec1ea9", null ],
-      [ "setQuad", "class_m_o_a_i_gfx_quad_deck2_d.html#a53012137822dd626f153353fcbbb9edc", null ],
-      [ "setRect", "class_m_o_a_i_gfx_quad_deck2_d.html#af878ca354021390a4d3ab58cc51ea621", null ],
-      [ "setUVQuad", "class_m_o_a_i_gfx_quad_deck2_d.html#ad6e7e69cc3acf391abe4c8959f364a34", null ],
-      [ "setUVRect", "class_m_o_a_i_gfx_quad_deck2_d.html#a2b11a6282e37257e44c8d1788712a64e", null ],
-      [ "transform", "class_m_o_a_i_gfx_quad_deck2_d.html#ad09bd9eed9378f9b861353c25dab11a3", null ],
-      [ "transformUV", "class_m_o_a_i_gfx_quad_deck2_d.html#a48f2c30d49b9c3da1700e3d5fb9997af", null ]
-    ] ],
-    [ "MOAIGfxQuadListDeck2D", "class_m_o_a_i_gfx_quad_list_deck2_d.html", [
-      [ "reserveLists", "class_m_o_a_i_gfx_quad_list_deck2_d.html#a0256b3756b23336c687cff5969c17301", null ],
-      [ "reservePairs", "class_m_o_a_i_gfx_quad_list_deck2_d.html#a918320966ec6e080c67dcc11ffe9c142", null ],
-      [ "reserveQuads", "class_m_o_a_i_gfx_quad_list_deck2_d.html#aad8c8eb5d47af3aece9392163f17fabd", null ],
-      [ "reserveUVQuads", "class_m_o_a_i_gfx_quad_list_deck2_d.html#a268a6a94dcdba22ac6109f17fc66b659", null ],
-      [ "setList", "class_m_o_a_i_gfx_quad_list_deck2_d.html#a453666869a5ebf7ffce24efde624afb2", null ],
-      [ "setPair", "class_m_o_a_i_gfx_quad_list_deck2_d.html#ae3ab821829065b770b7a62cb114f4c7f", null ],
-      [ "setQuad", "class_m_o_a_i_gfx_quad_list_deck2_d.html#a53012137822dd626f153353fcbbb9edc", null ],
-      [ "setRect", "class_m_o_a_i_gfx_quad_list_deck2_d.html#af878ca354021390a4d3ab58cc51ea621", null ],
-      [ "setUVQuad", "class_m_o_a_i_gfx_quad_list_deck2_d.html#ad6e7e69cc3acf391abe4c8959f364a34", null ],
-      [ "setUVRect", "class_m_o_a_i_gfx_quad_list_deck2_d.html#a2b11a6282e37257e44c8d1788712a64e", null ],
-      [ "transform", "class_m_o_a_i_gfx_quad_list_deck2_d.html#ad09bd9eed9378f9b861353c25dab11a3", null ],
-      [ "transformUV", "class_m_o_a_i_gfx_quad_list_deck2_d.html#a48f2c30d49b9c3da1700e3d5fb9997af", null ]
+    [ "MOAIGfxMgr", "class_m_o_a_i_gfx_mgr.html", [
+      [ "getFrameBuffer", "class_m_o_a_i_gfx_mgr.html#a0b5046a6928e95a51ec9c6ca3170e783", null ],
+      [ "getMaxTextureSize", "class_m_o_a_i_gfx_mgr.html#aceafa6d05423f333502f817024717666", null ],
+      [ "getMaxTextureUnits", "class_m_o_a_i_gfx_mgr.html#aecc65af548a14f2534e9383eafd1d8ce", null ],
+      [ "getViewSize", "class_m_o_a_i_gfx_mgr.html#af1c29338f55b59c65a76d9cd43ba1c78", null ],
+      [ "purgeResources", "class_m_o_a_i_gfx_mgr.html#a69cbc0484af39863c8d4e63ca682817d", null ],
+      [ "renewResources", "class_m_o_a_i_gfx_mgr.html#a87958a490305837b19c7e38023f4f3e6", null ]
     ] ],
     [ "MOAIGfxResource", "class_m_o_a_i_gfx_resource.html", [
-      [ "STATE_NEW", "class_m_o_a_i_gfx_resource.html#aeac2de18c0ed342a690b3e2ba3c52426a5f75e27a75ed0aee0e9aaabd5be07551", null ],
-      [ "STATE_NEEDS_CPU_CREATE", "class_m_o_a_i_gfx_resource.html#aeac2de18c0ed342a690b3e2ba3c52426a3f22df65865b543225b3464a3b77c1ad", null ],
-      [ "STATE_NEEDS_GPU_CREATE", "class_m_o_a_i_gfx_resource.html#aeac2de18c0ed342a690b3e2ba3c52426a97f66679cc5d4456d84356ac12caf591", null ],
-      [ "STATE_READY_TO_BIND", "class_m_o_a_i_gfx_resource.html#aeac2de18c0ed342a690b3e2ba3c52426a7973d6b692fc0d57d18b21b9657beeec", null ],
-      [ "STATE_ERROR", "class_m_o_a_i_gfx_resource.html#aeac2de18c0ed342a690b3e2ba3c52426ad55c0bfe3a7d3ae983e81a98e3384d6c", null ],
-      [ "LOADING_POLICY_NONE", "class_m_o_a_i_gfx_resource.html#a0ac0b7994a7d738aa77d2c1cfe8d6d13a7b703931f77c92eb176bb33e1f8ab292", null ],
-      [ "LOADING_POLICY_CPU_GPU_ASAP", "class_m_o_a_i_gfx_resource.html#a0ac0b7994a7d738aa77d2c1cfe8d6d13a5a55733657cae629078000aca0dfcedb", null ],
-      [ "LOADING_POLICY_CPU_ASAP_GPU_NEXT", "class_m_o_a_i_gfx_resource.html#a0ac0b7994a7d738aa77d2c1cfe8d6d13a763355c32199ec5ed97f2e5dbfb4463f", null ],
-      [ "LOADING_POLICY_CPU_ASAP_GPU_BIND", "class_m_o_a_i_gfx_resource.html#a0ac0b7994a7d738aa77d2c1cfe8d6d13a11ee9b14f5d7b508e2cae962c8543855", null ],
-      [ "LOADING_POLICY_CPU_GPU_BIND", "class_m_o_a_i_gfx_resource.html#a0ac0b7994a7d738aa77d2c1cfe8d6d13a0e83182522861dc6e83cdeffbbe67a15", null ],
       [ "getAge", "class_m_o_a_i_gfx_resource.html#ab67fadd0e3cabd826b83d8b2afca97bd", null ],
       [ "purge", "class_m_o_a_i_gfx_resource.html#a83ddf73984da2c776e27d012a2110fc7", null ],
       [ "setReloader", "class_m_o_a_i_gfx_resource.html#ae059510554343fde11a3d333b63096bd", null ]
     ] ],
-    [ "MOAIGlyphCache", "class_m_o_a_i_glyph_cache.html", [
-      [ "STATUS_OK", "class_m_o_a_i_glyph_cache.html#a15b3bbe041870ee299f7e042b0305e3ca7e4a42e3b6dd63708c64cf3db6f69566", null ],
-      [ "STATUS_ERROR", "class_m_o_a_i_glyph_cache.html#a15b3bbe041870ee299f7e042b0305e3ca5bde228d9506a863d51ffbc868ff67f7", null ],
-      [ "STATUS_UNSUPPORTED", "class_m_o_a_i_glyph_cache.html#a15b3bbe041870ee299f7e042b0305e3caef2b214bb9b6ccc009f27c76e81b3fef", null ]
-    ] ],
-    [ "MOAIGraphicsProp", "class_m_o_a_i_graphics_prop.html", [
-      [ "BILLBOARD_NONE", "class_m_o_a_i_graphics_prop.html#ae62fccd8cea8f216b24ba625d404c4aea2d6617d9e74c48c84283a1267b572c87", null ],
-      [ "BILLBOARD_NORMAL", "class_m_o_a_i_graphics_prop.html#ae62fccd8cea8f216b24ba625d404c4aeab89fdd8ead50224d4f83bf7ffc59ddec", null ],
-      [ "BILLBOARD_ORTHO", "class_m_o_a_i_graphics_prop.html#ae62fccd8cea8f216b24ba625d404c4aea4f70dcb676782c4dd345fd33c79e8340", null ],
-      [ "BILLBOARD_COMPASS", "class_m_o_a_i_graphics_prop.html#ae62fccd8cea8f216b24ba625d404c4aea03d492c385ec117e65f4e6ad65a13ba3", null ],
-      [ "BILLBOARD_SCREEN", "class_m_o_a_i_graphics_prop.html#ae62fccd8cea8f216b24ba625d404c4aeaea6794552e961afcd8da2a87d6a80763", null ],
-      [ "ATTR_SHADER", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffa601d01c6dffc9a5d960bef383a8d248f", null ],
-      [ "ATTR_BLEND_MODE", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffa3b3846701a9659b4572a73da2e2f8a85", null ],
-      [ "ATTR_SCISSOR_RECT", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffa72908d69143c5478da772934dd8582c0", null ],
-      [ "ATTR_LOCAL_VISIBLE", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffad9dc0ecd1b88d16a8adfe17730b385a5", null ],
-      [ "ATTR_VISIBLE", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffabc69989f75ee4aa84265105a6faf2406", null ],
-      [ "INHERIT_VISIBLE", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffa849808df4fc3512f5155cb9abb9739fd", null ],
-      [ "INHERIT_FRAME", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffa7ba5bd438de509536227f0e13f020e97", null ],
-      [ "FRAME_TRAIT", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffaea76a82ecea277e1e2b6a81f81076d1d", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_graphics_prop.html#aa94c5fdcac6a4b26211b612c3edc04ffa8ee61da7f9c53c2464c6de96de1f040e", null ],
-      [ "FLAGS_LOCAL_VISIBLE", "class_m_o_a_i_graphics_prop.html#afeaa6456e370d2eb59f5e139d9f8b00ca63b17b92fbe661b420a9a1d7bf25a22c", null ],
-      [ "FLAGS_VISIBLE", "class_m_o_a_i_graphics_prop.html#afeaa6456e370d2eb59f5e139d9f8b00cac33f718a98e66c958f0e9f600a3d1fa1", null ],
-      [ "LOD_FLAGS_MIN_LIMIT", "class_m_o_a_i_graphics_prop.html#a26c0312ac66c00f31cf886616c48afa2a69cbeeea1d45649a5fcea187dcecc9e1", null ],
-      [ "LOD_FLAGS_MAX_LIMIT", "class_m_o_a_i_graphics_prop.html#a26c0312ac66c00f31cf886616c48afa2a40edcaed16e9975f0245669697e712de", null ],
-      [ "isVisible", "class_m_o_a_i_graphics_prop.html#a915b22dba5fa16d20b7b6e3a512f6983", null ],
-      [ "reserveMaterials", "class_m_o_a_i_graphics_prop.html#a1d0fea9cda8607da81eb946d747d2b49", null ],
-      [ "setBillboard", "class_m_o_a_i_graphics_prop.html#a2771e556dd2ec6964d37ff93f8de803f", null ],
-      [ "setBlendEquation", "class_m_o_a_i_graphics_prop.html#a9497fb4e11f9f0ae4a9ac8423540979b", null ],
-      [ "setBlendMode", "class_m_o_a_i_graphics_prop.html#a5e925de720d755f1f2e8d2155d2de6dd", null ],
-      [ "setCullMode", "class_m_o_a_i_graphics_prop.html#a058612a8f9ea89376f3efc34ee60875a", null ],
-      [ "setDepthMask", "class_m_o_a_i_graphics_prop.html#a19c2b768a087100d8903e513da93c2e0", null ],
-      [ "setDepthTest", "class_m_o_a_i_graphics_prop.html#aff5ca594515a88eaae0665b106d8623e", null ],
-      [ "setIndexBatchSize", "class_m_o_a_i_graphics_prop.html#a214552861a4f960097e728a78e789e6f", null ],
-      [ "setMaterialBatch", "class_m_o_a_i_graphics_prop.html#ace831bd9eaed845f7de0a5fa304415b7", null ],
-      [ "setParent", "class_m_o_a_i_graphics_prop.html#a5ce1a849c101b5d562ec4c60c258ec1b", null ],
-      [ "setScissorRect", "class_m_o_a_i_graphics_prop.html#a8ce59567db516c33f20d88dc1b5c6036", null ],
-      [ "setShader", "class_m_o_a_i_graphics_prop.html#ac8303b38b1a40b66f1a691fdcd8e8909", null ],
-      [ "setTexture", "class_m_o_a_i_graphics_prop.html#aeb05c3ca33a736dbad3f6ae8cd5fdedb", null ],
-      [ "setUVTransform", "class_m_o_a_i_graphics_prop.html#aa1352c4e941193fbe366d6649c2e4f10", null ],
-      [ "setVisible", "class_m_o_a_i_graphics_prop.html#a61e6fe5ec0326fb78f1be66fae14be73", null ]
-    ] ],
-    [ "MOAIGraphicsProp2D", "class_m_o_a_i_graphics_prop2_d.html", [
-      [ "getGrid", "class_m_o_a_i_graphics_prop2_d.html#a432ce98aa2b789b2e9b5b1b276709c8a", null ],
-      [ "getIndex", "class_m_o_a_i_graphics_prop2_d.html#a563c57575aaa6e56d3ff3b866d24355b", null ],
-      [ "getPriority", "class_m_o_a_i_graphics_prop2_d.html#a4b74f914b5741d32bd70eaf8bcac7ec0", null ],
-      [ "inside", "class_m_o_a_i_graphics_prop2_d.html#a9a67f459b6d9227b1bf60d66b619cef7", null ],
-      [ "setBlendMode", "class_m_o_a_i_graphics_prop2_d.html#a5e925de720d755f1f2e8d2155d2de6dd", null ],
-      [ "setCullMode", "class_m_o_a_i_graphics_prop2_d.html#a058612a8f9ea89376f3efc34ee60875a", null ],
-      [ "setDeck", "class_m_o_a_i_graphics_prop2_d.html#a129d45d1dd35a22429514b2e2a3198ae", null ],
-      [ "setDepthMask", "class_m_o_a_i_graphics_prop2_d.html#a19c2b768a087100d8903e513da93c2e0", null ],
-      [ "setDepthTest", "class_m_o_a_i_graphics_prop2_d.html#aff5ca594515a88eaae0665b106d8623e", null ],
-      [ "setExpandForSort", "class_m_o_a_i_graphics_prop2_d.html#a5fb4d341d89d8e157e50dd8927d8cee2", null ],
-      [ "setFrame", "class_m_o_a_i_graphics_prop2_d.html#a791376032a1f272fa193223d411bc285", null ],
-      [ "setGrid", "class_m_o_a_i_graphics_prop2_d.html#abbb225be876bf5bee616b87ae2cc90b0", null ],
-      [ "setGridScale", "class_m_o_a_i_graphics_prop2_d.html#abb630d13193d46fa83535671e1f7fbe3", null ],
-      [ "setIndex", "class_m_o_a_i_graphics_prop2_d.html#ac4d4d6ead68a683c86fdcab5c9b904f1", null ],
-      [ "setParent", "class_m_o_a_i_graphics_prop2_d.html#a5ce1a849c101b5d562ec4c60c258ec1b", null ],
-      [ "setPriority", "class_m_o_a_i_graphics_prop2_d.html#a272ea6e5f650acd59d9f7aebe0dbd812", null ],
-      [ "setRemapper", "class_m_o_a_i_graphics_prop2_d.html#ac29c102801ed1ebb36c5134e480ca805", null ],
-      [ "setShader", "class_m_o_a_i_graphics_prop2_d.html#ac8303b38b1a40b66f1a691fdcd8e8909", null ],
-      [ "setTexture", "class_m_o_a_i_graphics_prop2_d.html#aeb05c3ca33a736dbad3f6ae8cd5fdedb", null ],
-      [ "setUVTransform", "class_m_o_a_i_graphics_prop2_d.html#aa1352c4e941193fbe366d6649c2e4f10", null ],
-      [ "setVisible", "class_m_o_a_i_graphics_prop2_d.html#a61e6fe5ec0326fb78f1be66fae14be73", null ]
+    [ "MOAIGlyphCache", "class_m_o_a_i_glyph_cache.html", null ],
+    [ "MOAIGraphicsPropBase", "class_m_o_a_i_graphics_prop_base.html", [
+      [ "isVisible", "class_m_o_a_i_graphics_prop_base.html#a915b22dba5fa16d20b7b6e3a512f6983", null ],
+      [ "setBillboard", "class_m_o_a_i_graphics_prop_base.html#a2771e556dd2ec6964d37ff93f8de803f", null ],
+      [ "setParent", "class_m_o_a_i_graphics_prop_base.html#a5ce1a849c101b5d562ec4c60c258ec1b", null ],
+      [ "setScissorRect", "class_m_o_a_i_graphics_prop_base.html#a8ce59567db516c33f20d88dc1b5c6036", null ],
+      [ "setUVTransform", "class_m_o_a_i_graphics_prop_base.html#aa1352c4e941193fbe366d6649c2e4f10", null ],
+      [ "setVisible", "class_m_o_a_i_graphics_prop_base.html#a61e6fe5ec0326fb78f1be66fae14be73", null ]
     ] ],
     [ "MOAIGrid", "class_m_o_a_i_grid.html", [
       [ "clearTileFlags", "class_m_o_a_i_grid.html#aa650453012a7ef22f70095eb56c67e2a", null ],
@@ -419,49 +252,15 @@ var group__moai_sim =
       [ "streamTilesOut", "class_m_o_a_i_grid.html#ac889ad150bcd83d2f83c14ac279f5e48", null ],
       [ "toggleTileFlags", "class_m_o_a_i_grid.html#a7ec99e0ff33126450ed693bcf338cd9d", null ]
     ] ],
-    [ "MOAIGridDeck2D", "class_m_o_a_i_grid_deck2_d.html", [
-      [ "reserveBrushes", "class_m_o_a_i_grid_deck2_d.html#aa561ad822495f523b83d343b589d4de9", null ],
-      [ "setBrush", "class_m_o_a_i_grid_deck2_d.html#a2dc7f0794935275f70b28e5d075c0c9b", null ],
-      [ "setDeck", "class_m_o_a_i_grid_deck2_d.html#a129d45d1dd35a22429514b2e2a3198ae", null ],
-      [ "setGrid", "class_m_o_a_i_grid_deck2_d.html#abbb225be876bf5bee616b87ae2cc90b0", null ],
-      [ "setRemapper", "class_m_o_a_i_grid_deck2_d.html#ac29c102801ed1ebb36c5134e480ca805", null ]
-    ] ],
-    [ "MOAIGridFancy", "class_m_o_a_i_grid_fancy.html", [
-      [ "fillAlpha", "class_m_o_a_i_grid_fancy.html#ab30292528a012ae694592fc96fc96fe7", null ],
-      [ "fillColor", "class_m_o_a_i_grid_fancy.html#abef660d8d11bea9e3d11d82df85d04f8", null ],
-      [ "fillScale", "class_m_o_a_i_grid_fancy.html#a9beb62480faa0e95b929132b308e8b2a", null ],
-      [ "getAlpha", "class_m_o_a_i_grid_fancy.html#a84cd798178a42cd6f221fc176bcb1d2d", null ],
-      [ "getColor", "class_m_o_a_i_grid_fancy.html#a8f7724fd1b4c2ad26267827b066667c6", null ],
-      [ "getPalette", "class_m_o_a_i_grid_fancy.html#ada5efdc07343e6c07f39d3d6101ed5a8", null ],
-      [ "getScale", "class_m_o_a_i_grid_fancy.html#a44f5ee198c42a16eeec2fdc37d9cacaf", null ],
-      [ "setAlpha", "class_m_o_a_i_grid_fancy.html#a10d127438a31f751afb834c9636dc6b4", null ],
-      [ "setColor", "class_m_o_a_i_grid_fancy.html#a15d1d6ee33884dde21b906fa02128003", null ],
-      [ "setPalette", "class_m_o_a_i_grid_fancy.html#a056680e778c79c3a75bfef3b1b00290c", null ],
-      [ "setRowAlpha", "class_m_o_a_i_grid_fancy.html#a7359452446b7222ef000ebe6f7fa9d97", null ],
-      [ "setRowColor", "class_m_o_a_i_grid_fancy.html#a4b3e77ff11512d93004a9bfcc736ec06", null ],
-      [ "setRowScale", "class_m_o_a_i_grid_fancy.html#a9c27d873167243503111fbfe6d989b48", null ],
-      [ "setScale", "class_m_o_a_i_grid_fancy.html#ad135f0a1c5f708b078db0d8fbc15cbe8", null ]
-    ] ],
     [ "MOAIGridPathGraph", "class_m_o_a_i_grid_path_graph.html", [
-      [ "H_MOVE_COST", "class_m_o_a_i_grid_path_graph.html#aecd12a18eeb0ee701fc7b0efd5068266aaa44fa5f9cd546483ac2134f707b6472", null ],
-      [ "V_MOVE_COST", "class_m_o_a_i_grid_path_graph.html#aecd12a18eeb0ee701fc7b0efd5068266a0d8bbe7aacb5f119a0f1ab03a3316f0c", null ],
-      [ "D_MOVE_COST", "class_m_o_a_i_grid_path_graph.html#aecd12a18eeb0ee701fc7b0efd5068266a737804d0aa0732af2b85804c10533237", [
-        [ "EUCLIDEAN_DISTANCE", "class_m_o_a_i_grid_path_graph.html#a41a601274406406cbcce86fa71cfa3d8a2c2c89f461b12103d5288545b9a49c64", null ],
-        [ "MANHATTAN_DISTANCE", "class_m_o_a_i_grid_path_graph.html#a41a601274406406cbcce86fa71cfa3d8ac7bf840ad75685b7e146c2927fb63618", null ],
-        [ "DIAGONAL_DISTANCE", "class_m_o_a_i_grid_path_graph.html#a41a601274406406cbcce86fa71cfa3d8a1ea8b8a55cc60c78fa5dd5c4fbdc65b3", null ]
-      ] ],
       [ "setGrid", "class_m_o_a_i_grid_path_graph.html#abbb225be876bf5bee616b87ae2cc90b0", null ]
     ] ],
+    [ "MOAIGridPropBase", "class_m_o_a_i_grid_prop_base.html", [
+      [ "getGrid", "class_m_o_a_i_grid_prop_base.html#a432ce98aa2b789b2e9b5b1b276709c8a", null ],
+      [ "setGrid", "class_m_o_a_i_grid_prop_base.html#abbb225be876bf5bee616b87ae2cc90b0", null ],
+      [ "setGridScale", "class_m_o_a_i_grid_prop_base.html#abb630d13193d46fa83535671e1f7fbe3", null ]
+    ] ],
     [ "MOAIGridSpace", "class_m_o_a_i_grid_space.html", [
-      [ "TILE_LEFT_TOP", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004aaee95bab816199cb127a734c1c237ed5", null ],
-      [ "TILE_RIGHT_TOP", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004ada83a396fc29028847725296d3a29f7c", null ],
-      [ "TILE_LEFT_BOTTOM", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a8a7852ce91afeb23e50f0e57a1770143", null ],
-      [ "TILE_RIGHT_BOTTOM", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a1bff689736b7606a9a1ed2f13ee11ba2", null ],
-      [ "TILE_LEFT_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a4a2afda165d32070a3985c618150a476", null ],
-      [ "TILE_RIGHT_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004ada7b05c584de3fe7ead83279d896feac", null ],
-      [ "TILE_TOP_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a56614adbb969a5b63c3581fc25dade5e", null ],
-      [ "TILE_BOTTOM_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a4391283f977c2850383f68ceb8fadd2e", null ],
-      [ "TILE_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a276c187caaf8a7b32dad122a738ce446", null ],
       [ "cellAddrToCoord", "class_m_o_a_i_grid_space.html#a736623b9ae421cab06bc47ebe2b8241f", null ],
       [ "getCellAddr", "class_m_o_a_i_grid_space.html#a950db93394aab6607b111f180052b644", null ],
       [ "getCellSize", "class_m_o_a_i_grid_space.html#aea07464597f5ca7e748555b656c1ed22", null ],
@@ -482,18 +281,13 @@ var group__moai_sim =
       [ "wrapCoord", "class_m_o_a_i_grid_space.html#ae8e70150d7db4261ae7689797e8be6d3", null ]
     ] ],
     [ "MOAIImage", "class_m_o_a_i_image.html", [
-      [ "FILTER_LINEAR", "class_m_o_a_i_image.html#afb24d298ddd4bc4ff61aa333f07a574aad8e5de74ec16a7e07145b7c18c885094", null ],
-      [ "FILTER_NEAREST", "class_m_o_a_i_image.html#afb24d298ddd4bc4ff61aa333f07a574aa0efb9d9eef22137dcfeb824d7b3463fd", [
-        [ "TRUECOLOR", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aa56ff623a34f7421bbea46c6ed9f4a870", null ],
-        [ "INDEX_4", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aa66934358b655c28cd350abe3de70cfad", null ],
-        [ "INDEX_8", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aa2da8d36d8da7347a87a17fe4144347e4", null ],
-        [ "PXL_FMT_UNKNOWN", "class_m_o_a_i_image.html#a60883d4958a60b91661e97027a85072aab1bf33f83ce988ec5c12a3a98a929d0f", null ]
-      ] ],
       [ "average", "class_m_o_a_i_image.html#a46c18093c562d6f80b847a1eef7f08ed", null ],
       [ "bleedRect", "class_m_o_a_i_image.html#ab0d7e82da81270f4a8e588ca45fb62a9", null ],
-      [ "blur", "class_m_o_a_i_image.html#ad7daad901d272a2ab9e6932802b93df7", null ],
+      [ "calculateGaussianKernel", "class_m_o_a_i_image.html#aca39da0a542108be1cb3519c4f6c1836", null ],
       [ "compare", "class_m_o_a_i_image.html#a71cf8beefa691d33f234f10ffc18118c", null ],
       [ "convert", "class_m_o_a_i_image.html#a178bc785903c99c95d2b2e5df3985cdc", null ],
+      [ "convolve", "class_m_o_a_i_image.html#aa6844cb8daf0b746fa4ab00b9852b612", null ],
+      [ "convolve1D", "class_m_o_a_i_image.html#a2b3860cc4dc0fd88d2a3f8b30d3ac0bf", null ],
       [ "copy", "class_m_o_a_i_image.html#a74441c00f74d71b3e1db7c5a43d9c272", null ],
       [ "copyBits", "class_m_o_a_i_image.html#a8819808d15dabab9ff46c81d1502c799", null ],
       [ "copyRect", "class_m_o_a_i_image.html#ae8ba48c998ba918add8534af74cb35c9", null ],
@@ -507,10 +301,13 @@ var group__moai_sim =
       [ "generateSDFAA", "class_m_o_a_i_image.html#a2496d3d8210999a31da6c033a88bee16", null ],
       [ "generateSDFDeadReckoning", "class_m_o_a_i_image.html#ab366ce2015b0c3ed28c2f16875c25756", null ],
       [ "getColor32", "class_m_o_a_i_image.html#a7f59009247d5d37e5921e4a087cd0c59", null ],
+      [ "getContentRect", "class_m_o_a_i_image.html#ac8e42d8e72f662a1ad19a447be95c3ad", null ],
+      [ "getData", "class_m_o_a_i_image.html#ab4a9a64d964de8b0188b6acd7d5a68bf", null ],
       [ "getFormat", "class_m_o_a_i_image.html#ad01cd723a2d0b7e48bfc81f0a6ef1987", null ],
       [ "getRGBA", "class_m_o_a_i_image.html#aa270072bbddfc82c499f742cfa2c29ac", null ],
       [ "getSize", "class_m_o_a_i_image.html#a6c1c06c16fc8d9d5d89ba93584996e44", null ],
       [ "init", "class_m_o_a_i_image.html#ae40d2a23261d05518d7fa65b40ec89e2", null ],
+      [ "isOpaque", "class_m_o_a_i_image.html#a29738a578a08ff6b6f0441e0be7df904", null ],
       [ "load", "class_m_o_a_i_image.html#a78f3f9f98a0f2dcdb35f498287d4545d", null ],
       [ "loadAsync", "class_m_o_a_i_image.html#a525eed08e69a75ff236378cd9f0dc6e2", null ],
       [ "loadFromBuffer", "class_m_o_a_i_image.html#acdb7cbf76e62ab25c9f353af63debe0b", null ],
@@ -522,11 +319,10 @@ var group__moai_sim =
       [ "setColor32", "class_m_o_a_i_image.html#ab33a5a215cae572c860ae56dea23cc53", null ],
       [ "setRGBA", "class_m_o_a_i_image.html#a20b4f34359eaa7d78fd75501b42697a2", null ],
       [ "simpleThreshold", "class_m_o_a_i_image.html#af47c70a6556de907de417b96600bcb6a", null ],
+      [ "subdivideRect", "class_m_o_a_i_image.html#ad056b439fd9bd9dc87782d5226ecbafd", null ],
       [ "write", "class_m_o_a_i_image.html#a893177e8b8fb3d8f9ef89474a12f4e53", null ]
     ] ],
     [ "MOAIImageTexture", "class_m_o_a_i_image_texture.html", [
-      [ "VALID", "class_m_o_a_i_image_texture.html#a39b4e25c4e8f5fed29720be17a532fa8acf0713491d9b887eaccfd80c18abca47", null ],
-      [ "INVALID", "class_m_o_a_i_image_texture.html#a39b4e25c4e8f5fed29720be17a532fa8aef2863a469df3ea6871d640e3669a2f2", null ],
       [ "updateRegion", "class_m_o_a_i_image_texture.html#a4fe4d5b1440d30ae26d29b3cbce36a72", null ]
     ] ],
     [ "MOAIIndexBuffer", "class_m_o_a_i_index_buffer.html", [
@@ -544,9 +340,6 @@ var group__moai_sim =
       [ "setCallback", "class_m_o_a_i_joystick_sensor.html#a114d23a5f65965ebcee37cbd9330fffa", null ]
     ] ],
     [ "MOAIKeyboardSensor", "class_m_o_a_i_keyboard_sensor.html", [
-      [ "IS_DOWN", "class_m_o_a_i_keyboard_sensor.html#a34df7cc7f69a8ec535eec8a524dcbaf9adde4a55689a9b6c30007851ddea91040", null ],
-      [ "DOWN", "class_m_o_a_i_keyboard_sensor.html#a34df7cc7f69a8ec535eec8a524dcbaf9a9b0b4a95b99523966e0e34ffdadac9da", null ],
-      [ "UP", "class_m_o_a_i_keyboard_sensor.html#a34df7cc7f69a8ec535eec8a524dcbaf9aba595d8bca8bc5e67c37c0a9d89becfa", null ],
       [ "keyDown", "class_m_o_a_i_keyboard_sensor.html#a2457a9fd4051cc6e04bea56d9ed7a964", null ],
       [ "keyIsDown", "class_m_o_a_i_keyboard_sensor.html#a4a7be64c8c2469cb745a08c1b3510b08", null ],
       [ "keyIsUp", "class_m_o_a_i_keyboard_sensor.html#a99a4add661eed14cdb8210b9e361977c", null ],
@@ -557,94 +350,32 @@ var group__moai_sim =
       [ "setKeyCallback", "class_m_o_a_i_keyboard_sensor.html#a239bd1741d0e19343fabf7c3665d38f8", null ]
     ] ],
     [ "MOAIKeyCode", "class_m_o_a_i_key_code.html", null ],
-    [ "MOAILayer", "class_m_o_a_i_layer.html", [
-      [ "ATTR_LOD", "class_m_o_a_i_layer.html#a81929fb3d21206b62f55bcb744f71d5da29f589ec2dcfa620b56bcf9d1abf106d", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_layer.html#a81929fb3d21206b62f55bcb744f71d5da8ee61da7f9c53c2464c6de96de1f040e", null ],
-      [ "LOD_CONSTANT", "class_m_o_a_i_layer.html#a7ada2556f3c386db5f31969fb6d4d002a41d51559d9083176cd589dde2a671210", null ],
-      [ "LOD_FROM_PROP_SORT_Z", "class_m_o_a_i_layer.html#a7ada2556f3c386db5f31969fb6d4d002af7a46eadaaab3e52043e79e6e8d51c80", null ],
-      [ "clear", "class_m_o_a_i_layer.html#ac24081473240efb468d9b16bcd7821ef", null ],
-      [ "getCamera", "class_m_o_a_i_layer.html#aaafde382a1e449be137884ecf03f7191", null ],
-      [ "getFitting", "class_m_o_a_i_layer.html#a836c933c7e6a31083fe6241df0bb37f5", null ],
-      [ "getFitting3D", "class_m_o_a_i_layer.html#a98e8a747f3f90d98055907650259d2f7", null ],
-      [ "getPartition", "class_m_o_a_i_layer.html#a6aba8386c5925cb4ea7c3f891b143b69", null ],
-      [ "getPropViewList", "class_m_o_a_i_layer.html#a53ecb13bfd5d54636630ef44fe452541", null ],
-      [ "getSortMode", "class_m_o_a_i_layer.html#aec4a4ff23d1cc15d2998a83a2087ce6c", null ],
-      [ "getSortScale", "class_m_o_a_i_layer.html#a4df84428ce577503cda68ff0e8640b8f", null ],
-      [ "getViewport", "class_m_o_a_i_layer.html#a6519d7262ddd2403b4b673baebf790d0", null ],
-      [ "insertProp", "class_m_o_a_i_layer.html#a3964be0c193f42c6ba01b7015f12d4d9", null ],
-      [ "removeProp", "class_m_o_a_i_layer.html#ab6cd1007e0e62f2dd5332cb02f458971", null ],
-      [ "setCamera", "class_m_o_a_i_layer.html#a395e009af8a531c2ba5cbbb3c4154c1c", null ],
-      [ "setOverlayTable", "class_m_o_a_i_layer.html#a731d74cfaaf8ff204927b160030ce31b", null ],
-      [ "setParallax", "class_m_o_a_i_layer.html#a16a0549f6460ae4d60dc3ba2e4265bc2", null ],
-      [ "setPartition", "class_m_o_a_i_layer.html#ae40c859c6ee56e8f3a64fb5b7cec2f4a", null ],
-      [ "setPartitionCull2D", "class_m_o_a_i_layer.html#a0e5d4fffc2975270ccb2dcdb6993c4aa", null ],
-      [ "setSortMode", "class_m_o_a_i_layer.html#a4ca0771ff58d20d37b908532f7998370", null ],
-      [ "setSortScale", "class_m_o_a_i_layer.html#a4e98c308d519fdf8106cde288adad490", null ],
-      [ "setUnderlayTable", "class_m_o_a_i_layer.html#a3f1b1c139e116bddee8c413655283787", null ],
-      [ "setViewport", "class_m_o_a_i_layer.html#ae9e038146b1f1149aa58a94ae76cfad0", null ],
-      [ "showDebugLines", "class_m_o_a_i_layer.html#af22e8121afa606dc9776123cb1eadb04", null ],
-      [ "wndToWorld", "class_m_o_a_i_layer.html#af3452f3f8256d30331ae4f4575679ac6", null ],
-      [ "wndToWorldRay", "class_m_o_a_i_layer.html#a0ec80040d80c0e810f5ee2585b2b611e", null ],
-      [ "worldToWnd", "class_m_o_a_i_layer.html#ad424eba5897dbaeb5ea6124f546c0aa1", null ]
-    ] ],
-    [ "MOAILayer2D", "class_m_o_a_i_layer2_d.html", [
-      [ "clear", "class_m_o_a_i_layer2_d.html#ae9a17fdd29c735671fa2421ad6c2a822", null ],
-      [ "getFitting", "class_m_o_a_i_layer2_d.html#a836c933c7e6a31083fe6241df0bb37f5", null ],
-      [ "getPartition", "class_m_o_a_i_layer2_d.html#a6aba8386c5925cb4ea7c3f891b143b69", null ],
-      [ "getSortMode", "class_m_o_a_i_layer2_d.html#aec4a4ff23d1cc15d2998a83a2087ce6c", null ],
-      [ "getSortScale", "class_m_o_a_i_layer2_d.html#a4df84428ce577503cda68ff0e8640b8f", null ],
-      [ "insertProp", "class_m_o_a_i_layer2_d.html#a3964be0c193f42c6ba01b7015f12d4d9", null ],
-      [ "removeProp", "class_m_o_a_i_layer2_d.html#ab6cd1007e0e62f2dd5332cb02f458971", null ],
-      [ "setBox2DWorld", "class_m_o_a_i_layer2_d.html#afd126aa0387b548becd391f4e387036c", null ],
-      [ "setCamera", "class_m_o_a_i_layer2_d.html#a395e009af8a531c2ba5cbbb3c4154c1c", null ],
-      [ "setCpSpace", "class_m_o_a_i_layer2_d.html#abf1dc24cfda5cb6dce98708b7bc325e6", null ],
-      [ "setFrameBuffer", "class_m_o_a_i_layer2_d.html#a17f1ee94c5225ee9d8f493390410d595", null ],
-      [ "setParallax", "class_m_o_a_i_layer2_d.html#a16a0549f6460ae4d60dc3ba2e4265bc2", null ],
-      [ "setPartition", "class_m_o_a_i_layer2_d.html#ae40c859c6ee56e8f3a64fb5b7cec2f4a", null ],
-      [ "setSortMode", "class_m_o_a_i_layer2_d.html#a4ca0771ff58d20d37b908532f7998370", null ],
-      [ "setSortScale", "class_m_o_a_i_layer2_d.html#a4e98c308d519fdf8106cde288adad490", null ],
-      [ "setViewport", "class_m_o_a_i_layer2_d.html#ae9e038146b1f1149aa58a94ae76cfad0", null ],
-      [ "showDebugLines", "class_m_o_a_i_layer2_d.html#af22e8121afa606dc9776123cb1eadb04", null ],
-      [ "wndToWorld", "class_m_o_a_i_layer2_d.html#af3452f3f8256d30331ae4f4575679ac6", null ],
-      [ "worldToWnd", "class_m_o_a_i_layer2_d.html#ad424eba5897dbaeb5ea6124f546c0aa1", null ]
-    ] ],
     [ "MOAILocationSensor", "class_m_o_a_i_location_sensor.html", [
       [ "getLocation", "class_m_o_a_i_location_sensor.html#ad92aac20cb90462c2b709a13f69ba2f0", null ],
       [ "setCallback", "class_m_o_a_i_location_sensor.html#a114d23a5f65965ebcee37cbd9330fffa", null ]
     ] ],
     [ "MOAIMaterialBatch", "class_m_o_a_i_material_batch.html", [
       [ "getIndexBatchSize", "class_m_o_a_i_material_batch.html#abfd1c9b045186ed518cb6de40da3ca79", null ],
-      [ "getShader", "class_m_o_a_i_material_batch.html#a85d75b0ec6c458efb7c763faa25d4fac", null ],
-      [ "getTexture", "class_m_o_a_i_material_batch.html#a257f47d12baa51a6d3fcd45996de2dae", null ],
       [ "reserveMaterials", "class_m_o_a_i_material_batch.html#a1d0fea9cda8607da81eb946d747d2b49", null ],
-      [ "setHitMask", "class_m_o_a_i_material_batch.html#ae9fd78017d7e73e26d00e6a6b5c02a3f", null ],
-      [ "setHitMaskScalar", "class_m_o_a_i_material_batch.html#a13a88eaee80c50cf93223fbe0b8137a4", null ],
-      [ "setHitMaskThreshold", "class_m_o_a_i_material_batch.html#a7d660aae190df94038d9863a56dfe530", null ],
-      [ "setIndexBatchSize", "class_m_o_a_i_material_batch.html#a214552861a4f960097e728a78e789e6f", null ],
-      [ "setShader", "class_m_o_a_i_material_batch.html#ac8303b38b1a40b66f1a691fdcd8e8909", null ],
-      [ "setTexture", "class_m_o_a_i_material_batch.html#aeb05c3ca33a736dbad3f6ae8cd5fdedb", null ]
+      [ "setBlendMode", "class_m_o_a_i_material_batch.html#a5e925de720d755f1f2e8d2155d2de6dd", null ],
+      [ "setIndexBatchSize", "class_m_o_a_i_material_batch.html#a214552861a4f960097e728a78e789e6f", null ]
     ] ],
     [ "MOAIMesh", "class_m_o_a_i_mesh.html", [
       [ "setIndexBuffer", "class_m_o_a_i_mesh.html#a73a734a14ad695b9de24b0562f5ff316", null ],
       [ "setPenWidth", "class_m_o_a_i_mesh.html#a51b24f59e60ccb4d64dc2a8df8c332b5", null ],
       [ "setPrimType", "class_m_o_a_i_mesh.html#af2e44519911aa07bc01082b5272818c7", null ]
     ] ],
+    [ "MOAIMetaTileDeck2D", "class_m_o_a_i_meta_tile_deck2_d.html", [
+      [ "reserveMetaTiles", "class_m_o_a_i_meta_tile_deck2_d.html#a72809180a9eb84f0ef1829306dedc829", null ],
+      [ "setDeck", "class_m_o_a_i_meta_tile_deck2_d.html#a129d45d1dd35a22429514b2e2a3198ae", null ],
+      [ "setGrid", "class_m_o_a_i_meta_tile_deck2_d.html#abbb225be876bf5bee616b87ae2cc90b0", null ],
+      [ "setMetaTile", "class_m_o_a_i_meta_tile_deck2_d.html#a68dfcc1f9c24a95528b510b6e86bad3f", null ]
+    ] ],
     [ "MOAIMotionSensor", "class_m_o_a_i_motion_sensor.html", [
       [ "getLevel", "class_m_o_a_i_motion_sensor.html#a2b0b669c1a2c09888426fb72ec5b02f6", null ],
       [ "setCallback", "class_m_o_a_i_motion_sensor.html#a114d23a5f65965ebcee37cbd9330fffa", null ]
     ] ],
-    [ "MOAIMultiTexture", "class_m_o_a_i_multi_texture.html", [
-      [ "reserve", "class_m_o_a_i_multi_texture.html#a0127236197c1cd3463ea259eacb5045e", null ],
-      [ "setTexture", "class_m_o_a_i_multi_texture.html#aeb05c3ca33a736dbad3f6ae8cd5fdedb", null ]
-    ] ],
     [ "MOAINode", "class_m_o_a_i_node.html", [
-      [ "STATE_IDLE", "class_m_o_a_i_node.html#a1e8054db89feba236b2235d16d0bd1adaaade5e53e88cf231292cd1142cce2afe", null ],
-      [ "STATE_ACTIVE", "class_m_o_a_i_node.html#a1e8054db89feba236b2235d16d0bd1ada5f1f347a14f3373f19eb61973636f1a6", null ],
-      [ "STATE_SCHEDULED", "class_m_o_a_i_node.html#a1e8054db89feba236b2235d16d0bd1ada542e8ebb6b5deed5bc226bf1744257d6", null ],
-      [ "STATE_UPDATING", "class_m_o_a_i_node.html#a1e8054db89feba236b2235d16d0bd1ada3ac164bc22fa32dc29cb3bec3a30cf9f", null ],
-      [ "EVENT_NODE_PRE_UPDATE", "class_m_o_a_i_node.html#a4f79453548dc20926be4b5a000ecbd66ac1a4a7ef6b727720d837ab777d3656ef", null ],
-      [ "EVENT_NODE_POST_UPDATE", "class_m_o_a_i_node.html#a4f79453548dc20926be4b5a000ecbd66a8a048b11c8ba69b4893aa6f36f1da84f", null ],
-      [ "TOTAL_EVENTS", "class_m_o_a_i_node.html#a4f79453548dc20926be4b5a000ecbd66a42fbb134ff91389a000faa8cda2bf844", null ],
       [ "clearAttrLink", "class_m_o_a_i_node.html#aa0d031710cb13f0a8b24d89437fcc0c6", null ],
       [ "clearNodeLink", "class_m_o_a_i_node.html#a488f70be061f17f51205c32c9cb9cdac", null ],
       [ "forceUpdate", "class_m_o_a_i_node.html#a58048a0585de7d39228aea57dd7b9f95", null ],
@@ -664,9 +395,6 @@ var group__moai_sim =
       [ "setDistance", "class_m_o_a_i_particle_distance_emitter.html#aea0bfde335949f278967a8ba5b954940", null ]
     ] ],
     [ "MOAIParticleEmitter", "class_m_o_a_i_particle_emitter.html", [
-      [ "POINT", "class_m_o_a_i_particle_emitter.html#acedc21792913cbec6ca54f6981c5eddda15108ccafa3232b9067f889b6156f565", null ],
-      [ "CIRCLE", "class_m_o_a_i_particle_emitter.html#acedc21792913cbec6ca54f6981c5edddaa79c827759ea48f0735386c4b1188911", null ],
-      [ "RECT", "class_m_o_a_i_particle_emitter.html#acedc21792913cbec6ca54f6981c5eddda8c3b537d3960e767a7d714c89078e508", null ],
       [ "setAngle", "class_m_o_a_i_particle_emitter.html#afe15fedfc5d6d3382fb4e97dbc4bfe3b", null ],
       [ "setEmission", "class_m_o_a_i_particle_emitter.html#a4ed24c1590267c9557001214b9050cca", null ],
       [ "setMagnitude", "class_m_o_a_i_particle_emitter.html#a4dcbff9b7482005efa4aa81d54b6ed3c", null ],
@@ -677,70 +405,17 @@ var group__moai_sim =
       [ "surge", "class_m_o_a_i_particle_emitter.html#aa3a5846b0bd305b72cca549ecde62e6c", null ]
     ] ],
     [ "MOAIParticleForce", "class_m_o_a_i_particle_force.html", [
-      [ "ATTRACTOR", "class_m_o_a_i_particle_force.html#a1e06e534e565b0e44afdf96c77951725a3486eb6ccbb7f5d8ee892f96f813bcd1", null ],
-      [ "BASIN", "class_m_o_a_i_particle_force.html#a1e06e534e565b0e44afdf96c77951725a0a7021096073ab7dff96f1b3d5e9e70b", null ],
-      [ "LINEAR", "class_m_o_a_i_particle_force.html#a1e06e534e565b0e44afdf96c77951725adc101ebf31c49c2d4b80b7c6f59f22cb", null ],
-      [ "RADIAL", "class_m_o_a_i_particle_force.html#a1e06e534e565b0e44afdf96c77951725a52f78ef1b307008d5a3a18a5188f0231", null ],
-      [ "FORCE", "class_m_o_a_i_particle_force.html#af38129fd1797a5cfd7d746065784a44fa2a4d3752e9aa5f28fc2dacb0f948de06", null ],
-      [ "GRAVITY", "class_m_o_a_i_particle_force.html#af38129fd1797a5cfd7d746065784a44fabbcfb30512c4002f1f7a36b4092cb3fb", null ],
-      [ "OFFSET", "class_m_o_a_i_particle_force.html#af38129fd1797a5cfd7d746065784a44fa9980a65495c97b765c5b7e2d62d82958", null ],
       [ "initAttractor", "class_m_o_a_i_particle_force.html#a8f171b243f01a5836c7df2735d3e73a7", null ],
       [ "initBasin", "class_m_o_a_i_particle_force.html#a5d02b39a1a1730c987058fb249cd360d", null ],
       [ "initLinear", "class_m_o_a_i_particle_force.html#aad80650056eedd63d539a7443c355757", null ],
       [ "initRadial", "class_m_o_a_i_particle_force.html#a991704415d8b69f0e603b4084d5ef536", null ],
       [ "setType", "class_m_o_a_i_particle_force.html#a67cc62bf978846152891fc86d00f2648", null ]
     ] ],
-    [ "MOAIParticlePexPlugin", "class_m_o_a_i_particle_pex_plugin.html", [
-      [ "getTextureName", "class_m_o_a_i_particle_pex_plugin.html#ac1faa6bbed463fd16036fa56d2b16302", null ],
-      [ "load", "class_m_o_a_i_particle_pex_plugin.html#a78f3f9f98a0f2dcdb35f498287d4545d", null ]
-    ] ],
     [ "MOAIParticlePlugin", "class_m_o_a_i_particle_plugin.html", [
       [ "getSize", "class_m_o_a_i_particle_plugin.html#a6c1c06c16fc8d9d5d89ba93584996e44", null ]
     ] ],
     [ "MOAIParticleScript", "class_m_o_a_i_particle_script.html", [
-      [ "SPRITE_X_LOC", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13da9dd17441274513575e21defc0fceca63", null ],
-      [ "SPRITE_Y_LOC", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13dab832088ec1010f91f607aaee22ac6225", null ],
-      [ "SPRITE_ROT", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13dab288ee6df5735d6f83311627928ff290", null ],
-      [ "SPRITE_X_SCL", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13daa08d2e6c70a2e5a9379bf8bed3f96839", null ],
-      [ "SPRITE_Y_SCL", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13dafc2bc76ece4d336a24748b6e95592be3", null ],
-      [ "SPRITE_RED", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13da6ad33ac1170f91428e8fb0d8ed689258", null ],
-      [ "SPRITE_GREEN", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13da549272d53fa420d3382ec6d44a10c654", null ],
-      [ "SPRITE_BLUE", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13da548dd3479b7d62bdb433042d126925ed", null ],
-      [ "SPRITE_OPACITY", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13da931ab014ddd3613e1cea13521a1173f7", null ],
-      [ "SPRITE_GLOW", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13dacf47810c2ddadecf606f8302e7d9eff1", null ],
-      [ "SPRITE_IDX", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13da1b75777d9920cfb390939e9d40f51e44", null ],
-      [ "TOTAL_SPRITE_REG", "class_m_o_a_i_particle_script.html#a1812ab31015cef0a41c6d4f3ae07f13da66dfb3ce92646bd7a5105007f89255a4", null ],
-      [ "END", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbadc6f24fd6915a3f2786a1b7045406924", null ],
-      [ "ABS", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba62f7ef0a404defa34640e94940792147", null ],
-      [ "ADD", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbacfcf145f2788bf340ff3f3098bc54909", null ],
-      [ "ANGLE_VEC", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba424c53db5096a141bd7e472ebc74e533", null ],
-      [ "COLOR", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba7a5ecb5193db2d5f258ae1abd33714b9", null ],
-      [ "COS", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba493e49dc3b2f8cf43d8ae13fcdde6639", null ],
-      [ "CYCLE", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba2903bd4e01525b1817de64231fa3dcde", null ],
-      [ "DIV", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba8565f0d60c3ba6d468661c49d86e9744", null ],
-      [ "EASE", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba9572e9d30ecd234b5614393bf1e5d140", null ],
-      [ "EASE_DELTA", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba5e3ea9e87cf0c4d319203c14e83e7132", null ],
-      [ "MUL", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba086ab1f2f4dac104b6826ebe0eaba8fd", null ],
-      [ "NORM", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbae003ec1158e3a4e295616ced12af154e", null ],
-      [ "RAND", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba549e1fc821b7bc2aa1c02bf3f0da814c", null ],
-      [ "RAND_INT", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbafe199922efa254efc831f1e67bccb77b", null ],
-      [ "RAND_VEC", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbaa2f5574f866f8a1953fee37089f353cc", null ],
-      [ "SET", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbab44c8101cc294c074709ec1b14211792", null ],
-      [ "SIN", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba55720cf0d1ebf3d6f0eac12f2dffbfa2", null ],
-      [ "SPRITE", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba2dd609ad1f04fe6e979d97ae1276f880", null ],
-      [ "STEP", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbac0ba526afb7f54207517b48a892961c2", null ],
-      [ "SUB", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba12b733d4941495e86811fe6ceeeff9da", null ],
-      [ "TAN", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbac457138bcc3482d817346fc4d6308983", null ],
-      [ "TIME", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbae9e4c627760f36823cdd153c24229157", null ],
-      [ "VEC_ANGLE", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfbad24acf5d27e39d56e735436e185eb842", null ],
-      [ "WRAP", "class_m_o_a_i_particle_script.html#a0a28cf10bf72f80c90de5e5e1e698bfba8e7838b96be55048186754b37db105dd", null ],
-      [ "PARAM_TYPE_FLAG", "class_m_o_a_i_particle_script.html#a85c7862086c1f92e4fb4108e176d8140a83e27716bf114cdffa1ad9f8c603e985", null ],
-      [ "PARAM_TYPE_CONST", "class_m_o_a_i_particle_script.html#a85c7862086c1f92e4fb4108e176d8140ae8df1e17fa46c01acd5da458b62452ea", null ],
-      [ "PARAM_TYPE_PARTICLE_REG", "class_m_o_a_i_particle_script.html#a85c7862086c1f92e4fb4108e176d8140a1ab406ca4e622872fe09fa0dc37527cd", null ],
-      [ "PARAM_TYPE_SPRITE_REG", "class_m_o_a_i_particle_script.html#a85c7862086c1f92e4fb4108e176d8140a3eebbcadd4d42d7acd1a3f5c191daa82", null ],
-      [ "PARAM_TYPE_LIVE_REG", "class_m_o_a_i_particle_script.html#a85c7862086c1f92e4fb4108e176d8140a46520ac18d974575ad0714b8cf9cbd78", null ],
-      [ "PARAM_TYPE_REG_MASK", "class_m_o_a_i_particle_script.html#a85c7862086c1f92e4fb4108e176d8140a18c04a7cc972841270de9a86e47a1152", null ],
-      [ "PARAM_TYPE_MASK", "class_m_o_a_i_particle_script.html#a85c7862086c1f92e4fb4108e176d8140acd57a27ab633c807b452daf746f9e4d7", null ],
+      [ "abs", "class_m_o_a_i_particle_script.html#a47d057632a9b3d76ffefc13675b66c08", null ],
       [ "add", "class_m_o_a_i_particle_script.html#a11257c45a981ee69c35924761b9b2938", null ],
       [ "angleVec", "class_m_o_a_i_particle_script.html#a2939bd3d93c14d451276e7018deb1f48", null ],
       [ "color", "class_m_o_a_i_particle_script.html#a37296ae63ca38217866aad7aca99e730", null ],
@@ -751,6 +426,7 @@ var group__moai_sim =
       [ "easeDelta", "class_m_o_a_i_particle_script.html#ab3637f8ae4a084b4be8ef4393743eb18", null ],
       [ "mul", "class_m_o_a_i_particle_script.html#aa37b13743a68aec46171e17db72e7701", null ],
       [ "norm", "class_m_o_a_i_particle_script.html#a0eb5a8213a1c302e449623ff3335d2ab", null ],
+      [ "oscillate", "class_m_o_a_i_particle_script.html#aff896635b3c10324ede8ebdd460dfda2", null ],
       [ "packConst", "class_m_o_a_i_particle_script.html#a5c9046b9ac6d0f886411f68686991146", null ],
       [ "packLiveReg", "class_m_o_a_i_particle_script.html#a73b6e22135fdc685442135a8313f3419", null ],
       [ "packReg", "class_m_o_a_i_particle_script.html#abf74296ef2b2ed78b8c3f0727b03c551", null ],
@@ -761,6 +437,7 @@ var group__moai_sim =
       [ "setLiveReg", "class_m_o_a_i_particle_script.html#ad73f2db9067cfcdaafacee4b95c36e46", null ],
       [ "sin", "class_m_o_a_i_particle_script.html#a83cd41233e51c4b215e1b0c04db40d97", null ],
       [ "sprite", "class_m_o_a_i_particle_script.html#a52f422c69196029f059041fbf1737cac", null ],
+      [ "step", "class_m_o_a_i_particle_script.html#a76b1bef52f2fe6584519588b116f99ea", null ],
       [ "sub", "class_m_o_a_i_particle_script.html#a71e7d0b2f3fb1ad80067dce86ea4c792", null ],
       [ "tan", "class_m_o_a_i_particle_script.html#acbfd1138809fdc9b313b05ad387b7378", null ],
       [ "time", "class_m_o_a_i_particle_script.html#a4999252aecf9d5cdf086d0a1a2ed3cca", null ],
@@ -779,8 +456,6 @@ var group__moai_sim =
       [ "setTerm", "class_m_o_a_i_particle_state.html#a034d42d609c652cf9e94f18c947e0265", null ]
     ] ],
     [ "MOAIParticleSystem", "class_m_o_a_i_particle_system.html", [
-      [ "ORDER_NORMAL", "class_m_o_a_i_particle_system.html#a52864abcf6ebd8d120995b36fe6ce06eabcac6692a8d1535c14956f2122d973c1", null ],
-      [ "ORDER_REVERSE", "class_m_o_a_i_particle_system.html#a52864abcf6ebd8d120995b36fe6ce06eaacb866340e59acaa596f8d94a8b61daf", null ],
       [ "capParticles", "class_m_o_a_i_particle_system.html#a155061ad4f45a80ff8a6144da883b6e0", null ],
       [ "capSprites", "class_m_o_a_i_particle_system.html#a5046ff358a303bc343b2511cf0e24ca1", null ],
       [ "clearSprites", "class_m_o_a_i_particle_system.html#a4d42ff4491cac1573649295eda9a7226", null ],
@@ -792,6 +467,7 @@ var group__moai_sim =
       [ "reserveSprites", "class_m_o_a_i_particle_system.html#ad2e3a45698190b3581e834f1b380441d", null ],
       [ "reserveStates", "class_m_o_a_i_particle_system.html#acbc06bf75f2192b1fa157348f16fb9a8", null ],
       [ "setComputeBounds", "class_m_o_a_i_particle_system.html#a360bde7557d3a111f8a9cc9844933b44", null ],
+      [ "setDrawOrder", "class_m_o_a_i_particle_system.html#a92c1d221193f3bdbad972b73e4b7a20a", null ],
       [ "setSpriteColor", "class_m_o_a_i_particle_system.html#a36cdf6423c40972af0c9e96c63cb7add", null ],
       [ "setSpriteDeckIdx", "class_m_o_a_i_particle_system.html#a00508db4c2f3f769bc2376ab23351a86", null ],
       [ "setState", "class_m_o_a_i_particle_system.html#a6185431d6f8cd5913ed49dd802f2021c", null ],
@@ -802,35 +478,36 @@ var group__moai_sim =
     ] ],
     [ "MOAIPartition", "class_m_o_a_i_partition.html", [
       [ "clear", "class_m_o_a_i_partition.html#ac24081473240efb468d9b16bcd7821ef", null ],
-      [ "insertProp", "class_m_o_a_i_partition.html#a3964be0c193f42c6ba01b7015f12d4d9", null ],
-      [ "propForPoint", "class_m_o_a_i_partition.html#ac411f13f39f7c8d10e170decfaec9e89", null ],
-      [ "propForRay", "class_m_o_a_i_partition.html#a61fc9faf98cd75a862816bdc29a8bd7e", null ],
-      [ "propList", "class_m_o_a_i_partition.html#afceeb81b9fe50fe2830b967e76d080cc", null ],
-      [ "propListForPoint", "class_m_o_a_i_partition.html#a851303ca67048e69489908f581f1f9f5", null ],
-      [ "propListForRay", "class_m_o_a_i_partition.html#a6d3bf4918e46daed3a5864b7beb7d4f3", null ],
-      [ "propListForRect", "class_m_o_a_i_partition.html#aff26c0e4ecdc4c5b16c15dc705c4a450", null ],
-      [ "removeProp", "class_m_o_a_i_partition.html#ab6cd1007e0e62f2dd5332cb02f458971", null ],
+      [ "hullForPoint", "class_m_o_a_i_partition.html#a74df1337bce9d8e549733d92d764886f", null ],
+      [ "hullForRay", "class_m_o_a_i_partition.html#ad075596801588e4331e954dda2b97c69", null ],
+      [ "hullList", "class_m_o_a_i_partition.html#a9ecc6d61ad0a76705caac9546f762e28", null ],
+      [ "hullListForPoint", "class_m_o_a_i_partition.html#a500f4e08f4258e3efe68cd7ae1d8af5d", null ],
+      [ "hullListForRay", "class_m_o_a_i_partition.html#ae527eb392828d0da87ff9948faf0c3d9", null ],
+      [ "hullListForRect", "class_m_o_a_i_partition.html#acf230560ad3c084e9909c2604a9db76c", null ],
       [ "reserveLevels", "class_m_o_a_i_partition.html#adaed9623f278690b9e2b9162d58b1d17", null ],
       [ "setLevel", "class_m_o_a_i_partition.html#a8b83e4ecaff7295c50264a57280dc99c", null ],
       [ "setPlane", "class_m_o_a_i_partition.html#a4e8d05e2459bd921b69c160560cdb2a1", null ]
     ] ],
-    [ "MOAIPartitionResultBuffer", "class_m_o_a_i_partition_result_buffer.html", [
-      [ "SORT_NONE", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aae71f810b695d3bf0afe383e0541a16d1", null ],
-      [ "SORT_ISO", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aac1f4db7a5589b12c88a0958e405ab6a9", null ],
-      [ "SORT_DIST_SQUARED_ASCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa9c58dbf2995c137dbb14137e95fc3559", null ],
-      [ "SORT_KEY_ASCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aace6be3dc4467106cca1b86ca1011affc", null ],
-      [ "SORT_PRIORITY_ASCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aae09c382ffe1a202985447567484003e1", null ],
-      [ "SORT_X_ASCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa1fbb3304a0b16b101dc4f9286c03da19", null ],
-      [ "SORT_Y_ASCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa882ff757e8c0b93f658ff3049252095b", null ],
-      [ "SORT_Z_ASCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aae354be3b885c9d742d33e02afb27fe05", null ],
-      [ "SORT_VECTOR_ASCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa8b01d75d20782512db4e0cd59b1c0263", null ],
-      [ "SORT_DIST_SQUARED_DESCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa12f455954612bc33815d06234758f344", null ],
-      [ "SORT_KEY_DESCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa5735a2f6123b5fbe10b5c6b1c0f1b419", null ],
-      [ "SORT_PRIORITY_DESCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa7d09641936de73669c5a3ac5de156de3", null ],
-      [ "SORT_X_DESCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aaaf057a96079cba4ba68c840163c8b75c", null ],
-      [ "SORT_Y_DESCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa9697d771ee08fb381e3b74a6bd8ec6b5", null ],
-      [ "SORT_Z_DESCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa85613eb74b8e9c70b00bbbb542bf875b", null ],
-      [ "SORT_VECTOR_DESCENDING", "class_m_o_a_i_partition_result_buffer.html#a4d29ca5db06e2ae647d1ec22548a9d2aa44158f7de4e73ecf19be11e2af6d8824", null ]
+    [ "MOAIPartitionHull", "class_m_o_a_i_partition_hull.html", [
+      [ "getBounds", "class_m_o_a_i_partition_hull.html#a2a8c7dba0f2fbe37e181b0e62a2870a3", null ],
+      [ "getDims", "class_m_o_a_i_partition_hull.html#adcd2c1fb15186133a3ffc8fcd4b6c7fc", null ],
+      [ "getPartition", "class_m_o_a_i_partition_hull.html#a6aba8386c5925cb4ea7c3f891b143b69", null ],
+      [ "getPriority", "class_m_o_a_i_partition_hull.html#a4b74f914b5741d32bd70eaf8bcac7ec0", null ],
+      [ "getWorldBounds", "class_m_o_a_i_partition_hull.html#a421cdeeb4ae73c3767abd5a3bd5e3838", null ],
+      [ "inside", "class_m_o_a_i_partition_hull.html#a9a67f459b6d9227b1bf60d66b619cef7", null ],
+      [ "setBounds", "class_m_o_a_i_partition_hull.html#a3ddf67154301cc44f70815ba86e51cb0", null ],
+      [ "setExpandForSort", "class_m_o_a_i_partition_hull.html#a5fb4d341d89d8e157e50dd8927d8cee2", null ],
+      [ "setHitGranularity", "class_m_o_a_i_partition_hull.html#a0229900fe71d31d0337497e279f1ecfc", null ],
+      [ "setPriority", "class_m_o_a_i_partition_hull.html#a272ea6e5f650acd59d9f7aebe0dbd812", null ]
+    ] ],
+    [ "MOAIPartitionResultBuffer", "class_m_o_a_i_partition_result_buffer.html", null ],
+    [ "MOAIPartitionViewLayer", "class_m_o_a_i_partition_view_layer.html", [
+      [ "getPropViewList", "class_m_o_a_i_partition_view_layer.html#a53ecb13bfd5d54636630ef44fe452541", null ],
+      [ "getSortMode", "class_m_o_a_i_partition_view_layer.html#aec4a4ff23d1cc15d2998a83a2087ce6c", null ],
+      [ "getSortScale", "class_m_o_a_i_partition_view_layer.html#a4df84428ce577503cda68ff0e8640b8f", null ],
+      [ "setPartitionCull2D", "class_m_o_a_i_partition_view_layer.html#a0e5d4fffc2975270ccb2dcdb6993c4aa", null ],
+      [ "setSortMode", "class_m_o_a_i_partition_view_layer.html#a4ca0771ff58d20d37b908532f7998370", null ],
+      [ "setSortScale", "class_m_o_a_i_partition_view_layer.html#a4e98c308d519fdf8106cde288adad490", null ]
     ] ],
     [ "MOAIPathFinder", "class_m_o_a_i_path_finder.html", [
       [ "findPath", "class_m_o_a_i_path_finder.html#a8a2cd53d0c7b660ce7c2f0df9ec0a964", null ],
@@ -855,125 +532,33 @@ var group__moai_sim =
       [ "setTerrainVec", "class_m_o_a_i_path_terrain_deck.html#acc739b21a66dbb2ae6e7611a8349314b", null ]
     ] ],
     [ "MOAIPinTransform", "class_m_o_a_i_pin_transform.html", [
-      [ "ATTR_FRONT", "class_m_o_a_i_pin_transform.html#a592aba11ab30da4dbf57e9736c8387a1a9b30a5a82841d67f94ba039d995708b1", null ],
       [ "init", "class_m_o_a_i_pin_transform.html#ae40d2a23261d05518d7fa65b40ec89e2", null ]
     ] ],
     [ "MOAIPointerSensor", "class_m_o_a_i_pointer_sensor.html", [
       [ "getLoc", "class_m_o_a_i_pointer_sensor.html#a43c4833fc0dcfb14ed251243ec290bd4", null ],
       [ "setCallback", "class_m_o_a_i_pointer_sensor.html#a114d23a5f65965ebcee37cbd9330fffa", null ]
     ] ],
-    [ "MOAIProp", "class_m_o_a_i_prop.html", [
-      [ "HIT_TEST_COARSE", "class_m_o_a_i_prop.html#a63cbfa53a16c7eeb228a37be887ccf54aa4d8d4d46dd7012666c58ac9c20b4b42", null ],
-      [ "HIT_TEST_MEDIUM", "class_m_o_a_i_prop.html#a63cbfa53a16c7eeb228a37be887ccf54a5df1a32e413d6d3661bf9562d007eac1", null ],
-      [ "HIT_TEST_FINE", "class_m_o_a_i_prop.html#a63cbfa53a16c7eeb228a37be887ccf54aba18df6dc8a2ec2244cf95fa9d43480a", null ],
-      [ "BOUNDS_EMPTY", "class_m_o_a_i_prop.html#a09d9e56f5d4c14bc6d35272c7ee2692da7433e48b0abc7b659e10070237303852", null ],
-      [ "BOUNDS_GLOBAL", "class_m_o_a_i_prop.html#a09d9e56f5d4c14bc6d35272c7ee2692dac7ae1373bfe569c6697d53f05cab3b55", null ],
-      [ "BOUNDS_OK", "class_m_o_a_i_prop.html#a09d9e56f5d4c14bc6d35272c7ee2692dac8e08b1ce4af2f61c02a6fc86c5e82ee", null ],
-      [ "ATTR_INDEX", "class_m_o_a_i_prop.html#ac8347fa324c6412b168db6df3464ad80a20db37678e86821dd44d1a36186db66c", null ],
-      [ "ATTR_PARTITION", "class_m_o_a_i_prop.html#ac8347fa324c6412b168db6df3464ad80a73a4c2526d3bbd6a33505b3a572831fe", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_prop.html#ac8347fa324c6412b168db6df3464ad80a8ee61da7f9c53c2464c6de96de1f040e", null ],
-      [ "FLAGS_OVERRIDE_BOUNDS", "class_m_o_a_i_prop.html#abe821d0fac05333be298917dcb50ee1daa7caf4df8bc53e92a0558b72b9ba50a2", null ],
-      [ "FLAGS_PAD_BOUNDS", "class_m_o_a_i_prop.html#abe821d0fac05333be298917dcb50ee1da8c2003021d59819383593b49736e04a3", null ],
-      [ "FLAGS_EXPAND_FOR_SORT", "class_m_o_a_i_prop.html#abe821d0fac05333be298917dcb50ee1da2abbafd2553e751e7594c1c7bb487671", null ],
-      [ "FLAGS_PARTITION_GLOBAL", "class_m_o_a_i_prop.html#abe821d0fac05333be298917dcb50ee1dab644d62940213ecb526090e285fdd1db", null ],
-      [ "TOTAL_FLAGS", "class_m_o_a_i_prop.html#abe821d0fac05333be298917dcb50ee1da675d32470b49c07ebf41a9f503dfc628", null ],
-      [ "getBounds", "class_m_o_a_i_prop.html#a2a8c7dba0f2fbe37e181b0e62a2870a3", null ],
-      [ "getDeck", "class_m_o_a_i_prop.html#a6a0141f3bc7defc19fc8db55173f39c5", null ],
-      [ "getDims", "class_m_o_a_i_prop.html#adcd2c1fb15186133a3ffc8fcd4b6c7fc", null ],
-      [ "getGrid", "class_m_o_a_i_prop.html#a432ce98aa2b789b2e9b5b1b276709c8a", null ],
-      [ "getIndex", "class_m_o_a_i_prop.html#a563c57575aaa6e56d3ff3b866d24355b", null ],
-      [ "getPriority", "class_m_o_a_i_prop.html#a4b74f914b5741d32bd70eaf8bcac7ec0", null ],
-      [ "getWorldBounds", "class_m_o_a_i_prop.html#a421cdeeb4ae73c3767abd5a3bd5e3838", null ],
-      [ "inside", "class_m_o_a_i_prop.html#a9a67f459b6d9227b1bf60d66b619cef7", null ],
-      [ "setBounds", "class_m_o_a_i_prop.html#a3ddf67154301cc44f70815ba86e51cb0", null ],
-      [ "setDeck", "class_m_o_a_i_prop.html#a129d45d1dd35a22429514b2e2a3198ae", null ],
-      [ "setExpandForSort", "class_m_o_a_i_prop.html#a5fb4d341d89d8e157e50dd8927d8cee2", null ],
-      [ "setGrid", "class_m_o_a_i_prop.html#abbb225be876bf5bee616b87ae2cc90b0", null ],
-      [ "setGridScale", "class_m_o_a_i_prop.html#abb630d13193d46fa83535671e1f7fbe3", null ],
-      [ "setHitGranularity", "class_m_o_a_i_prop.html#a0229900fe71d31d0337497e279f1ecfc", null ],
-      [ "setIndex", "class_m_o_a_i_prop.html#ac4d4d6ead68a683c86fdcab5c9b904f1", null ],
-      [ "setPriority", "class_m_o_a_i_prop.html#a272ea6e5f650acd59d9f7aebe0dbd812", null ],
-      [ "setRemapper", "class_m_o_a_i_prop.html#ac29c102801ed1ebb36c5134e480ca805", null ]
-    ] ],
-    [ "MOAIRenderable", "class_m_o_a_i_renderable.html", null ],
-    [ "MOAIRenderMgr", "class_m_o_a_i_render_mgr.html", [
-      [ "clearRenderStack", "class_m_o_a_i_render_mgr.html#ac36fcbf53fb99cf3cae86738027d3c89", null ],
-      [ "getPerformanceDrawCount", "class_m_o_a_i_render_mgr.html#aef7de71222a8c3ee01a0cf2e5981db03", null ],
-      [ "getRenderTable", "class_m_o_a_i_render_mgr.html#a9c996712f2a18688869a7cc2bf48ef28", null ],
-      [ "grabNextFrame", "class_m_o_a_i_render_mgr.html#a60d06ba601eee781333c0ad633063808", null ],
-      [ "popRenderPass", "class_m_o_a_i_render_mgr.html#a7fbc338c9c0edc8748e3df44ec57fa44", null ],
-      [ "pushRenderPass", "class_m_o_a_i_render_mgr.html#acb7e98c6448008017f2303583e3f0a35", null ],
-      [ "removeRenderPass", "class_m_o_a_i_render_mgr.html#ae7120fe182f1e64d74843fdbd0a5756c", null ],
-      [ "setRenderTable", "class_m_o_a_i_render_mgr.html#a3780bf796f9bf3e50a923cb131bbd464", null ]
-    ] ],
     [ "MOAIScissorRect", "class_m_o_a_i_scissor_rect.html", [
       [ "getRect", "class_m_o_a_i_scissor_rect.html#a3a73c3213f7911bb16064373a881d8c5", null ],
       [ "setRect", "class_m_o_a_i_scissor_rect.html#af878ca354021390a4d3ab58cc51ea621", null ],
       [ "setScissorRect", "class_m_o_a_i_scissor_rect.html#a8ce59567db516c33f20d88dc1b5c6036", null ]
-    ] ],
-    [ "MOAIScriptDeck", "class_m_o_a_i_script_deck.html", [
-      [ "setDrawCallback", "class_m_o_a_i_script_deck.html#a59b8e5f5b70c3a7cc096f6005a836c56", null ],
-      [ "setRect", "class_m_o_a_i_script_deck.html#af878ca354021390a4d3ab58cc51ea621", null ],
-      [ "setRectCallback", "class_m_o_a_i_script_deck.html#af98eac78ac48effb1c025f8b19473a86", null ],
-      [ "setTotalRectCallback", "class_m_o_a_i_script_deck.html#a86e80a77786de88524781853fe46e7e6", null ]
     ] ],
     [ "MOAIScriptNode", "class_m_o_a_i_script_node.html", [
       [ "reserveAttrs", "class_m_o_a_i_script_node.html#a012a337bfd7a533ace39f3ef7924a07d", null ],
       [ "setCallback", "class_m_o_a_i_script_node.html#a114d23a5f65965ebcee37cbd9330fffa", null ]
     ] ],
     [ "MOAISensor", "class_m_o_a_i_sensor.html", null ],
+    [ "MOAIShader", "class_m_o_a_i_shader.html", null ],
     [ "MOAIShaderMgr", "class_m_o_a_i_shader_mgr.html", [
-      [ "DECK2D_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba9ca624ef58ef21f46e762bd9f83db02b", null ],
-      [ "DECK2D_SNAPPING_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba7d6ac6e17793f3e4c19efe6755cbf56e", null ],
-      [ "DECK2D_TEX_ONLY_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba067b83400feae5f7db717cdaacdb842a", null ],
-      [ "FONT_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba1804cde964a77eb7b14694f87c4dc9ad", null ],
-      [ "FONT_SNAPPING_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba06c7941e5266936ea9d1b7b851363a42", null ],
-      [ "FONT_EFFECTS_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66badfe87669ac86433db6e39eb3705fdb19", null ],
-      [ "LINE_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba60e7aa604818706c20a1e07ac850e1ff", null ],
-      [ "LINE_SHADER_3D", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba7a05725ec2a96f67081e841874b11ac9", null ],
-      [ "MESH_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba1b187d7281172f2e083f78fcf96ec44e", null ],
-      [ "TOTAL_SHADERS", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66baf5bad54f548afa00de83d96157694f5d", null ],
-      [ "UNKNOWN_SHADER", "class_m_o_a_i_shader_mgr.html#aaa1faf9307efabe7471b4443de4ba66ba1c4b93daf323e9329f2dcc0a81d9f905", null ],
       [ "getProgram", "class_m_o_a_i_shader_mgr.html#a3528c53a03ed253ac188931480483baa", null ]
     ] ],
     [ "MOAIShaderProgram", "class_m_o_a_i_shader_program.html", [
-      [ "GLOBAL_NONE", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a4bcf38c10950ec817f3ac59db90c2c8e", null ],
-      [ "GLOBAL_PEN_COLOR", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a33a318d31300b53e37351fcb8b43a934", null ],
-      [ "GLOBAL_VIEW_PROJ", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923ab7fbea8fffcf935fbc3907657c89df40", null ],
-      [ "GLOBAL_VIEW_WIDTH", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923aa49a7afc8fe463d58bde246a966d3bc5", null ],
-      [ "GLOBAL_VIEW_HEIGHT", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a81640f357b69f711b5cb251015c6dbe5", null ],
-      [ "GLOBAL_VIEW_HALF_WIDTH", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a3c8fd978ecdd01b609a466ea36fd4a4c", null ],
-      [ "GLOBAL_VIEW_HALF_HEIGHT", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923ad6053123a60b243f9a4d3517aa68f0e1", null ],
-      [ "GLOBAL_WORLD", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a03af48a2c34e435582cfc93237ff0e88", null ],
-      [ "GLOBAL_WORLD_INVERSE", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a6b86daf944e664c8d222516610c2b167", null ],
-      [ "GLOBAL_WORLD_VIEW", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a028303ebccf06b635b28cc83a5b72041", null ],
-      [ "GLOBAL_WORLD_VIEW_INVERSE", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923af88253b7f4f25cfd2e0bf78b617ea4ae", null ],
-      [ "GLOBAL_WORLD_VIEW_PROJ", "class_m_o_a_i_shader_program.html#a14061dd054afd472999a4f4f6cdf3923a45d0f4a2e9b2f06e8fa236aad83d78e6", null ],
-      [ "clearUniform", "class_m_o_a_i_shader_program.html#a3e8bd2a4bf5b0c154f664121063b9217", null ],
       [ "declareUniform", "class_m_o_a_i_shader_program.html#a833f476f9dac48b011a9c76fc75546c6", null ],
-      [ "declareUniformFloat", "class_m_o_a_i_shader_program.html#a8c16b3254f11c487597c6cd7fc5ba7cc", null ],
-      [ "declareUniformInt", "class_m_o_a_i_shader_program.html#a7d373eec6309caaebf52a48126a380ae", null ],
-      [ "declareUniformSampler", "class_m_o_a_i_shader_program.html#a457671776275d3cf7b2d919297b385f5", null ],
       [ "load", "class_m_o_a_i_shader_program.html#a78f3f9f98a0f2dcdb35f498287d4545d", null ],
       [ "reserveUniforms", "class_m_o_a_i_shader_program.html#ac256dda18e300e60c524d65a83ebaed5", null ],
       [ "setVertexAttribute", "class_m_o_a_i_shader_program.html#a3737290e63249fe5c8e58d9e144a2dee", null ]
     ] ],
     [ "MOAISim", "class_m_o_a_i_sim.html", [
-      [ "RUNNING", "class_m_o_a_i_sim.html#a0724528cce39d640312f4a7ad1a893f7a1061be6c3fb88d32829cba6f6b2be304", null ],
-      [ "PAUSED", "class_m_o_a_i_sim.html#a0724528cce39d640312f4a7ad1a893f7ad4bb05915de3c370d3a33d4f51389655", null ],
-      [ "START", "class_m_o_a_i_sim.html#a0724528cce39d640312f4a7ad1a893f7a13d000b4d7dc70d90239b7430d1eb6b2", null ],
-      [ "EVENT_FINALIZE", "class_m_o_a_i_sim.html#ac72f7803394f05658258f8a2b76f53aaa33ecfa28c850ff67e80a8fa5c21c4591", null ],
-      [ "EVENT_PAUSE", "class_m_o_a_i_sim.html#ac72f7803394f05658258f8a2b76f53aaa4a95b1a327b7f948875054edc5c2f76b", null ],
-      [ "EVENT_RESUME", "class_m_o_a_i_sim.html#ac72f7803394f05658258f8a2b76f53aaaf77b6485b8436579576b00e374df1cab", null ],
-      [ "EVENT_STEP", "class_m_o_a_i_sim.html#ac72f7803394f05658258f8a2b76f53aaa34a21bc09e86854dfb155f53a46866e4", null ],
-      [ "SIM_LOOP_FORCE_STEP", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2ab0a76db960aa906239bda8c6993d34bf", null ],
-      [ "SIM_LOOP_ALLOW_BOOST", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2ad0565322684985b6026de7800fd93327", null ],
-      [ "SIM_LOOP_ALLOW_SPIN", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2a14a90e817d8cb7b92db45570d787e83c", null ],
-      [ "SIM_LOOP_NO_DEFICIT", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2a24fe22a72bb97db91f4a642473c30d33", null ],
-      [ "SIM_LOOP_NO_SURPLUS", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2aab777510e02767e75f4b34d4f91c4497", null ],
-      [ "SIM_LOOP_LONG_DELAY", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2a8c2326a9b72830160347b961f43a0e89", null ],
-      [ "SIM_LOOP_RESET_CLOCK", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2a228b440a2cdf55d38dfd1e48c0257ba1", null ],
-      [ "SIM_LOOP_ALLOW_SOAK", "class_m_o_a_i_sim.html#a425be5f49e9c31d8d13d53190a3e7bc2a24308b03065670abc9a275425822cd59", null ],
       [ "clearLoopFlags", "class_m_o_a_i_sim.html#a81f8d0e669d38396340bcf924ae3e6b2", null ],
       [ "clearRenderStack", "class_m_o_a_i_sim.html#ac36fcbf53fb99cf3cae86738027d3c89", null ],
       [ "crash", "class_m_o_a_i_sim.html#ab6e4c1d1a205ffae59142570ffb9dae6", null ],
@@ -1012,15 +597,23 @@ var group__moai_sim =
       [ "showCursor", "class_m_o_a_i_sim.html#ac0fbe57b9eafc16bd5996e74cc7d07a1", null ],
       [ "timeToFrames", "class_m_o_a_i_sim.html#a8e060190191baa6e4d8346ba92e700d8", null ]
     ] ],
-    [ "MOAISingleTexture", "class_m_o_a_i_single_texture.html", [
-      [ "getSize", "class_m_o_a_i_single_texture.html#a6c1c06c16fc8d9d5d89ba93584996e44", null ],
-      [ "release", "class_m_o_a_i_single_texture.html#a0b81ec9a1a8b4f32a4503d930734d1bf", null ],
-      [ "setDebugName", "class_m_o_a_i_single_texture.html#a945445b9c3408e70fce52a91fc50688b", null ],
-      [ "setFilter", "class_m_o_a_i_single_texture.html#a410942e3eb4f03f02bc23f2abd897a87", null ],
-      [ "setWrap", "class_m_o_a_i_single_texture.html#a70e9a36c1583fb08d31eb8eff075b91c", null ]
-    ] ],
-    [ "MOAIStandardDeck", "class_m_o_a_i_standard_deck.html", [
-      [ "setBoundsDeck", "class_m_o_a_i_standard_deck.html#a9fa8a692b16a0211ef0683e49180a116", null ]
+    [ "MOAISpriteDeck2D", "class_m_o_a_i_sprite_deck2_d.html", [
+      [ "getQuad", "class_m_o_a_i_sprite_deck2_d.html#ae91c8511386bc50846c39cde6249261c", null ],
+      [ "getRect", "class_m_o_a_i_sprite_deck2_d.html#a3a73c3213f7911bb16064373a881d8c5", null ],
+      [ "getUVQuad", "class_m_o_a_i_sprite_deck2_d.html#a8b8ef9cf5550b6cc056810567c6d9fef", null ],
+      [ "getUVRect", "class_m_o_a_i_sprite_deck2_d.html#a3d23b424f607710dea7d0e316d95a4ed", null ],
+      [ "reserveQuads", "class_m_o_a_i_sprite_deck2_d.html#aad8c8eb5d47af3aece9392163f17fabd", null ],
+      [ "reserveSpriteLists", "class_m_o_a_i_sprite_deck2_d.html#ac6ba620c1de409233f5f04504bf2a423", null ],
+      [ "reserveSprites", "class_m_o_a_i_sprite_deck2_d.html#ad2e3a45698190b3581e834f1b380441d", null ],
+      [ "reserveUVQuads", "class_m_o_a_i_sprite_deck2_d.html#a268a6a94dcdba22ac6109f17fc66b659", null ],
+      [ "setQuad", "class_m_o_a_i_sprite_deck2_d.html#a53012137822dd626f153353fcbbb9edc", null ],
+      [ "setRect", "class_m_o_a_i_sprite_deck2_d.html#af878ca354021390a4d3ab58cc51ea621", null ],
+      [ "setSprite", "class_m_o_a_i_sprite_deck2_d.html#a08811ceb1971404cb37f00136149ea5e", null ],
+      [ "setSpriteList", "class_m_o_a_i_sprite_deck2_d.html#a00ed9b489dd2bcda4faae95ff4a464a6", null ],
+      [ "setUVQuad", "class_m_o_a_i_sprite_deck2_d.html#ad6e7e69cc3acf391abe4c8959f364a34", null ],
+      [ "setUVRect", "class_m_o_a_i_sprite_deck2_d.html#a2b11a6282e37257e44c8d1788712a64e", null ],
+      [ "transform", "class_m_o_a_i_sprite_deck2_d.html#ad09bd9eed9378f9b861353c25dab11a3", null ],
+      [ "transformUV", "class_m_o_a_i_sprite_deck2_d.html#a48f2c30d49b9c3da1700e3d5fb9997af", null ]
     ] ],
     [ "MOAIStaticGlyphCache", "class_m_o_a_i_static_glyph_cache.html", null ],
     [ "MOAIStretchPatch2D", "class_m_o_a_i_stretch_patch2_d.html", [
@@ -1032,11 +625,6 @@ var group__moai_sim =
       [ "setRow", "class_m_o_a_i_stretch_patch2_d.html#a472de66ec7ad18d9d9bc204257f9f9ee", null ],
       [ "setUVRect", "class_m_o_a_i_stretch_patch2_d.html#a2b11a6282e37257e44c8d1788712a64e", null ]
     ] ],
-    [ "MOAISurfaceDeck2D", "class_m_o_a_i_surface_deck2_d.html", [
-      [ "reserveSurfaceLists", "class_m_o_a_i_surface_deck2_d.html#a14b538c35c3204e0dd6e96b74c5062ae", null ],
-      [ "reserveSurfaces", "class_m_o_a_i_surface_deck2_d.html#aa4de659fd8ab4c07617c9e80383b6d25", null ],
-      [ "setSurface", "class_m_o_a_i_surface_deck2_d.html#a42a64de6631ca96195a8f4d298a3ece0", null ]
-    ] ],
     [ "MOAITextBundle", "class_m_o_a_i_text_bundle.html", [
       [ "load", "class_m_o_a_i_text_bundle.html#a78f3f9f98a0f2dcdb35f498287d4545d", null ],
       [ "lookup", "class_m_o_a_i_text_bundle.html#ad9115a066f772eedd504494a8150fd00", null ]
@@ -1047,7 +635,9 @@ var group__moai_sim =
       [ "getAlignment", "class_m_o_a_i_text_label.html#afbfad83d57582042addc8677bb436330", null ],
       [ "getGlyphScale", "class_m_o_a_i_text_label.html#ab9c4775a02867ead3f17d661b170fd50", null ],
       [ "getLineSpacing", "class_m_o_a_i_text_label.html#a2b313aeeb5e45dfe55c6b519894233b0", null ],
+      [ "getOverrunRules", "class_m_o_a_i_text_label.html#ae5e0a2dfa56a2901fdd8ce283f581bb0", null ],
       [ "getRect", "class_m_o_a_i_text_label.html#a3a73c3213f7911bb16064373a881d8c5", null ],
+      [ "getSizingRules", "class_m_o_a_i_text_label.html#a471d23cb95756d4f3a6918b663f7233e", null ],
       [ "getStyle", "class_m_o_a_i_text_label.html#ad9cc74f810a960be215451418d824d2d", null ],
       [ "getText", "class_m_o_a_i_text_label.html#a1094da7e85a4491e132e45340e140904", null ],
       [ "getTextBounds", "class_m_o_a_i_text_label.html#aae4150e8f2df4833676fa0933eb69a96", null ],
@@ -1064,9 +654,11 @@ var group__moai_sim =
       [ "setHighlight", "class_m_o_a_i_text_label.html#a893337485051f2bda9d1063948af6e61", null ],
       [ "setLineSnap", "class_m_o_a_i_text_label.html#a7f135a2322f82018912a2e27ea4ec3a7", null ],
       [ "setLineSpacing", "class_m_o_a_i_text_label.html#a0d25d981c02e7ec229cb2ae9be247e25", null ],
+      [ "setOverrunRules", "class_m_o_a_i_text_label.html#a97c9030a65e1e55c5e79a793ef130a63", null ],
       [ "setRect", "class_m_o_a_i_text_label.html#af878ca354021390a4d3ab58cc51ea621", null ],
       [ "setRectLimits", "class_m_o_a_i_text_label.html#a8a1d458456ebc12f6d0a641261c716d7", null ],
       [ "setReveal", "class_m_o_a_i_text_label.html#af4ce224a0109afd5330d6097520a3a93", null ],
+      [ "setSizingRules", "class_m_o_a_i_text_label.html#a4ef080074703ffb2b30dd885aa89dcd6", null ],
       [ "setSpeed", "class_m_o_a_i_text_label.html#a2206ffa80242997464198e9129ff51d2", null ],
       [ "setStyle", "class_m_o_a_i_text_label.html#af6bd05af14d2ab053ca0cea58c725404", null ],
       [ "setText", "class_m_o_a_i_text_label.html#a70b51afcbcae58ad051bd625450f57ce", null ],
@@ -1090,6 +682,13 @@ var group__moai_sim =
     [ "MOAITexture", "class_m_o_a_i_texture.html", [
       [ "load", "class_m_o_a_i_texture.html#a78f3f9f98a0f2dcdb35f498287d4545d", null ]
     ] ],
+    [ "MOAITextureBase", "class_m_o_a_i_texture_base.html", [
+      [ "getSize", "class_m_o_a_i_texture_base.html#a6c1c06c16fc8d9d5d89ba93584996e44", null ],
+      [ "release", "class_m_o_a_i_texture_base.html#a0b81ec9a1a8b4f32a4503d930734d1bf", null ],
+      [ "setDebugName", "class_m_o_a_i_texture_base.html#a945445b9c3408e70fce52a91fc50688b", null ],
+      [ "setFilter", "class_m_o_a_i_texture_base.html#a410942e3eb4f03f02bc23f2abd897a87", null ],
+      [ "setWrap", "class_m_o_a_i_texture_base.html#a70e9a36c1583fb08d31eb8eff075b91c", null ]
+    ] ],
     [ "MOAITileDeck2D", "class_m_o_a_i_tile_deck2_d.html", [
       [ "setQuad", "class_m_o_a_i_tile_deck2_d.html#a53012137822dd626f153353fcbbb9edc", null ],
       [ "setRect", "class_m_o_a_i_tile_deck2_d.html#af878ca354021390a4d3ab58cc51ea621", null ],
@@ -1100,23 +699,6 @@ var group__moai_sim =
       [ "transformUV", "class_m_o_a_i_tile_deck2_d.html#a48f2c30d49b9c3da1700e3d5fb9997af", null ]
     ] ],
     [ "MOAITimer", "class_m_o_a_i_timer.html", [
-      [ "ATTR_TIME", "class_m_o_a_i_timer.html#a3d01b665f7e924f5f97fa41f5879c7f7ad4dc69dfe667197925f278cda8ec39d6", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_timer.html#a3d01b665f7e924f5f97fa41f5879c7f7a8ee61da7f9c53c2464c6de96de1f040e", null ],
-      [ "EVENT_TIMER_KEYFRAME", "class_m_o_a_i_timer.html#a49b1d57ca8b026018a74c3dcb2779740aca2acb456b0776251dc50408f504ed31", null ],
-      [ "EVENT_TIMER_LOOP", "class_m_o_a_i_timer.html#a49b1d57ca8b026018a74c3dcb2779740aa05440ca4dd3ce80412f574aec8ed956", null ],
-      [ "EVENT_TIMER_BEGIN_SPAN", "class_m_o_a_i_timer.html#a49b1d57ca8b026018a74c3dcb2779740a04e1aa2bb3e0b12ea0b6d64cdc1e4c34", null ],
-      [ "EVENT_TIMER_END_SPAN", "class_m_o_a_i_timer.html#a49b1d57ca8b026018a74c3dcb2779740a2d55ad657a974d51330796ba5acd45d1", null ],
-      [ "TOTAL_EVENTS", "class_m_o_a_i_timer.html#a49b1d57ca8b026018a74c3dcb2779740a42fbb134ff91389a000faa8cda2bf844", [
-        [ "EMITTER_GRAVITY", "class_m_o_a_i_particle_pex_plugin.html#a02b9842e77a9f98c00982139def9a37ba84d2da6f4e4ee53a133c3893c96ff479", null ],
-        [ "EMITTER_RADIAL", "class_m_o_a_i_particle_pex_plugin.html#a02b9842e77a9f98c00982139def9a37ba5926f73125f5ece5453923764e97da70", null ],
-        [ "NORMAL", "class_m_o_a_i_timer.html#aed9a35f11d8cfb1d9946754d01e46ee5a50d1448013c6f17125caee18aa418af7", null ],
-        [ "REVERSE", "class_m_o_a_i_timer.html#aed9a35f11d8cfb1d9946754d01e46ee5a906b7cc20b42994dda4da492767c1de9", null ],
-        [ "CONTINUE", "class_m_o_a_i_timer.html#aed9a35f11d8cfb1d9946754d01e46ee5a49959dd441dcda75d6898cf2c68fb374", null ],
-        [ "CONTINUE_REVERSE", "class_m_o_a_i_timer.html#aed9a35f11d8cfb1d9946754d01e46ee5a8ee7590dab93f5fa36753ac0b1a01f05", null ],
-        [ "LOOP", "class_m_o_a_i_timer.html#aed9a35f11d8cfb1d9946754d01e46ee5a61f7f1587bd5fe978d9ff3ece8d0624c", null ],
-        [ "LOOP_REVERSE", "class_m_o_a_i_timer.html#aed9a35f11d8cfb1d9946754d01e46ee5a409f3ec978ef439bbaea25851868c5b5", null ],
-        [ "PING_PONG", "class_m_o_a_i_timer.html#aed9a35f11d8cfb1d9946754d01e46ee5a162aa5cd01138ca135d07a9393137fe1", null ]
-      ] ],
       [ "getSpeed", "class_m_o_a_i_timer.html#a9104ade64948b92709fecf06bb62c425", null ],
       [ "getTime", "class_m_o_a_i_timer.html#a28d749ecfe6cde58218b26555eae0de2", null ],
       [ "getTimesExecuted", "class_m_o_a_i_timer.html#a0ece83c648fb20f7573651f876126c25", null ],
@@ -1128,13 +710,6 @@ var group__moai_sim =
       [ "toggleDirection", "class_m_o_a_i_timer.html#a6be77a360a9917d39703f82419361a99", null ]
     ] ],
     [ "MOAITouchSensor", "class_m_o_a_i_touch_sensor.html", [
-      [ "IS_DOWN", "class_m_o_a_i_touch_sensor.html#a12acb3634428eafc5724df6d836f4e64adde4a55689a9b6c30007851ddea91040", null ],
-      [ "DOWN", "class_m_o_a_i_touch_sensor.html#a12acb3634428eafc5724df6d836f4e64a9b0b4a95b99523966e0e34ffdadac9da", null ],
-      [ "UP", "class_m_o_a_i_touch_sensor.html#a12acb3634428eafc5724df6d836f4e64aba595d8bca8bc5e67c37c0a9d89becfa", null ],
-      [ "TOUCH_DOWN", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64a9b9626b3c6c2fb5d2731f3751a0f42d5", null ],
-      [ "TOUCH_MOVE", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64a744fb6f69db9d3e132fe29477c6b8e93", null ],
-      [ "TOUCH_UP", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64a90884c2f9baa25f5107bfa334297fce3", null ],
-      [ "TOUCH_CANCEL", "class_m_o_a_i_touch_sensor.html#adab0c4467b3c6f365e87d0316a74bf64aa6e29710bad060bcaf71dc5f1afa4e65", null ],
       [ "countTouches", "class_m_o_a_i_touch_sensor.html#ab0bb0f5f3660b2ec9cfe64a64e8f480a", null ],
       [ "down", "class_m_o_a_i_touch_sensor.html#a378f88d5140456c39f0edf4edd7a1cb9", null ],
       [ "getActiveTouches", "class_m_o_a_i_touch_sensor.html#a42104aba4b79a7547b497b7a0f93ec87", null ],
@@ -1149,27 +724,6 @@ var group__moai_sim =
       [ "up", "class_m_o_a_i_touch_sensor.html#a538e44afa52c3d6599adfd9b46d5b805", null ]
     ] ],
     [ "MOAITransform", "class_m_o_a_i_transform.html", [
-      [ "EULER_XYZ", "class_m_o_a_i_transform.html#ac8dc960ed0e83a06356ee2589564f7a9a7e234152b713ef3d8c01c866d6771238", null ],
-      [ "EULER_XZY", "class_m_o_a_i_transform.html#ac8dc960ed0e83a06356ee2589564f7a9aa15f3dfc652d85916663027c4d07c3ee", null ],
-      [ "EULER_YXZ", "class_m_o_a_i_transform.html#ac8dc960ed0e83a06356ee2589564f7a9a30d6d03b939b58e6bb0e6a991677910d", null ],
-      [ "EULER_YZX", "class_m_o_a_i_transform.html#ac8dc960ed0e83a06356ee2589564f7a9abf7d6ae881bd10e007b54587991a84a6", null ],
-      [ "EULER_ZXY", "class_m_o_a_i_transform.html#ac8dc960ed0e83a06356ee2589564f7a9a20a231e59d87a21229db2eb543dfc598", null ],
-      [ "EULER_ZYX", "class_m_o_a_i_transform.html#ac8dc960ed0e83a06356ee2589564f7a9a4a876418a013e89da4b5486da5767fe3", null ],
-      [ "ATTR_X_PIV", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64ad17f51a4ed901d507f217a899804a476", null ],
-      [ "ATTR_Y_PIV", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64abcb301601a82e39325b5443524baa484", null ],
-      [ "ATTR_Z_PIV", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64aa2d3c99b3f09b462759b34435000e790", null ],
-      [ "ATTR_X_LOC", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64acf5a362b285335db0cf7bfc170b79af5", null ],
-      [ "ATTR_Y_LOC", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64ae04542bdf3fcf2a4269f06c82bce3bc0", null ],
-      [ "ATTR_Z_LOC", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a032866340d2ca7046264b830676d90b7", null ],
-      [ "ATTR_X_ROT", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a40f1ef134dfb38424194185c3b7c64a8", null ],
-      [ "ATTR_Y_ROT", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64ad45b32db8b147af289617ba98f1a4fa8", null ],
-      [ "ATTR_Z_ROT", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64ab69c6e585ee27494f6b4b8aa3e0569d8", null ],
-      [ "ATTR_X_SCL", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a46187ff376bf793f27b368a87300c4a3", null ],
-      [ "ATTR_Y_SCL", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a0a515dc879a578fc35802ed3085978ca", null ],
-      [ "ATTR_Z_SCL", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a5de0c3a828bee831f5c5ffe1dc314081", null ],
-      [ "ATTR_ROTATE_QUAT", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a70f72833ec712248e6de2f302d85b9de", null ],
-      [ "ATTR_TRANSLATE", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a0e8f215aae9d33be9f17e1e9106eaf6b", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_transform.html#a755c96456945ef03bae544705e8cca64a8ee61da7f9c53c2464c6de96de1f040e", null ],
       [ "addLoc", "class_m_o_a_i_transform.html#abf6fc99c739a4d647387cac821ea154a", null ],
       [ "addPiv", "class_m_o_a_i_transform.html#a051b1f42a0a6f86a5445786d6d4c3a18", null ],
       [ "addRot", "class_m_o_a_i_transform.html#a92350e9ce4c06d71be66adaa0b3de2d1", null ],
@@ -1196,45 +750,7 @@ var group__moai_sim =
       [ "setShearByY", "class_m_o_a_i_transform.html#a91cd658c4d0b2ed66fcf684f2b64f0ed", null ],
       [ "setShearByZ", "class_m_o_a_i_transform.html#a45141209e8752423c7de683cff7c5a4e", null ]
     ] ],
-    [ "MOAITransform2D", "class_m_o_a_i_transform2_d.html", [
-      [ "addLoc", "class_m_o_a_i_transform2_d.html#abca53fed1deec45023d9df6db23a0fca", null ],
-      [ "addPiv", "class_m_o_a_i_transform2_d.html#a051b1f42a0a6f86a5445786d6d4c3a18", null ],
-      [ "addRot", "class_m_o_a_i_transform2_d.html#a92350e9ce4c06d71be66adaa0b3de2d1", null ],
-      [ "addScl", "class_m_o_a_i_transform2_d.html#ac7ec6e13122d789a4860b53982540daa", null ],
-      [ "getLoc", "class_m_o_a_i_transform2_d.html#a43c4833fc0dcfb14ed251243ec290bd4", null ],
-      [ "getPiv", "class_m_o_a_i_transform2_d.html#ad21457aab2ad7ca259773b1bf8eb0689", null ],
-      [ "getRot", "class_m_o_a_i_transform2_d.html#a839e78597db70f82b7a412d39a042284", null ],
-      [ "getScl", "class_m_o_a_i_transform2_d.html#ab0149054dac63166b4d674b7a7696451", null ],
-      [ "modelToWorld", "class_m_o_a_i_transform2_d.html#a402df6e5c897a8fccdee1dd5ec4ac58d", null ],
-      [ "move", "class_m_o_a_i_transform2_d.html#a7058211b0d1a233d7432c6a8b3434eb1", null ],
-      [ "moveLoc", "class_m_o_a_i_transform2_d.html#a439c457ca8be7320f02c3e83837b85c1", null ],
-      [ "movePiv", "class_m_o_a_i_transform2_d.html#a9a0eadcd8d4a4a06187e883646690062", null ],
-      [ "moveRot", "class_m_o_a_i_transform2_d.html#a9bfd30ec71449896dfe2a3c989e1a867", null ],
-      [ "moveScl", "class_m_o_a_i_transform2_d.html#a1d7997ca9c9557083bfc4e2ca61a241f", null ],
-      [ "seek", "class_m_o_a_i_transform2_d.html#a0fe5ef3017089a8ad8cdeb351ad6804f", null ],
-      [ "seekLoc", "class_m_o_a_i_transform2_d.html#af3b31351c5bd835c779a94998394b578", null ],
-      [ "seekPiv", "class_m_o_a_i_transform2_d.html#a12f87857fbe046eaa422603fb3de04a9", null ],
-      [ "seekRot", "class_m_o_a_i_transform2_d.html#ae24070a946d3b11431945fa88d866e58", null ],
-      [ "seekScl", "class_m_o_a_i_transform2_d.html#a8c18aa0b718d76a5c7bf4e0e4e860fde", null ],
-      [ "setLoc", "class_m_o_a_i_transform2_d.html#a337eb65bb4eb4f4fb7b1b5a952009f18", null ],
-      [ "setParent", "class_m_o_a_i_transform2_d.html#a5ce1a849c101b5d562ec4c60c258ec1b", null ],
-      [ "setPiv", "class_m_o_a_i_transform2_d.html#a143b3068f2c5a223bbfacdb510e61636", null ],
-      [ "setRot", "class_m_o_a_i_transform2_d.html#a9f44519d5b71ec00703c9b4f0d5eac56", null ],
-      [ "setScl", "class_m_o_a_i_transform2_d.html#a4bf66568515cfafc6121a347d1f467e1", null ],
-      [ "worldToModel", "class_m_o_a_i_transform2_d.html#a805b89a6340a5002dec1b6c0d7173736", null ]
-    ] ],
     [ "MOAITransformBase", "class_m_o_a_i_transform_base.html", [
-      [ "ATTR_WORLD_X_LOC", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210a816733f292932de4a34d969ed97f3ba7", null ],
-      [ "ATTR_WORLD_Y_LOC", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210a108b6c65f3fc2a7c04699d482597a619", null ],
-      [ "ATTR_WORLD_Z_LOC", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210a757f5e6dec3da6d0a00c30670b73a8d7", null ],
-      [ "ATTR_WORLD_Z_ROT", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210ab2c8223b7b27a3ceb06518b80d70756a", null ],
-      [ "ATTR_WORLD_X_SCL", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210ae9e4e332467c7a714e44f422258c2a3b", null ],
-      [ "ATTR_WORLD_Y_SCL", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210aece1c6b4784f454cb67a2b73121a7bd8", null ],
-      [ "ATTR_WORLD_Z_SCL", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210a82ce76635c1f0d16b7ef57d556ab6d36", null ],
-      [ "TRANSFORM_TRAIT", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210a2b8d903f5f22ea24c2a0b46022fabc0a", null ],
-      [ "INHERIT_LOC", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210a4c7bdd5e0f8874baef2f803717760a77", null ],
-      [ "INHERIT_TRANSFORM", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210abba40707b71c175090c156fd31727062", null ],
-      [ "TOTAL_ATTR", "class_m_o_a_i_transform_base.html#abc1a2abf1bf92c4036064143db1c8210a8ee61da7f9c53c2464c6de96de1f040e", null ],
       [ "getWorldDir", "class_m_o_a_i_transform_base.html#ae429bd4a767400032fcb94d03f3221cc", null ],
       [ "getWorldLoc", "class_m_o_a_i_transform_base.html#a8ca6d632968e0c6a2093ba80284914d3", null ],
       [ "getWorldRot", "class_m_o_a_i_transform_base.html#ad62a7577c92a91489e4e7a1f7ce99f07", null ],
@@ -1249,21 +765,17 @@ var group__moai_sim =
       [ "setParent", "class_m_o_a_i_transform_base.html#a5ce1a849c101b5d562ec4c60c258ec1b", null ],
       [ "worldToModel", "class_m_o_a_i_transform_base.html#a805b89a6340a5002dec1b6c0d7173736", null ]
     ] ],
-    [ "MOAIVectorTesselator", "class_m_o_a_i_vector_tesselator.html", [
-      [ "VERTEX_SIZE", "class_m_o_a_i_vector_tesselator.html#a282841548f1d79a386bbeb4172ebf942adce4f9d68ae06b224ff05585c37cbaf7", null ]
+    [ "MOAIVectorSensor", "class_m_o_a_i_vector_sensor.html", [
+      [ "getVector", "class_m_o_a_i_vector_sensor.html#a436a700812a4f4c9d36f0247f89717c4", null ],
+      [ "setCallback", "class_m_o_a_i_vector_sensor.html#a114d23a5f65965ebcee37cbd9330fffa", null ]
     ] ],
+    [ "MOAIVectorTesselator", "class_m_o_a_i_vector_tesselator.html", null ],
     [ "MOAIVertexBuffer", "class_m_o_a_i_vertex_buffer.html", [
       [ "computeBounds", "class_m_o_a_i_vertex_buffer.html#a99b2409bf7e819803ac404454257f21f", null ],
       [ "countElements", "class_m_o_a_i_vertex_buffer.html#a0a5eeceff72fd308f56313f03fae29f6", null ],
       [ "printVertices", "class_m_o_a_i_vertex_buffer.html#a9a3cb35d733f161552a35845168147bd", null ]
     ] ],
     [ "MOAIVertexFormat", "class_m_o_a_i_vertex_format.html", [
-      [ "ARRAY_COLOR", "class_m_o_a_i_vertex_format.html#af9e099c537bf634041abbe01e4c83422a0691f81c5b2aa1e86574d717d1c41c60", null ],
-      [ "ARRAY_NORMAL", "class_m_o_a_i_vertex_format.html#af9e099c537bf634041abbe01e4c83422a8d67f7e8d10880f3c8f2abf24b29dfa3", null ],
-      [ "ARRAY_TEX_COORD", "class_m_o_a_i_vertex_format.html#af9e099c537bf634041abbe01e4c83422ae57cc19bc4d024a377f6bd05bf2b3059", null ],
-      [ "ARRAY_VERTEX", "class_m_o_a_i_vertex_format.html#af9e099c537bf634041abbe01e4c83422a0f4072fa2045a22adc2d8257cb12ecc8", null ],
-      [ "TOTAL_ARRAY_TYPES", "class_m_o_a_i_vertex_format.html#af9e099c537bf634041abbe01e4c83422a0c572ba2e77732d50ede7258ef3ea73a", null ],
-      [ "VERTEX_USE_TUPLE", "class_m_o_a_i_vertex_format.html#af9e099c537bf634041abbe01e4c83422a75edc99687e3b9f249d7a3ab30739a4d", null ],
       [ "declareAttribute", "class_m_o_a_i_vertex_format.html#a5e0cde24445ef770d2b3f6c774ef6685", null ],
       [ "declareColor", "class_m_o_a_i_vertex_format.html#a3703085308cac08f3c44ae68d9269e7d", null ],
       [ "declareCoord", "class_m_o_a_i_vertex_format.html#af16e8223642deca1cf1d2274e85aebd5", null ],

@@ -1,12 +1,11 @@
 <map id="MOAITextLabel" name="MOAITextLabel">
-<area shape="rect" id="node2" href="$class_m_o_a_i_graphics_prop.html" title="Base class for graphics props. " alt="" coords="130,453,270,480"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_prop.html" title="Base class for props. " alt="" coords="31,379,115,405"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_transform.html" title="Transformation hierarchy node. " alt="" coords="13,304,133,331"/>
-<area shape="rect" id="node5" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="5,229,157,256"/>
-<area shape="rect" id="node6" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="157,155,246,181"/>
-<area shape="rect" id="node9" href="$class_m_o_a_i_color.html" title="Color vector with animation helper methods. " alt="" coords="157,304,245,331"/>
-<area shape="rect" id="node7" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="157,80,347,107"/>
-<area shape="rect" id="node11" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="274,229,369,256"/>
-<area shape="rect" id="node8" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="184,5,320,32"/>
-<area shape="rect" id="node10" href="$class_m_o_a_i_renderable.html" title="Abstract base class for objects that can be rendered by MOAIRenderMgr. " alt="" coords="191,379,318,405"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_graphics_prop_base.html" title="Base class for graphics props. " alt="" coords="81,453,235,480"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_partition_hull.html" title="Base class for props. " alt="" coords="16,379,137,405"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_transform.html" title="Transformation hierarchy node. " alt="" coords="13,304,127,331"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_transform_base.html" title="Base class for 2D affine transforms. " alt="" coords="5,229,145,256"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="150,155,233,181"/>
+<area shape="rect" id="node9" href="$class_m_o_a_i_color.html" title="Color vector with animation helper methods. " alt="" coords="151,304,234,331"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="144,80,316,107"/>
+<area shape="rect" id="node10" href="$class_m_o_a_i_action.html" title="Base class for actions. " alt="" coords="229,229,317,256"/>
+<area shape="rect" id="node8" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="168,5,292,32"/>
 </map>

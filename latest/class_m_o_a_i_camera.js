@@ -1,10 +1,5 @@
 var class_m_o_a_i_camera =
 [
-    [ "CAMERA_TYPE_3D", "class_m_o_a_i_camera.html#a2dbb833ef0dcc466dd02ee76badaf709a88a5b907d517a2170883f648069a5c6d", null ],
-    [ "CAMERA_TYPE_ORTHO", "class_m_o_a_i_camera.html#a2dbb833ef0dcc466dd02ee76badaf709a7038ded8b17fb42980caf55bfe41c578", null ],
-    [ "CAMERA_TYPE_WINDOW", "class_m_o_a_i_camera.html#a2dbb833ef0dcc466dd02ee76badaf709ae2a36f3900970872fa5d3608f07aeb2b", null ],
-    [ "ATTR_FOV", "class_m_o_a_i_camera.html#aea33efd5e2c69d615faad5c5965510aaac4811add4f8f8cad6c56cb7191816c3f", null ],
-    [ "TOTAL_ATTR", "class_m_o_a_i_camera.html#aea33efd5e2c69d615faad5c5965510aaa8ee61da7f9c53c2464c6de96de1f040e", null ],
     [ "getFarPlane", "class_m_o_a_i_camera.html#a961c86e9fcc4d65817204716b94e0b68", null ],
     [ "getFieldOfView", "class_m_o_a_i_camera.html#ae66278c2a3a1f90a1d33aab32eabd1e4", null ],
     [ "getFloorMove", "class_m_o_a_i_camera.html#a0eb0d2878f565aff0cfbc34ad38d9397", null ],

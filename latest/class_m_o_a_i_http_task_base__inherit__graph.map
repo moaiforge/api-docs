@@ -1,4 +1,4 @@
 <map id="MOAIHttpTaskBase" name="MOAIHttpTaskBase">
-<area shape="rect" id="node2" href="$class_m_o_a_i_http_task_na_cl.html" title="Implementation of MOAIHttpTask based on NaCl. " alt="" coords="5,80,148,107"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_http_task_n_s_u_r_l.html" title="Implementation of MOAIHttpTask based on libcurl. " alt="" coords="172,80,328,107"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_http_task_na_cl.html" title="Implementation of MOAIHttpTask based on NaCl. " alt="" coords="5,80,135,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_http_task_n_s_u_r_l.html" title="Implementation of MOAIHttpTask based on libcurl. " alt="" coords="159,80,301,107"/>
 </map>

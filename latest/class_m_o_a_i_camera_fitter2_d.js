@@ -1,10 +1,5 @@
 var class_m_o_a_i_camera_fitter2_d =
 [
-    [ "FITTING_MODE_SEEK_LOC", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a2d89657661db8446d046916279c747c9", null ],
-    [ "FITTING_MODE_SEEK_SCALE", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a35d5c7ee47a40283b23ba4468dc85419", null ],
-    [ "FITTING_MODE_APPLY_ANCHORS", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8ad47d122b0d9f9166cc1e8bdaf81a7d79", null ],
-    [ "FITTING_MODE_APPLY_BOUNDS", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a5ad5918b7422aafe91b1c1e694e986eb", null ],
-    [ "FITTING_MODE_MASK", "class_m_o_a_i_camera_fitter2_d.html#a84fe57ba52f8e237004a413b27ea4db8a61ec7a7a91819a5dfdd48104f64170ae", null ],
     [ "clearAnchors", "class_m_o_a_i_camera_fitter2_d.html#afd995b7a1740f2219d7d948d44a01939", null ],
     [ "clearFitMode", "class_m_o_a_i_camera_fitter2_d.html#a1591c31f8877a9dde56c3de07bd81dbc", null ],
     [ "getFitDistance", "class_m_o_a_i_camera_fitter2_d.html#a9b4158fc87b8545841f8f7290d633bc1", null ],
@@ -23,5 +18,7 @@ var class_m_o_a_i_camera_fitter2_d =
     [ "setFitScale", "class_m_o_a_i_camera_fitter2_d.html#a15d2aae9fa28832560d0744a4f53f458", null ],
     [ "setMin", "class_m_o_a_i_camera_fitter2_d.html#ad8a73620c50de441fd4734bb020550f6", null ],
     [ "setViewport", "class_m_o_a_i_camera_fitter2_d.html#ae9e038146b1f1149aa58a94ae76cfad0", null ],
-    [ "snapToTarget", "class_m_o_a_i_camera_fitter2_d.html#a2166bd307fd4ee914342108f86435cde", null ]
+    [ "snapToTarget", "class_m_o_a_i_camera_fitter2_d.html#a2166bd307fd4ee914342108f86435cde", null ],
+    [ "startTrackingNode", "class_m_o_a_i_camera_fitter2_d.html#abce7b0c85702f8ad3d66eda327ab6e39", null ],
+    [ "stopTrackingNode", "class_m_o_a_i_camera_fitter2_d.html#a30bb834fad56e47652ca791fde3a7d91", null ]
 ];

@@ -1,14 +1,5 @@
 var class_m_o_a_i_grid_space =
 [
-    [ "TILE_LEFT_TOP", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004aaee95bab816199cb127a734c1c237ed5", null ],
-    [ "TILE_RIGHT_TOP", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004ada83a396fc29028847725296d3a29f7c", null ],
-    [ "TILE_LEFT_BOTTOM", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a8a7852ce91afeb23e50f0e57a1770143", null ],
-    [ "TILE_RIGHT_BOTTOM", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a1bff689736b7606a9a1ed2f13ee11ba2", null ],
-    [ "TILE_LEFT_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a4a2afda165d32070a3985c618150a476", null ],
-    [ "TILE_RIGHT_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004ada7b05c584de3fe7ead83279d896feac", null ],
-    [ "TILE_TOP_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a56614adbb969a5b63c3581fc25dade5e", null ],
-    [ "TILE_BOTTOM_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a4391283f977c2850383f68ceb8fadd2e", null ],
-    [ "TILE_CENTER", "class_m_o_a_i_grid_space.html#a8420dba71b9cc240cf981b0bef892004a276c187caaf8a7b32dad122a738ce446", null ],
     [ "cellAddrToCoord", "class_m_o_a_i_grid_space.html#a736623b9ae421cab06bc47ebe2b8241f", null ],
     [ "getCellAddr", "class_m_o_a_i_grid_space.html#a950db93394aab6607b111f180052b644", null ],
     [ "getCellSize", "class_m_o_a_i_grid_space.html#aea07464597f5ca7e748555b656c1ed22", null ],

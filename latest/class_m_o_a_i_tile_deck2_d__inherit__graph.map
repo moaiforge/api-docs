@@ -1,6 +1,4 @@
 <map id="MOAITileDeck2D" name="MOAITileDeck2D">
-<area shape="rect" id="node2" href="$class_m_o_a_i_standard_deck.html" title="Base class for decks with standard capabilities (materials, bounds override). " alt="" coords="45,80,191,107"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_deck.html" title="Base class for all decks. " alt="" coords="5,5,92,32"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_material_batch.html" title="This is an indexed set of materials. A material is a shader, a texture and an optional hit mask..." alt="" coords="116,5,259,32"/>
-<area shape="rect" id="node5" href="$class_m_o_a_i_grid_space.html" title="Represents spatial configuration of a grid. The grid is made up of cells. Inside of each cell is a ti..." alt="" coords="216,80,337,107"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_deck.html" title="Base class for all decks. " alt="" coords="5,5,85,32"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_grid_space.html" title="Represents spatial configuration of a grid. The grid is made up of cells. Inside of each cell is a ti..." alt="" coords="110,5,221,32"/>
 </map>

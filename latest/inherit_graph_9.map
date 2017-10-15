@@ -1,4 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_m_o_a_i_global_class.html" title="MOAIGlobalClass\&lt; MOAIBilling\lAndroid, MOAILuaObject \&gt;" alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_billing_android.html" title="Wrapper for in&#45;app purchase integration on Android devices using either Google Play or Amazon..." alt="" coords="268,13,409,39"/>
+<area shape="rect" id="node1" href="$class_m_o_a_i_http_task_base.html" title="Object for performing asynchronous HTTP/HTTPS tasks. " alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_http_task_na_cl.html" title="Implementation of MOAIHttpTask based on NaCl. " alt="" coords="190,5,319,32"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_http_task_n_s_u_r_l.html" title="Implementation of MOAIHttpTask based on libcurl. " alt="" coords="184,56,325,83"/>
 </map>

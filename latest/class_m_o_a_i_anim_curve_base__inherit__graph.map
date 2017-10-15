@@ -1,8 +1,8 @@
 <map id="MOAIAnimCurveBase" name="MOAIAnimCurveBase">
-<area shape="rect" id="node5" href="$class_m_o_a_i_anim_curve.html" title="Implementation of animation curve for floating point values. " alt="" coords="5,304,131,331"/>
-<area shape="rect" id="node6" href="$class_m_o_a_i_anim_curve_quat.html" title="Implementation of animation curve for rotation (via quaternion) values. " alt="" coords="155,304,311,331"/>
-<area shape="rect" id="node7" href="$class_m_o_a_i_anim_curve_vec.html" title="Implementation of animation curve for 3D vector values. " alt="" coords="336,304,485,331"/>
-<area shape="rect" id="node2" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="189,155,278,181"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="138,80,329,107"/>
-<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="165,5,301,32"/>
+<area shape="rect" id="node5" href="$class_m_o_a_i_anim_curve.html" title="Implementation of animation curve for floating point values. " alt="" coords="5,304,120,331"/>
+<area shape="rect" id="node6" href="$class_m_o_a_i_anim_curve_quat.html" title="Implementation of animation curve for rotation (via quaternion) values. " alt="" coords="145,304,287,331"/>
+<area shape="rect" id="node7" href="$class_m_o_a_i_anim_curve_vec.html" title="Implementation of animation curve for 3D vector values. " alt="" coords="312,304,448,331"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_node.html" title="Base for all attribute bearing Moai objects and dependency graph nodes. " alt="" coords="175,155,257,181"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_instance_event_source.html" title="Derivation of MOAIEventSource for non&#45;global Lua objects. " alt="" coords="130,80,302,107"/>
+<area shape="rect" id="node4" href="$class_m_o_a_i_event_source.html" title="Base class for all Lua&#45;bound Moai objects that emit events and have an event table. " alt="" coords="154,5,278,32"/>
 </map>

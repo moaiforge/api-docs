@@ -5,9 +5,6 @@ var group__moai_util =
       [ "open", "class_m_o_a_i_byte_stream.html#a948c455236bf29059491f3813a901126", null ]
     ] ],
     [ "MOAIDataBuffer", "class_m_o_a_i_data_buffer.html", [
-      [ "NO_INFLATE", "class_m_o_a_i_data_buffer.html#a16db4876b192da08f3ad0cb41afe516fa23d9587e5797a94e63af79ad75f8a3b2", null ],
-      [ "FORCE_INFLATE", "class_m_o_a_i_data_buffer.html#a16db4876b192da08f3ad0cb41afe516fa73d9f41dabab0ee2db3451e6bad9d9ba", null ],
-      [ "INFLATE_ON_EXT", "class_m_o_a_i_data_buffer.html#a16db4876b192da08f3ad0cb41afe516fa48fd900abfca020d461632f66c840151", null ],
       [ "base64Decode", "class_m_o_a_i_data_buffer.html#a8148b5038d6c2794b9eaf08c0b47baae", null ],
       [ "base64Encode", "class_m_o_a_i_data_buffer.html#a1f9a2b44cf63f64f0d24f96ef45dda08", null ],
       [ "clear", "class_m_o_a_i_data_buffer.html#ac24081473240efb468d9b16bcd7821ef", null ],
@@ -73,17 +70,6 @@ var group__moai_util =
       [ "open", "class_m_o_a_i_mem_stream.html#a948c455236bf29059491f3813a901126", null ]
     ] ],
     [ "MOAIStream", "class_m_o_a_i_stream.html", [
-      [ "UNKNOWN", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a6ce26a62afab55d7606ad4e92428b30c", null ],
-      [ "SIGNED", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a7efc726d1072390f5ff31166cc4c1b6f", null ],
-      [ "UNSIGNED", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a7165f9a47792f47c718ca128556fb3ae", null ],
-      [ "INT_8", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a6fc4f9c36e4a9e5f0aa94d24038b6733", null ],
-      [ "INT_16", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a9fb655afe62e8d35627428b4938a24a0", null ],
-      [ "INT_32", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a86fc0b96d2ceccd81588d82bc55bdc73", null ],
-      [ "DOUBLE", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a33465d1d419b1074fb259ef444609e92", null ],
-      [ "FLOAT", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a9cf4a0866224b0bb4a7a895da27c9c4c", null ],
-      [ "UINT_8", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4ae9456589e453942071cf6a31d369d901", null ],
-      [ "UINT_16", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a5c02658644f51e1c1c66522bd927b140", null ],
-      [ "UINT_32", "class_m_o_a_i_stream.html#a319d524aadad53dcd886c2bba304ded4a3e6a8efdcf18e66da739b7af03ef3e86", null ],
       [ "collapse", "class_m_o_a_i_stream.html#a7806c80f0a5a5992218e0fdbe012fdd0", null ],
       [ "compact", "class_m_o_a_i_stream.html#a179058f563870ee434e2d193de5e3e1d", null ],
       [ "flush", "class_m_o_a_i_stream.html#afd152c82db3639852da0457989f4fe27", null ],
@@ -93,6 +79,7 @@ var group__moai_util =
       [ "read16", "class_m_o_a_i_stream.html#a8a7a521f10d705452c910f409e81f25a", null ],
       [ "read32", "class_m_o_a_i_stream.html#a6387dc346793169c333c6ec6f6859f15", null ],
       [ "read8", "class_m_o_a_i_stream.html#a28445f146d5d28742a7d2286251e3826", null ],
+      [ "readBoolean", "class_m_o_a_i_stream.html#ae80bb8f1a498e3c44d59721a7b9f7900", null ],
       [ "readDouble", "class_m_o_a_i_stream.html#a416179aaee8380b16ce862ca3139cf8d", null ],
       [ "readFloat", "class_m_o_a_i_stream.html#ac2aa9af2f891cd91e60fa7292d3caa52", null ],
       [ "readFormat", "class_m_o_a_i_stream.html#aac56e8fdb138a97b49a5cbeb411c7663", null ],
@@ -104,6 +91,7 @@ var group__moai_util =
       [ "write16", "class_m_o_a_i_stream.html#a2a88dd24afa8d22186a3b8dc38468fee", null ],
       [ "write32", "class_m_o_a_i_stream.html#af45ae3576702a72df5a3812ed6a8b021", null ],
       [ "write8", "class_m_o_a_i_stream.html#adaec6783e5d25c4cc956539d4470aaff", null ],
+      [ "writeBoolean", "class_m_o_a_i_stream.html#ad218c162aa679ff7804ead1e5975aa18", null ],
       [ "writeColor32", "class_m_o_a_i_stream.html#a258c9c5a2f13d422827ff66370cd84ba", null ],
       [ "writeDouble", "class_m_o_a_i_stream.html#ae36735cc3f1c46efa6ccac0bf36cf296", null ],
       [ "writeFloat", "class_m_o_a_i_stream.html#af4411466f9058de1f4885ff704a86cc6", null ],

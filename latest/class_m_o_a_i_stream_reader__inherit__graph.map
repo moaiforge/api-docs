@@ -1,4 +1,4 @@
 <map id="MOAIStreamReader" name="MOAIStreamReader">
-<area shape="rect" id="node2" href="$class_m_o_a_i_stream_adapter.html" title="MOAIStreamAdapter may be attached to another stream for the purpose of encoding/decoding and/or compr..." alt="" coords="5,80,160,107"/>
-<area shape="rect" id="node3" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="31,5,134,32"/>
+<area shape="rect" id="node2" href="$class_m_o_a_i_stream_adapter.html" title="MOAIStreamAdapter may be attached to another stream for the purpose of encoding/decoding and/or compr..." alt="" coords="5,80,145,107"/>
+<area shape="rect" id="node3" href="$class_m_o_a_i_stream.html" title="Interface for reading/writing binary data. " alt="" coords="28,5,123,32"/>
 </map>

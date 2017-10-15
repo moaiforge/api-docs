@@ -1,7 +1,5 @@
 var class_m_o_a_i_font =
 [
-    [ "FONT_AUTOLOAD_KERNING", "class_m_o_a_i_font.html#a0ae1e3bf78c960c83e2d437efd802058ae2df3ded73618c9ce963d7e3ffe1ab2c", null ],
-    [ "EVENT_RENDER_GLYPH", "class_m_o_a_i_font.html#a01aea4eb01aa6415eee118b5a5ee3dadaba9e6a5e12f2573bcaf3086262fcca7a", null ],
     [ "getCache", "class_m_o_a_i_font.html#aa24ce1c8f8a89178c09f9ea1a1bb26ed", null ],
     [ "getDefaultSize", "class_m_o_a_i_font.html#af5dd1b3a72a015a63e4334b2ecf3fc36", null ],
     [ "getFilename", "class_m_o_a_i_font.html#acd0c04eb1ef89440809965dc993e3bf3", null ],
